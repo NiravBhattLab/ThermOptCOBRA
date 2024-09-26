@@ -7,7 +7,7 @@ clear
 A = importdata('BiggModels.txt');
 for i=1:numel(A)
     load(A{i})
-    [Tcc,TICs,Dir] = ThermOptCC(model,tol);
-    fcc = fastcc(model,1e-4,0);
+    [Tcc,TICs,Dir] = ThermOptCC(model,1e-5);
+    fcc = fastcc(model,1e-5,0);
     save(['./BiggBlkdResults/',A{i}],'Tcc','TICs','Dir','fcc')
 end
