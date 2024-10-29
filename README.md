@@ -3,7 +3,7 @@ Codes for "ThermOptCOBRA: Algorithms for thermodynamically optimal construction 
 
 Authors: Pavan Kumar S and Nirav P Bhatt
 <p align="center">
-  <img src="https://github.com/NiravBhattLab/ThermOptiCOBRA/blob/main/PaperThermOptiCS/Figures/BioRenderFigures/OverviewOfTOCS.png" alt="ThermOptiCS" width="500"/>
+  <img src="https://github.com/NiravBhattLab/ThermOptiCOBRA/blob/main/PaperThermOptCOBRA/Figures/BioRenderFigures/OverviewOfTOCS.png" alt="ThermOptiCS" width="500"/>
 </p>
 
 **PaperThermOptCOBRA:**
