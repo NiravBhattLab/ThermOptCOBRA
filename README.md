@@ -1,5 +1,5 @@
 # ThermOptiCS
-Codes for "ThermOptiCS: Algorithms for cycle-free context-specific model building and analysis"   
+Codes for "ThermOptCOBRA: Algorithms for thermodynamically optimal construction and analysis of constraint-based metabolic models"   
 
 Authors: Pavan Kumar S and Nirav P Bhatt
 <p align="center">
