@@ -1,7 +1,7 @@
 # PaperThermOptCOBRA:
 Codes required to recreate all the results and figures shown in the article
 
-**AGORA_TIC_Results:** Thermodynamically Infeasible Cycles (TICs) identified for 7,186 AGORA2 database models.
+**AGORA_TIC_Results:** Thermodynamically Infeasible Cycles (TICs) identified for 7,186 AGORA2 database models. <br>
 **BiggBlkdResults:** TICs and Thermodynamically feasible directions obtained for 99 BiGG database models.
 **Bigg_With_TOCC_constraints:** TICs obtained after constraining the reaction flux, allowing flux only in thermodynamically feasible directions.
 **ConnectedCompsResults:** Number of connected components obtained in all the models in BiGG database.
