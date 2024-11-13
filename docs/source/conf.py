@@ -21,14 +21,6 @@
 import os # imports os 
 import sys
 
-import sphinx_rtd_theme
-
-sys.path.append('./sphinxext')
-from github_linkcode import github_linkcode_resolve
-
-
-sys.path.append('./')
-sys.path.append('../')
 
 # sys.path.insert(0, os.path.abspath(os.path.join('..', '..', '..')))
 sys.path.insert(0, os.path.abspath('.'))
@@ -45,36 +37,36 @@ sys.path.insert(0, os.path.abspath('.'))
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = [
-    'sphinx.ext.autodoc',
-    'sphinx.ext.napoleon',
-    'sphinxcontrib.matlab',
-    'github',
-    'sphinx.ext.mathjax',
-    'sphinx.ext.linkcode',
-    'sphinxcontrib.fulltoc']
-
-mathjax_path = 'https://cdn.jsdelivr.net/gh/mathjax/MathJax@2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
-matlab_auto_link="all"
+# extensions = [
+#     'sphinx.ext.autodoc',
+#     'sphinx.ext.napoleon',
+#     'sphinxcontrib.matlab',
+#     'github',
+#     'sphinx.ext.mathjax',
+#     'sphinx.ext.linkcode',
+#     'sphinxcontrib.fulltoc']
+extensions = []
+# mathjax_path = 'https://cdn.jsdelivr.net/gh/mathjax/MathJax@2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
+# matlab_auto_link="all"
     
 
-def linkcode_resolve(domain, info):
-    filename = info['module'].replace('.', '/')
-    return 'https://github.com/NiravBhattLab/ThermOptCOBRA/blob/main/'+filename+'/'+info['fullname']+'.m'
+# def linkcode_resolve(domain, info):
+#     filename = info['module'].replace('.', '/')
+#     return 'https://github.com/NiravBhattLab/ThermOptCOBRA/blob/main/'+filename+'/'+info['fullname']+'.m'
 
-napoleon_google_docstring = True
-napoleon_custom_sections = [('INPUTS','params_style'),('INPUT','params_style'),
-                            ('OUTPUTS','params_style'),('OUTPUT','params_style'),
-                            ('REQUIRED INPUTS','params_style'),('REQUIRED INPUT','params_style'),
-                            'Authors',('OPTIONAL INPUTS','params_style'),
-                            ('OPTIONAL INPUT','params_style'),('USAGE','params_style')]
+# napoleon_google_docstring = True
+# napoleon_custom_sections = [('INPUTS','params_style'),('INPUT','params_style'),
+#                             ('OUTPUTS','params_style'),('OUTPUT','params_style'),
+#                             ('REQUIRED INPUTS','params_style'),('REQUIRED INPUT','params_style'),
+#                             'Authors',('OPTIONAL INPUTS','params_style'),
+#                             ('OPTIONAL INPUT','params_style'),('USAGE','params_style')]
 
 
 # autodoc_member_order='groupwise'
-primary_domain = 'mat'
+# primary_domain = 'mat'
 
 # remove path in function names
-add_module_names = False
+# add_module_names = False
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -144,9 +136,9 @@ pygments_style = 'sphinx'
 
 # -- Options for HTML output ----------------------------------------------
 
-html_theme = "sphinx_rtd_theme"
+# html_theme = "sphinx_rtd_theme"
 
-html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+# html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 # html_sidebars = sphinx_cobra_theme.default_sidebars()
 
@@ -156,7 +148,7 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-html_theme_options = {'display_version': False}
+# html_theme_options = {'display_version': False}
 
 # html_context = {'conf_py_path': os.path.join(os.sep, 'docs', 'source', ''),
 #                 'github_user': 'opencobra',
