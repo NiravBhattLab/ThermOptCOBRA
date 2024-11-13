@@ -18,11 +18,6 @@
 import sys
 import os
 import sphinx_rtd_theme
-import sphinx_cobra_theme
-
-sys.path.append('sphinxext')
-from github_linkcode import github_linkcode_resolve
-
 
 # If extensions (or modules to document with autodoc) are in another
 # directory, add these directories to sys.path here. If the directory is
@@ -32,7 +27,7 @@ sys.path.insert(0, os.path.abspath(os.path.join('..', '..', '..')))
 # sys.path.insert(0, os.path.abspath('.'))
 
 # tell Sphinx matlab extension where to find matlab code.
-matlab_src_dir = os.path.abspath(os.path.join('..', '..'))
+matlab_src_dir = os.path.abspath(os.path.join('..', '..','ThermOptCOBRA'))
 
 
 # -- General configuration ---------------------------------------------
@@ -47,12 +42,7 @@ extensions = [
     'sphinx.ext.napoleon',
     'sphinxcontrib.matlab',
     'github',
-    'sphinx.ext.linkcode',
     'sphinxcontrib.fulltoc']
-
-def linkcode_resolve(domain, info):
-    filename = info['module'].replace('.', '/')
-    return 'https://github.com/opencobra/cobratoolbox/blob/master/'+filename+'/'+info['fullname']+'.m'
 
 
 napoleon_google_docstring = True
@@ -143,7 +133,7 @@ todo_include_todos = True
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'sphinx_cobra_theme'
+html_theme = 'sphinx_rtd_theme'
 
 # Theme options are theme-specific and customize the look and feel of a
 # theme further.  For a list of options available for each theme, see the
@@ -151,10 +141,8 @@ html_theme = 'sphinx_cobra_theme'
 #html_theme_options = {}
 
 # Add any paths that contain custom themes here, relative to this directory.
-html_theme_path = [sphinx_rtd_theme.get_html_theme_path(),
-                   sphinx_cobra_theme.get_theme_dir()]
+html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
-html_sidebars = sphinx_cobra_theme.default_sidebars()
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
 #html_title = None
@@ -162,7 +150,6 @@ html_sidebars = sphinx_cobra_theme.default_sidebars()
 # A shorter title for the navigation bar.  Default is the same as
 # html_title.
 #html_short_title = None
-html_theme_options = {'display_version': False}
 
 # The name of an image file (relative to this directory) to place at the
 # top of the sidebar.
@@ -187,13 +174,9 @@ html_static_path = ['_static']
 # typographically correct entities.
 #html_use_smartypants = True
 
-# Custom sidebar templates, maps document names to template names.
-html_sidebars = {'index': 'indexsidebar.html'}
 
 # Additional templates that should be rendered to pages, maps page names
 # to template names.
-html_index = 'index.html'
-html_additional_pages = {'index': 'index.html'}
 
 # If false, no module index is generated.
 #html_domain_indices = True
