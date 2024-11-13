@@ -20,7 +20,6 @@
 import os # imports os 
 import sys
 
-import pybtex
 import sphinx_rtd_theme
 
 sys.path.append('sphinxext')
