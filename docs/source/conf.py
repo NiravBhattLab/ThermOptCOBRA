@@ -20,14 +20,14 @@
 # importing packages
 import os # imports os 
 import sys
-sys.path.append('sphinxext')
-from github_linkcode import github_linkcode_resolve
+# sys.path.append('sphinxext')
+# from github_linkcode import github_linkcode_resolve
 
 # sys.path.insert(0, os.path.abspath(os.path.join('..', '..', '..')))
 sys.path.insert(0, os.path.abspath('.'))
 
 # tell Sphinx matlab extension where to find matlab code.
-matlab_src_dir = os.path.abspath(os.path.join('..', '..','ThermOptCOBRA'))
+# matlab_src_dir = os.path.abspath(os.path.join('..', '..','ThermOptCOBRA'))
 
 # -- General configuration ------------------------------------------------
 
@@ -38,33 +38,34 @@ matlab_src_dir = os.path.abspath(os.path.join('..', '..','ThermOptCOBRA'))
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = [
-    'sphinx.ext.autodoc',
-    'sphinx.ext.napoleon',
-    'sphinxcontrib.matlab',
-    'github',
-    'sphinx.ext.linkcode',
-    'sphinxcontrib.fulltoc']
+# extensions = [
+#     'sphinx.ext.autodoc',
+#     'sphinx.ext.napoleon',
+#     'sphinxcontrib.matlab',
+#     'github',
+#     'sphinx.ext.linkcode',
+#     'sphinxcontrib.fulltoc']
 
+extensions =[]
     
 
-def linkcode_resolve(domain, info):
-    filename = info['module'].replace('.', '/')
-    return 'https://github.com/NiravBhattLab/ThermOptCOBRA/blob/main/'+filename+'/'+info['fullname']+'.m'
+# def linkcode_resolve(domain, info):
+#     filename = info['module'].replace('.', '/')
+#     return 'https://github.com/NiravBhattLab/ThermOptCOBRA/blob/main/'+filename+'/'+info['fullname']+'.m'
 
-napoleon_google_docstring = True
-napoleon_custom_sections = [('INPUTS','params_style'),('INPUT','params_style'),
-                            ('OUTPUTS','params_style'),('OUTPUT','params_style'),
-                            ('REQUIRED INPUTS','params_style'),('REQUIRED INPUT','params_style'),
-                            'Authors',('OPTIONAL INPUTS','params_style'),
-                            ('OPTIONAL INPUT','params_style'),('USAGE','params_style')]
+# napoleon_google_docstring = True
+# napoleon_custom_sections = [('INPUTS','params_style'),('INPUT','params_style'),
+#                             ('OUTPUTS','params_style'),('OUTPUT','params_style'),
+#                             ('REQUIRED INPUTS','params_style'),('REQUIRED INPUT','params_style'),
+#                             'Authors',('OPTIONAL INPUTS','params_style'),
+#                             ('OPTIONAL INPUT','params_style'),('USAGE','params_style')]
 
 
 # autodoc_member_order='groupwise'
-primary_domain = 'mat'
+# primary_domain = 'mat'
 
 # remove path in function names
-add_module_names = False
+# add_module_names = False
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
