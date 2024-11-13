@@ -8,5 +8,4 @@ Contents:
 
    installation
    usage
-   advanced
 
