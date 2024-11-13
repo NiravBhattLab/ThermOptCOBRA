@@ -1,5 +1,5 @@
 Welcome to ThermOptCOBRA!
-===================
+=========================
 
 Contents:
 
@@ -7,6 +7,8 @@ Contents:
    :maxdepth: 2
 
    installation
-   usage
-   advanced
+   ThermOptEnumerator
+   ThermOptCC
+   ThermOptiCS
+   ThermOptFlux
 
