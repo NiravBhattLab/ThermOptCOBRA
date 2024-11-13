@@ -18,6 +18,11 @@
 import sys
 import os
 import sphinx_rtd_theme
+import sphinx_cobra_theme
+
+sys.path.append('sphinxext')
+from github_linkcode import github_linkcode_resolve
+
 
 # If extensions (or modules to document with autodoc) are in another
 # directory, add these directories to sys.path here. If the directory is
