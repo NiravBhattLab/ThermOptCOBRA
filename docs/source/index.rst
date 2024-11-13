@@ -8,7 +8,4 @@ Contents:
 
    installation
    ThermOptEnumerator
-   ThermOptCC
-   ThermOptiCS
-   ThermOptFlux
 
