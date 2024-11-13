@@ -33,7 +33,7 @@ sys.path.insert(0, os.path.abspath(os.path.join('..', '..', '..')))
 # sys.path.insert(0, os.path.abspath('.'))
 
 # tell Sphinx matlab extension where to find matlab code.
-matlab_src_dir = os.path.abspath(os.path.join('..', '..','ThermOptCOBRA'))
+# matlab_src_dir = os.path.abspath(os.path.join('..', '..','ThermOptCOBRA'))
 
 # -- General configuration ------------------------------------------------
 
