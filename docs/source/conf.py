@@ -23,7 +23,7 @@ import sys
 
 import sphinx_rtd_theme
 
-sys.path.append('./source/sphinxext')
+sys.path.append('./sphinxext')
 from github_linkcode import github_linkcode_resolve
 
 
