@@ -145,16 +145,16 @@ pygments_style = 'sphinx'
 
 # -- Options for HTML output ----------------------------------------------
 
-html_theme = 'alabaster'
-html_sidebars = {
-    '**': [
-        'about.html',
-        'searchfield.html',
-        'navigation.html',
-        'relations.html',
-        'donate.html',
-    ]
-}
+html_theme = 'scrolls'
+# html_sidebars = {
+#     '**': [
+#         'about.html',
+#         'searchfield.html',
+#         'navigation.html',
+#         'relations.html',
+#         'donate.html',
+#     ]
+# }
 # html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 # html_sidebars = sphinx_cobra_theme.default_sidebars()
