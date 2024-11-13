@@ -145,7 +145,15 @@ pygments_style = 'sphinx'
 # -- Options for HTML output ----------------------------------------------
 
 html_theme = 'alabaster'
-
+html_sidebars = {
+    '**': [
+        'about.html',
+        'searchfield.html',
+        'navigation.html',
+        'relations.html',
+        'donate.html',
+    ]
+}
 # html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 # html_sidebars = sphinx_cobra_theme.default_sidebars()
@@ -175,7 +183,7 @@ html_theme = 'alabaster'
 #                'display_github': True}
 # Add any paths that contain custom themes here, relative to this directory.
 # html_theme_path = []
-html_title = u'ThermOptCOBRA'
+# html_title = u'ThermOptCOBRA'
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
