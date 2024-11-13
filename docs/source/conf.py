@@ -27,6 +27,7 @@ from github_linkcode import github_linkcode_resolve
 
 
 sys.path.append('./')
+sys.path.append('../')
 
 sys.path.insert(0, os.path.abspath(os.path.join('..', '..', '..')))
 # sys.path.insert(0, os.path.abspath('.'))
