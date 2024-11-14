@@ -12,9 +12,9 @@ Contents:
    :maxdepth: 2
 
    Installation
-   ThermOptEnumerator
-   ThermOptCC
-   ThermOptiCS
-   ThermOptFlux
+   Functions/ThermOptEnumerator
+   Functions/ThermOptCC
+   Functions/ThermOptiCS
+   Functions/ThermOptFlux
    
 
