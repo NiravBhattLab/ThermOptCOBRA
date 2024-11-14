@@ -12,9 +12,11 @@ Contents:
    :maxdepth: 2
 
    Installation
-   Functions/ThermOptEnumerator
-   Functions/ThermOptCC
-   Functions/ThermOptiCS
-   Functions/ThermOptFlux
+
+.. toctree::
+   :glob:
+   :maxdepth: 2
+
+   Functions/*
    
 
