@@ -1,4 +1,4 @@
 ThermOptiCS
 ===========
-.. automodule:: src.ThermOptiCS
+.. automodule:: ThermOptCOBRA.ThermOptiCS
    :members:
