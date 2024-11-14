@@ -1,4 +1,23 @@
 function [reacInd,x] = findConsistentIDS_TOCS(model,core,TICmat,rev2irrev,tol)
+% Identifies the thermodynamically consistent IDs for the given input of irreversible reaction model
+% 
+%
+% USAGE: 
+%   reacInd = findConsistentIDS_TOCS(model,core,TICmat,rev2irrev,tol)
+%
+% INPUTS:
+%     model:     COBRA model structure with irreversible reactions only
+%     core:      Reaction IDs for which thermodynamic consistency has to be verified
+%     TICmat:    Matlab matrix with information on TICs in the model
+%     rev2irrev: Mapping between the reversible reactions to its corresponding irreversible reactions
+%     tol:       Minimum positive number defined as non-zero
+%
+% OUTPUTS:
+%     reacInd:   Indices of reactions that are identified to be thermodynamically consistent
+%     x:         The  solution obtained after solving the MILP optimization problem
+%
+% .. Author:
+%       - Pavan Kumar S, BioSystems Engineering and control (BiSECt) lab, IIT Madras
 [m,n] = size(model.S);
 lbs= max([tol*ones(n,1),model.lb],[],2);
 % objective
