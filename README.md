@@ -13,4 +13,4 @@ Codes required to recreate all the results and figures shown in the article
 Matlab codes of the algorithms developed in this work
 
 **Documentation**
-For detailed usage instructions refer to: [https://thermoptcobra.readthedocs.io/en/latest/]https://thermoptcobra.readthedocs.io/en/latest/
+For detailed usage instructions refer to: https://thermoptcobra.readthedocs.io/en/latest/
