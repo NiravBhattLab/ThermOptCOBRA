@@ -1,5 +1,5 @@
-Welcome to ThermOptCOBRA!
-=========================
+Functions
+=========
 
 Contents:
 
