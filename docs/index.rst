@@ -12,10 +12,6 @@ Contents:
    :maxdepth: 2
 
    Installation
-
-.. toctree::
-   :maxdepth: 2
-
    Functions/index
    
 
