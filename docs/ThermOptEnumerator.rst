@@ -1,4 +1,4 @@
 ThermOptEnumerator
 ==================
-.. automodule:: src.ThermOptEnumerator
+.. automodule:: ThermOptCOBRA.ThermOptEnumerator
    :members:
