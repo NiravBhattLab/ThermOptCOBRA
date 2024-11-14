@@ -20,4 +20,4 @@ For detailed usage instructions refer to: https://thermoptcobra.readthedocs.io/e
 - Wadhwani School of Data Science & AI, IIT Madras
 - Department Of Biotechnology, IIT Madras
 
-<img title="IBSE logo" src="https://github.com/NiravBhattLab/ThermOptCOBRA/blob/main/docs/ibse-logo.png" height="200" width="200"><img title="WSAI logo" src="https://github.com/NiravBhattLab/ThermOptCOBRA/blob/main/docs/WSAI_logo.png" height="200" width="351">
+<img title="IBSE logo" src="https://github.com/NiravBhattLab/ThermOptCOBRA/blob/main/docs/ibse-logo.png" height="200" width="200"><img title="WSAI logo" src="https://github.com/NiravBhattLab/ThermOptCOBRA/blob/main/docs/WSAI_logo.png" height="200" width="200">
