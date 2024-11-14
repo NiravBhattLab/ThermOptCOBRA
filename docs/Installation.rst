@@ -12,7 +12,7 @@ Requirements
 
 Download and installation
 -------------------------
-ThermOptCOBRA-set of packages can be easily obtained using the **git** package manager:
+ThermOptCOBRA-set of packages can be easily obtained using the **git** version control system:
 
 .. code-block:: console
 
