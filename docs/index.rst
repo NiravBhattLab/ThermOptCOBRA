@@ -14,9 +14,8 @@ Contents:
    Installation
 
 .. toctree::
-   :glob:
    :maxdepth: 2
 
-   Functions/*
+   Functions/index
    
 
