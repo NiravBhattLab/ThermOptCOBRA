@@ -1,4 +1,4 @@
 ThermOptCC
 ==========
-.. automodule:: src.ThermOptCC
+.. automodule:: ThermOptCOBRA.ThermOptCC
    :members:
