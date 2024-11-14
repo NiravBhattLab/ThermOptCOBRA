@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   installation
+   Installation
    ThermOptEnumerator
    ThermOptCC
    ThermOptiCS
