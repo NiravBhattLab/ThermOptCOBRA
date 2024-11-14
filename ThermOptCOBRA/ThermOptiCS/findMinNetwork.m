@@ -1,4 +1,24 @@
 function IDS = findMinNetwork(model,core,P,TICmat,rev2irrev,tol,x0,timeLimit)
+% Identifies the thermodynamically consistent minimal network
+% 
+% USAGE: 
+%   IDS = findMinNetwork(model,core,P,TICmat,rev2irrev,tol,x0,timeLimit)
+%
+% INPUTS:
+%     model:     COBRA model structure with irreversible reactions only
+%     core:      Reaction IDs for which thermodynamic consistency has been verified
+%     TICmat:    Matlab matrix with information on TICs in the model
+%     rev2irrev: Mapping between the reversible reactions to its corresponding irreversible reactions
+%     tol:       Minimum positive number defined as non-zero
+%     x0:        Inital feasible point for the MILP problem
+%     timeLimit: timeLimit for solving the minNetwork MILP problem
+%
+% OUTPUTS:
+%     IDS:       Indices of reactions in the minimal network
+%
+% .. Author:
+%       - Pavan Kumar S, BioSystems Engineering and control (BiSECt) lab, IIT Madras
+
 
 [m,n] = size(model.S);
 % objective
