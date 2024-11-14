@@ -1,4 +1,4 @@
 ThermOptFlux
 ============
-.. automodule:: src.ThermOptFlux
+.. automodule:: ThermOptCOBRA.ThermOptFlux
    :members:
