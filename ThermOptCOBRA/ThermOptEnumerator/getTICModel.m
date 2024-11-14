@@ -1,4 +1,27 @@
 function [m1,blkdCore,flux,stat] = getTICModel(model,core,tol,dir,TICcons)
+% Obtains the thermodynamically infeasible cycle that has the core reaction in it
+% 
+% USAGE: 
+%   [m1,blkdCore,flux,stat] = getTICModel(model,core,tol,dir,TICcons)
+%
+% INPUTS:
+%     model:     COBRA model structure
+%     core:      Reaction ID for which the TIC has to be identified
+%     tol:       Minimum positive number defined as non-zero
+%     dir:       1/-1 to define the flux direction of the core reaction. 1: positive flux
+%                -1: negative flux
+%     TICcons:   Details on the previously identified TICs that involves the core reaction
+%
+% OUTPUTS:
+%     m1:        Model with the reactions that involves only the idetified TIC
+%     blkdCore:  1/0 to define consistency of the core reaction
+%     flux:      Flux though the reactions in the model as returned by solving the MILP optimization problem
+%     stat:      Status of the MILP optimization
+%
+% .. Author:
+%       - Pavan Kumar S, BioSystems Engineering and control (BiSECt) lab, IIT Madras
+
+
 [~,n] = size(model.S); % number of metabolites and reactions
 
 direction = zeros(n,1);
