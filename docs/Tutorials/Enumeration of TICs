@@ -1,0 +1,45 @@
+ThermOptEnumerator Tutorial
+===========================
+
+Introduction
+------------
+
+ThermOptEnumerator (TOE) is an algorithm designed to efficiently enumerate all thermodynamically infeasible cycles (TICs) in a metabolic model. TICs are cycles in a metabolic network that violate thermodynamic constraints, leading to inaccurate predictions of metabolic phenotypes. TOE addresses this issue by identifying all such cycles, paving the way for the construction of thermodynamically consistent models.
+
+Key Features
+------------
+
+* **Efficiency:** TOE employs a unique strategy to reduce the problem size and leverage network topology, resulting in faster computation compared to existing methods.
+* **Completeness:** TOE guarantees the identification of all TICs within a given metabolic model.
+* **Compatibility:** TOE is compatible with the COBRA toolbox, a widely used platform for constraint-based modeling.
+
+Usage
+-----
+
+To use ThermOptEnumerator, you need to provide the following inputs:
+
+* **Stoichiometric matrix (S):** A matrix representing the stoichiometry of the metabolic reactions.
+* **Reaction list (R):** A list of all reactions in the model.
+* **Lower bounds (lb):** A vector of lower bounds for the reaction fluxes.
+* **Upper bounds (ub):** A vector of upper bounds for the reaction fluxes.
+
+The output of ThermOptEnumerator is:
+
+* **TICs:** A list of all identified TICs.
+* **D:** A list of flux directions for the reactions involved in the TICs.
+
+Example
+-------
+
+```python
+import thermoptenumerator
+
+# Load your metabolic model (replace with your actual model loading code)
+S, R, lb, ub = load_model('my_model.mat')
+
+# Run ThermOptEnumerator
+TICs, D = thermoptenumerator.enumerate_tics(S, R, lb, ub)
+
+# Print the results
+print("TICs:", TICs)
+print("Flux directions:", D)
