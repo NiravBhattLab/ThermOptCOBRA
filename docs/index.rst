@@ -13,5 +13,6 @@ Contents:
 
    Installation
    Functions/index
+   Tutorials/index
    
 
