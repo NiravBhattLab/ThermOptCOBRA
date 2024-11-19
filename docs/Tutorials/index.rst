@@ -6,7 +6,4 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   ThermOptEnumerator
-   ThermOptCC
-   ThermOptiCS
-   ThermOptFlux
+   Enumeration_of_TICs
