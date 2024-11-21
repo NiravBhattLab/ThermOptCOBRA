@@ -1,0 +1,1351 @@
+Model,Organism,Subsystem,Frac_RXNS,Frac_TICs
+STM_v1_0,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,"Alanine, Aspartate, and Glutamate Metabolism",0.0384615384615385,0.0175438596491228
+STM_v1_0,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,"Alternate Carbon Metabolism",0.115384615384615,0.0350877192982456
+STM_v1_0,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,"Cofactor and Prosthetic Group Biosynthesis",0.0384615384615385,0.0175438596491228
+STM_v1_0,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,"Glycolysis and Gluconeogenesis",0.0384615384615385,0.0175438596491228
+STM_v1_0,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,"Inorganic Ion Transport and Metabolism",0.0961538461538462,0.228070175438596
+STM_v1_0,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,"Nucleotide Salvage Pathway",0.0576923076923077,0.0175438596491228
+STM_v1_0,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,"Transport",0.0384615384615385,0.157894736842105
+STM_v1_0,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,"Transport Inner Membrane",0.5,0.421052631578947
+STM_v1_0,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,"Transport Outer Membrane",0.0192307692307692,0.0175438596491228
+STM_v1_0,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,"Transport Outer Membrane Porin",0.0384615384615385,0.0526315789473684
+STM_v1_0,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,"Valine Leucine and Isoleucine Metabolism",0.0192307692307692,0.0175438596491228
+e_coli_core,Escherichia coli str. K-12 substr. MG1655,"Oxidative Phosphorylation",1,1
+iAB_RBC_283,Homo sapiens,"Carnitine shuttle",0.555555555555556,0.5
+iAB_RBC_283,Homo sapiens,"Fatty Acid  Biosynthesis",0.111111111111111,0.166666666666667
+iAB_RBC_283,Homo sapiens,"Galactose metabolism",0.333333333333333,0.333333333333333
+iAF1260,Escherichia coli str. K-12 substr. MG1655,"Alanine, Aspartate, and Glutamate Metabolism",0.0294117647058824,0.0151515151515152
+iAF1260,Escherichia coli str. K-12 substr. MG1655,"Alternate Carbon Metabolism",0.147058823529412,0.0909090909090909
+iAF1260,Escherichia coli str. K-12 substr. MG1655,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0147058823529412,0.0151515151515152
+iAF1260,Escherichia coli str. K-12 substr. MG1655,"Citrate cycle (TCA cycle)",0.0147058823529412,0.0151515151515152
+iAF1260,Escherichia coli str. K-12 substr. MG1655,"Cofactor and Prosthetic Group Biosynthesis",0.0294117647058824,0.0151515151515152
+iAF1260,Escherichia coli str. K-12 substr. MG1655,"Glycolysis and Gluconeogenesis",0.0882352941176471,0.0454545454545455
+iAF1260,Escherichia coli str. K-12 substr. MG1655,"Histidine Biosynthesis",0.0147058823529412,0.0454545454545455
+iAF1260,Escherichia coli str. K-12 substr. MG1655,"Inorganic Ion Transport and Metabolism",0.0441176470588235,0.181818181818182
+iAF1260,Escherichia coli str. K-12 substr. MG1655,"Membrane Lipid Metabolism",0.0294117647058824,0.0151515151515152
+iAF1260,Escherichia coli str. K-12 substr. MG1655,"Nucleotide Salvage Pathway",0.0441176470588235,0.0909090909090909
+iAF1260,Escherichia coli str. K-12 substr. MG1655,"Oxidative Phosphorylation",0.0147058823529412,0.0757575757575758
+iAF1260,Escherichia coli str. K-12 substr. MG1655,"Pyruvate Metabolism",0.0441176470588235,0.0454545454545455
+iAF1260,Escherichia coli str. K-12 substr. MG1655,"Transport Outer Membrane Porin",0.455882352941176,0.318181818181818
+iAF1260,Escherichia coli str. K-12 substr. MG1655,"Transport, ABC system",0.0147058823529412,0.0151515151515152
+iAF1260,Escherichia coli str. K-12 substr. MG1655,"Transport, Outer Membrane",0.0147058823529412,0.0151515151515152
+iAF692,Methanosarcina barkeri str. Fusaro,"Citrate cycle (TCA cycle)",0.0333333333333333,0.134615384615385
+iAF692,Methanosarcina barkeri str. Fusaro,"Glutamate and glutamin metabolism",0.0666666666666667,0.0961538461538462
+iAF692,Methanosarcina barkeri str. Fusaro,"Glycolysis and Gluconeogenesis",0.0666666666666667,0.134615384615385
+iAF692,Methanosarcina barkeri str. Fusaro,"Nucelotide Metabolism",0.566666666666667,0.25
+iAF692,Methanosarcina barkeri str. Fusaro,"Other",0.0333333333333333,0.0576923076923077
+iAF692,Methanosarcina barkeri str. Fusaro,"Transport",0.0666666666666667,0.0192307692307692
+iAF692,Methanosarcina barkeri str. Fusaro,"dATP Biosynthesis",0.166666666666667,0.307692307692308
+iAF987,Geobacter metallireducens GS-15,"Amino Acid Metabolism",0.0625,0.00625
+iAF987,Geobacter metallireducens GS-15,"Aromatic Compound degradation",0.125,0.1125
+iAF987,Geobacter metallireducens GS-15,"Carbohydrate Metabolism",0.0625,0.00625
+iAF987,Geobacter metallireducens GS-15,"Central Metabolism",0.4375,0.3
+iAF987,Geobacter metallireducens GS-15,"Energy Metabolism",0.0625,0.0125
+iAF987,Geobacter metallireducens GS-15,"Nucelotide Metabolism",0.125,0.28125
+iAF987,Geobacter metallireducens GS-15,"Other",0.0625,0.275
+iAF987,Geobacter metallireducens GS-15,"Transport Outer Membrane Porin",0.0625,0.00625
+iAPECO1_1312,Escherichia coli APEC O1,"Alanine, Aspartate, and Glutamate Metabolism",0.0161290322580645,0.0222222222222222
+iAPECO1_1312,Escherichia coli APEC O1,"Alternate Carbon Metabolism",0.0806451612903226,0.0333333333333333
+iAPECO1_1312,Escherichia coli APEC O1,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0161290322580645,0.0222222222222222
+iAPECO1_1312,Escherichia coli APEC O1,"Citrate cycle (TCA cycle)",0.0161290322580645,0.0333333333333333
+iAPECO1_1312,Escherichia coli APEC O1,"Cofactor and Prosthetic Group Biosynthesis",0.0241935483870968,0.0333333333333333
+iAPECO1_1312,Escherichia coli APEC O1,"Exchange",0.00806451612903226,0.0111111111111111
+iAPECO1_1312,Escherichia coli APEC O1,"Folate Biosynthesis",0.0161290322580645,0.00555555555555556
+iAPECO1_1312,Escherichia coli APEC O1,"Glycolysis and Gluconeogenesis",0.0483870967741935,0.0166666666666667
+iAPECO1_1312,Escherichia coli APEC O1,"Histidine Biosynthesis",0.00806451612903226,0.0166666666666667
+iAPECO1_1312,Escherichia coli APEC O1,"Inorganic Ion Transport and Metabolism",0.0241935483870968,0.111111111111111
+iAPECO1_1312,Escherichia coli APEC O1,"Membrane Lipid Metabolism",0.225806451612903,0.144444444444444
+iAPECO1_1312,Escherichia coli APEC O1,"Nucleotide Salvage Pathway",0.032258064516129,0.0444444444444444
+iAPECO1_1312,Escherichia coli APEC O1,"Oxidative Phosphorylation",0.00806451612903226,0.0277777777777778
+iAPECO1_1312,Escherichia coli APEC O1,"Purine and Pyrimidine Biosynthesis",0.0241935483870968,0.0166666666666667
+iAPECO1_1312,Escherichia coli APEC O1,"Pyruvate Metabolism",0.0241935483870968,0.0166666666666667
+iAPECO1_1312,Escherichia coli APEC O1,"Transport",0.032258064516129,0.0833333333333333
+iAPECO1_1312,Escherichia coli APEC O1,"Transport Outer Membrane Porin",0.362903225806452,0.244444444444444
+iAPECO1_1312,Escherichia coli APEC O1,"Transport, ABC system",0.0241935483870968,0.0277777777777778
+iAPECO1_1312,Escherichia coli APEC O1,"Transport, Outer Membrane",0.00806451612903226,0.00555555555555556
+iB21_1397,Escherichia coli BL21(DE3),"Alanine, Aspartate, and Glutamate Metabolism",0.0175438596491228,0.0283687943262411
+iB21_1397,Escherichia coli BL21(DE3),"Alternate Carbon Metabolism",0.105263157894737,0.0567375886524823
+iB21_1397,Escherichia coli BL21(DE3),"Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis",0.0087719298245614,0.00709219858156028
+iB21_1397,Escherichia coli BL21(DE3),"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0175438596491228,0.0283687943262411
+iB21_1397,Escherichia coli BL21(DE3),"Citrate cycle (TCA cycle)",0.0087719298245614,0.00709219858156028
+iB21_1397,Escherichia coli BL21(DE3),"Cofactor and Prosthetic Group Biosynthesis",0.0175438596491228,0.00709219858156028
+iB21_1397,Escherichia coli BL21(DE3),"Exchange",0.0175438596491228,0.0212765957446809
+iB21_1397,Escherichia coli BL21(DE3),"Folate Biosynthesis",0.0175438596491228,0.00709219858156028
+iB21_1397,Escherichia coli BL21(DE3),"Glycolysis and Gluconeogenesis",0.0526315789473684,0.0212765957446809
+iB21_1397,Escherichia coli BL21(DE3),"Histidine Biosynthesis",0.0087719298245614,0.0212765957446809
+iB21_1397,Escherichia coli BL21(DE3),"Inorganic Ion Transport and Metabolism",0.0263157894736842,0.141843971631206
+iB21_1397,Escherichia coli BL21(DE3),"Membrane Lipid Metabolism",0.192982456140351,0.0780141843971631
+iB21_1397,Escherichia coli BL21(DE3),"Nucleotide Salvage Pathway",0.0350877192982456,0.0567375886524823
+iB21_1397,Escherichia coli BL21(DE3),"Oxidative Phosphorylation",0.0087719298245614,0.0354609929078014
+iB21_1397,Escherichia coli BL21(DE3),"Purine and Pyrimidine Biosynthesis",0.0263157894736842,0.0212765957446809
+iB21_1397,Escherichia coli BL21(DE3),"Pyruvate Metabolism",0.0263157894736842,0.0212765957446809
+iB21_1397,Escherichia coli BL21(DE3),"Transport",0.0350877192982456,0.106382978723404
+iB21_1397,Escherichia coli BL21(DE3),"Transport Outer Membrane Porin",0.342105263157895,0.290780141843972
+iB21_1397,Escherichia coli BL21(DE3),"Transport, ABC system",0.0263157894736842,0.0354609929078014
+iB21_1397,Escherichia coli BL21(DE3),"Transport, Outer Membrane",0.0087719298245614,0.00709219858156028
+iBWG_1329,Escherichia coli BW2952,"Alanine, Aspartate, and Glutamate Metabolism",0.0172413793103448,0.0285714285714286
+iBWG_1329,Escherichia coli BW2952,"Alternate Carbon Metabolism",0.0862068965517241,0.0428571428571429
+iBWG_1329,Escherichia coli BW2952,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0172413793103448,0.0285714285714286
+iBWG_1329,Escherichia coli BW2952,"Citrate cycle (TCA cycle)",0.00862068965517241,0.00714285714285714
+iBWG_1329,Escherichia coli BW2952,"Cofactor and Prosthetic Group Biosynthesis",0.0172413793103448,0.00714285714285714
+iBWG_1329,Escherichia coli BW2952,"Exchange",0.00862068965517241,0.0142857142857143
+iBWG_1329,Escherichia coli BW2952,"Folate Biosynthesis",0.0172413793103448,0.00714285714285714
+iBWG_1329,Escherichia coli BW2952,"Glycolysis and Gluconeogenesis",0.0517241379310345,0.0214285714285714
+iBWG_1329,Escherichia coli BW2952,"Histidine Biosynthesis",0.00862068965517241,0.0214285714285714
+iBWG_1329,Escherichia coli BW2952,"Inorganic Ion Transport and Metabolism",0.0258620689655172,0.142857142857143
+iBWG_1329,Escherichia coli BW2952,"Membrane Lipid Metabolism",0.189655172413793,0.0785714285714286
+iBWG_1329,Escherichia coli BW2952,"Nucleotide Salvage Pathway",0.0344827586206897,0.0571428571428571
+iBWG_1329,Escherichia coli BW2952,"Oxidative Phosphorylation",0.00862068965517241,0.0357142857142857
+iBWG_1329,Escherichia coli BW2952,"Purine and Pyrimidine Biosynthesis",0.0258620689655172,0.0214285714285714
+iBWG_1329,Escherichia coli BW2952,"Pyruvate Metabolism",0.0258620689655172,0.0214285714285714
+iBWG_1329,Escherichia coli BW2952,"Transport",0.0344827586206897,0.107142857142857
+iBWG_1329,Escherichia coli BW2952,"Transport Outer Membrane Porin",0.387931034482759,0.314285714285714
+iBWG_1329,Escherichia coli BW2952,"Transport, ABC system",0.0258620689655172,0.0357142857142857
+iBWG_1329,Escherichia coli BW2952,"Transport, Outer Membrane",0.00862068965517241,0.00714285714285714
+iCN718,Acinetobacter baumannii AYE,"Alanine and aspartate metabolism",0.0131578947368421,0.018346923647146
+iCN718,Acinetobacter baumannii AYE,"Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis",0.0263157894736842,0.000185322461082283
+iCN718,Acinetobacter baumannii AYE,"Arginine and Proline Metabolism",0.0131578947368421,0.022238695329874
+iCN718,Acinetobacter baumannii AYE,"Butanoate metabolism",0.0394736842105263,0.0322461082283173
+iCN718,Acinetobacter baumannii AYE,"Fatty acid metabolism",0.0657894736842105,0.124536693847294
+iCN718,Acinetobacter baumannii AYE,"Folate Biosynthesis",0.0394736842105263,0.0213120830244626
+iCN718,Acinetobacter baumannii AYE,"Glutamate and glutamin metabolism",0.0263157894736842,0.018346923647146
+iCN718,Acinetobacter baumannii AYE,"Glycerophospholipid Metabolism",0.0394736842105263,0.0244625648628614
+iCN718,Acinetobacter baumannii AYE,"Glycolysis/ Gluconeogenesis",0.0657894736842105,0.0439214232765011
+iCN718,Acinetobacter baumannii AYE,"Glyoxylate and dicarboxylate metabolism",0.0263157894736842,0.0170496664195701
+iCN718,Acinetobacter baumannii AYE,"Lysine biosynthesis",0.0263157894736842,0.0170496664195701
+iCN718,Acinetobacter baumannii AYE,"Methionine metabolism",0.0131578947368421,0.0302075611564122
+iCN718,Acinetobacter baumannii AYE,"Nicotinate Biosynthesis",0.0394736842105263,0.0355819125277984
+iCN718,Acinetobacter baumannii AYE,"Nitrogen Metabolism",0.0526315789473684,0.0509636767976279
+iCN718,Acinetobacter baumannii AYE,"One carbon pool by folate",0.0789473684210526,0.054299481097109
+iCN718,Acinetobacter baumannii AYE,"Oxidative phosphorylation",0.0394736842105263,0.065418828762046
+iCN718,Acinetobacter baumannii AYE,"PI_transport",0.0131578947368421,0.000185322461082283
+iCN718,Acinetobacter baumannii AYE,"Propanoate metabolism",0.0526315789473684,0.0900667160859896
+iCN718,Acinetobacter baumannii AYE,"Purine and Pyrimidine Biosynthesis",0.0394736842105263,0.0311341734618236
+iCN718,Acinetobacter baumannii AYE,"Purine metabolism (De novo)",0.0131578947368421,0.00166790214974055
+iCN718,Acinetobacter baumannii AYE,"Pyruvate Metabolism",0.105263157894737,0.0828391401037806
+iCN718,Acinetobacter baumannii AYE,"S_Coenzymes_and_prosthetic_groups",0.0131578947368421,0.0213120830244626
+iCN718,Acinetobacter baumannii AYE,"Selenoamino acid metabolism",0.0263157894736842,0.000926612305411416
+iCN718,Acinetobacter baumannii AYE,"TCA cycle",0.0657894736842105,0.111008154188288
+iCN718,Acinetobacter baumannii AYE,"Urea cycle and metabolism of amino groups",0.0394736842105263,0.0376204595997035
+iCN718,Acinetobacter baumannii AYE,"Valine, leucine and isoleucine biosynthesis",0.0131578947368421,0.000370644922164566
+iCN718,Acinetobacter baumannii AYE,"Valine, leucine and isoleucine degradation",0.0131578947368421,0.000370644922164566
+iE2348C_1286,Escherichia coli O127:H6 str. E2348/69,"Alanine, Aspartate, and Glutamate Metabolism",0.0166666666666667,0.0256410256410256
+iE2348C_1286,Escherichia coli O127:H6 str. E2348/69,"Alternate Carbon Metabolism",0.0916666666666667,0.0641025641025641
+iE2348C_1286,Escherichia coli O127:H6 str. E2348/69,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0166666666666667,0.0256410256410256
+iE2348C_1286,Escherichia coli O127:H6 str. E2348/69,"Citrate cycle (TCA cycle)",0.00833333333333333,0.00641025641025641
+iE2348C_1286,Escherichia coli O127:H6 str. E2348/69,"Cofactor and Prosthetic Group Biosynthesis",0.0166666666666667,0.00641025641025641
+iE2348C_1286,Escherichia coli O127:H6 str. E2348/69,"Exchange",0.00833333333333333,0.0128205128205128
+iE2348C_1286,Escherichia coli O127:H6 str. E2348/69,"Folate Biosynthesis",0.0166666666666667,0.00641025641025641
+iE2348C_1286,Escherichia coli O127:H6 str. E2348/69,"Glycolysis and Gluconeogenesis",0.05,0.0192307692307692
+iE2348C_1286,Escherichia coli O127:H6 str. E2348/69,"Histidine Biosynthesis",0.00833333333333333,0.0192307692307692
+iE2348C_1286,Escherichia coli O127:H6 str. E2348/69,"Inorganic Ion Transport and Metabolism",0.025,0.128205128205128
+iE2348C_1286,Escherichia coli O127:H6 str. E2348/69,"Membrane Lipid Metabolism",0.183333333333333,0.0705128205128205
+iE2348C_1286,Escherichia coli O127:H6 str. E2348/69,"Nucleotide Salvage Pathway",0.0333333333333333,0.0512820512820513
+iE2348C_1286,Escherichia coli O127:H6 str. E2348/69,"Oxidative Phosphorylation",0.00833333333333333,0.032051282051282
+iE2348C_1286,Escherichia coli O127:H6 str. E2348/69,"Purine and Pyrimidine Biosynthesis",0.025,0.0192307692307692
+iE2348C_1286,Escherichia coli O127:H6 str. E2348/69,"Pyruvate Metabolism",0.025,0.0192307692307692
+iE2348C_1286,Escherichia coli O127:H6 str. E2348/69,"Transport",0.0333333333333333,0.0961538461538462
+iE2348C_1286,Escherichia coli O127:H6 str. E2348/69,"Transport Inner Membrane",0.00833333333333333,0.0256410256410256
+iE2348C_1286,Escherichia coli O127:H6 str. E2348/69,"Transport Outer Membrane Porin",0.383333333333333,0.307692307692308
+iE2348C_1286,Escherichia coli O127:H6 str. E2348/69,"Transport, ABC system",0.0333333333333333,0.0576923076923077
+iE2348C_1286,Escherichia coli O127:H6 str. E2348/69,"Transport, Outer Membrane",0.00833333333333333,0.00641025641025641
+iEC042_1314,Escherichia coli 042,"Alanine, Aspartate, and Glutamate Metabolism",0.0188679245283019,0.0300751879699248
+iEC042_1314,Escherichia coli 042,"Alternate Carbon Metabolism",0.0943396226415094,0.0451127819548872
+iEC042_1314,Escherichia coli 042,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0188679245283019,0.0300751879699248
+iEC042_1314,Escherichia coli 042,"Citrate cycle (TCA cycle)",0.00943396226415094,0.0075187969924812
+iEC042_1314,Escherichia coli 042,"Cofactor and Prosthetic Group Biosynthesis",0.0188679245283019,0.0075187969924812
+iEC042_1314,Escherichia coli 042,"Folate Biosynthesis",0.0188679245283019,0.0075187969924812
+iEC042_1314,Escherichia coli 042,"Glycolysis and Gluconeogenesis",0.0566037735849057,0.0225563909774436
+iEC042_1314,Escherichia coli 042,"Histidine Biosynthesis",0.00943396226415094,0.0225563909774436
+iEC042_1314,Escherichia coli 042,"Inorganic Ion Transport and Metabolism",0.0283018867924528,0.150375939849624
+iEC042_1314,Escherichia coli 042,"Membrane Lipid Metabolism",0.207547169811321,0.0827067669172932
+iEC042_1314,Escherichia coli 042,"Nucleotide Salvage Pathway",0.0377358490566038,0.0601503759398496
+iEC042_1314,Escherichia coli 042,"Oxidative Phosphorylation",0.00943396226415094,0.037593984962406
+iEC042_1314,Escherichia coli 042,"Purine and Pyrimidine Biosynthesis",0.0283018867924528,0.0225563909774436
+iEC042_1314,Escherichia coli 042,"Pyruvate Metabolism",0.0283018867924528,0.0225563909774436
+iEC042_1314,Escherichia coli 042,"Transport",0.0377358490566038,0.112781954887218
+iEC042_1314,Escherichia coli 042,"Transport Outer Membrane Porin",0.339622641509434,0.293233082706767
+iEC042_1314,Escherichia coli 042,"Transport, ABC system",0.0283018867924528,0.037593984962406
+iEC042_1314,Escherichia coli 042,"Transport, Outer Membrane",0.00943396226415094,0.0075187969924812
+iEC55989_1330,Escherichia coli 55989,"Alanine, Aspartate, and Glutamate Metabolism",0.0172413793103448,0.0285714285714286
+iEC55989_1330,Escherichia coli 55989,"Alternate Carbon Metabolism",0.0862068965517241,0.0428571428571429
+iEC55989_1330,Escherichia coli 55989,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0172413793103448,0.0285714285714286
+iEC55989_1330,Escherichia coli 55989,"Citrate cycle (TCA cycle)",0.00862068965517241,0.00714285714285714
+iEC55989_1330,Escherichia coli 55989,"Cofactor and Prosthetic Group Biosynthesis",0.0172413793103448,0.00714285714285714
+iEC55989_1330,Escherichia coli 55989,"Exchange",0.00862068965517241,0.0142857142857143
+iEC55989_1330,Escherichia coli 55989,"Folate Biosynthesis",0.0172413793103448,0.00714285714285714
+iEC55989_1330,Escherichia coli 55989,"Glycolysis and Gluconeogenesis",0.0517241379310345,0.0214285714285714
+iEC55989_1330,Escherichia coli 55989,"Histidine Biosynthesis",0.00862068965517241,0.0214285714285714
+iEC55989_1330,Escherichia coli 55989,"Inorganic Ion Transport and Metabolism",0.0258620689655172,0.142857142857143
+iEC55989_1330,Escherichia coli 55989,"Membrane Lipid Metabolism",0.189655172413793,0.0785714285714286
+iEC55989_1330,Escherichia coli 55989,"Nucleotide Salvage Pathway",0.0344827586206897,0.0571428571428571
+iEC55989_1330,Escherichia coli 55989,"Oxidative Phosphorylation",0.00862068965517241,0.0357142857142857
+iEC55989_1330,Escherichia coli 55989,"Purine and Pyrimidine Biosynthesis",0.0258620689655172,0.0214285714285714
+iEC55989_1330,Escherichia coli 55989,"Pyruvate Metabolism",0.0258620689655172,0.0214285714285714
+iEC55989_1330,Escherichia coli 55989,"Transport",0.0344827586206897,0.107142857142857
+iEC55989_1330,Escherichia coli 55989,"Transport Outer Membrane Porin",0.387931034482759,0.314285714285714
+iEC55989_1330,Escherichia coli 55989,"Transport, ABC system",0.0258620689655172,0.0357142857142857
+iEC55989_1330,Escherichia coli 55989,"Transport, Outer Membrane",0.00862068965517241,0.00714285714285714
+iECABU_c1320,Escherichia coli ABU 83972,"Alanine, Aspartate, and Glutamate Metabolism",0.0172413793103448,0.0285714285714286
+iECABU_c1320,Escherichia coli ABU 83972,"Alternate Carbon Metabolism",0.0862068965517241,0.0428571428571429
+iECABU_c1320,Escherichia coli ABU 83972,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0172413793103448,0.0285714285714286
+iECABU_c1320,Escherichia coli ABU 83972,"Citrate cycle (TCA cycle)",0.00862068965517241,0.00714285714285714
+iECABU_c1320,Escherichia coli ABU 83972,"Cofactor and Prosthetic Group Biosynthesis",0.0172413793103448,0.00714285714285714
+iECABU_c1320,Escherichia coli ABU 83972,"Exchange",0.00862068965517241,0.0142857142857143
+iECABU_c1320,Escherichia coli ABU 83972,"Folate Biosynthesis",0.0172413793103448,0.00714285714285714
+iECABU_c1320,Escherichia coli ABU 83972,"Glycolysis and Gluconeogenesis",0.0517241379310345,0.0214285714285714
+iECABU_c1320,Escherichia coli ABU 83972,"Histidine Biosynthesis",0.00862068965517241,0.0214285714285714
+iECABU_c1320,Escherichia coli ABU 83972,"Inorganic Ion Transport and Metabolism",0.0258620689655172,0.142857142857143
+iECABU_c1320,Escherichia coli ABU 83972,"Membrane Lipid Metabolism",0.189655172413793,0.0785714285714286
+iECABU_c1320,Escherichia coli ABU 83972,"Nucleotide Salvage Pathway",0.0344827586206897,0.0571428571428571
+iECABU_c1320,Escherichia coli ABU 83972,"Oxidative Phosphorylation",0.00862068965517241,0.0357142857142857
+iECABU_c1320,Escherichia coli ABU 83972,"Purine and Pyrimidine Biosynthesis",0.0258620689655172,0.0214285714285714
+iECABU_c1320,Escherichia coli ABU 83972,"Pyruvate Metabolism",0.0258620689655172,0.0214285714285714
+iECABU_c1320,Escherichia coli ABU 83972,"Transport",0.0344827586206897,0.107142857142857
+iECABU_c1320,Escherichia coli ABU 83972,"Transport Outer Membrane Porin",0.387931034482759,0.314285714285714
+iECABU_c1320,Escherichia coli ABU 83972,"Transport, ABC system",0.0258620689655172,0.0357142857142857
+iECABU_c1320,Escherichia coli ABU 83972,"Transport, Outer Membrane",0.00862068965517241,0.00714285714285714
+iECBD_1354,Escherichia coli 'BL21-Gold(DE3)pLysS AG',"Alanine, Aspartate, and Glutamate Metabolism",0.0175438596491228,0.0283687943262411
+iECBD_1354,Escherichia coli 'BL21-Gold(DE3)pLysS AG',"Alternate Carbon Metabolism",0.105263157894737,0.0567375886524823
+iECBD_1354,Escherichia coli 'BL21-Gold(DE3)pLysS AG',"Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis",0.0087719298245614,0.00709219858156028
+iECBD_1354,Escherichia coli 'BL21-Gold(DE3)pLysS AG',"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0175438596491228,0.0283687943262411
+iECBD_1354,Escherichia coli 'BL21-Gold(DE3)pLysS AG',"Citrate cycle (TCA cycle)",0.0087719298245614,0.00709219858156028
+iECBD_1354,Escherichia coli 'BL21-Gold(DE3)pLysS AG',"Cofactor and Prosthetic Group Biosynthesis",0.0175438596491228,0.00709219858156028
+iECBD_1354,Escherichia coli 'BL21-Gold(DE3)pLysS AG',"Exchange",0.0175438596491228,0.0212765957446809
+iECBD_1354,Escherichia coli 'BL21-Gold(DE3)pLysS AG',"Folate Biosynthesis",0.0175438596491228,0.00709219858156028
+iECBD_1354,Escherichia coli 'BL21-Gold(DE3)pLysS AG',"Glycolysis and Gluconeogenesis",0.0526315789473684,0.0212765957446809
+iECBD_1354,Escherichia coli 'BL21-Gold(DE3)pLysS AG',"Histidine Biosynthesis",0.0087719298245614,0.0212765957446809
+iECBD_1354,Escherichia coli 'BL21-Gold(DE3)pLysS AG',"Inorganic Ion Transport and Metabolism",0.0263157894736842,0.141843971631206
+iECBD_1354,Escherichia coli 'BL21-Gold(DE3)pLysS AG',"Membrane Lipid Metabolism",0.192982456140351,0.0780141843971631
+iECBD_1354,Escherichia coli 'BL21-Gold(DE3)pLysS AG',"Nucleotide Salvage Pathway",0.0350877192982456,0.0567375886524823
+iECBD_1354,Escherichia coli 'BL21-Gold(DE3)pLysS AG',"Oxidative Phosphorylation",0.0087719298245614,0.0354609929078014
+iECBD_1354,Escherichia coli 'BL21-Gold(DE3)pLysS AG',"Purine and Pyrimidine Biosynthesis",0.0263157894736842,0.0212765957446809
+iECBD_1354,Escherichia coli 'BL21-Gold(DE3)pLysS AG',"Pyruvate Metabolism",0.0263157894736842,0.0212765957446809
+iECBD_1354,Escherichia coli 'BL21-Gold(DE3)pLysS AG',"Transport",0.0350877192982456,0.106382978723404
+iECBD_1354,Escherichia coli 'BL21-Gold(DE3)pLysS AG',"Transport Outer Membrane Porin",0.342105263157895,0.290780141843972
+iECBD_1354,Escherichia coli 'BL21-Gold(DE3)pLysS AG',"Transport, ABC system",0.0263157894736842,0.0354609929078014
+iECBD_1354,Escherichia coli 'BL21-Gold(DE3)pLysS AG',"Transport, Outer Membrane",0.0087719298245614,0.00709219858156028
+iECB_1328,Escherichia coli B str. REL606,"Alanine, Aspartate, and Glutamate Metabolism",0.0175438596491228,0.0283687943262411
+iECB_1328,Escherichia coli B str. REL606,"Alternate Carbon Metabolism",0.105263157894737,0.0567375886524823
+iECB_1328,Escherichia coli B str. REL606,"Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis",0.0087719298245614,0.00709219858156028
+iECB_1328,Escherichia coli B str. REL606,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0175438596491228,0.0283687943262411
+iECB_1328,Escherichia coli B str. REL606,"Citrate cycle (TCA cycle)",0.0087719298245614,0.00709219858156028
+iECB_1328,Escherichia coli B str. REL606,"Cofactor and Prosthetic Group Biosynthesis",0.0175438596491228,0.00709219858156028
+iECB_1328,Escherichia coli B str. REL606,"Exchange",0.0175438596491228,0.0212765957446809
+iECB_1328,Escherichia coli B str. REL606,"Folate Biosynthesis",0.0175438596491228,0.00709219858156028
+iECB_1328,Escherichia coli B str. REL606,"Glycolysis and Gluconeogenesis",0.0526315789473684,0.0212765957446809
+iECB_1328,Escherichia coli B str. REL606,"Histidine Biosynthesis",0.0087719298245614,0.0212765957446809
+iECB_1328,Escherichia coli B str. REL606,"Inorganic Ion Transport and Metabolism",0.0263157894736842,0.141843971631206
+iECB_1328,Escherichia coli B str. REL606,"Membrane Lipid Metabolism",0.192982456140351,0.0780141843971631
+iECB_1328,Escherichia coli B str. REL606,"Nucleotide Salvage Pathway",0.0350877192982456,0.0567375886524823
+iECB_1328,Escherichia coli B str. REL606,"Oxidative Phosphorylation",0.0087719298245614,0.0354609929078014
+iECB_1328,Escherichia coli B str. REL606,"Purine and Pyrimidine Biosynthesis",0.0263157894736842,0.0212765957446809
+iECB_1328,Escherichia coli B str. REL606,"Pyruvate Metabolism",0.0263157894736842,0.0212765957446809
+iECB_1328,Escherichia coli B str. REL606,"Transport",0.0350877192982456,0.106382978723404
+iECB_1328,Escherichia coli B str. REL606,"Transport Outer Membrane Porin",0.342105263157895,0.290780141843972
+iECB_1328,Escherichia coli B str. REL606,"Transport, ABC system",0.0263157894736842,0.0354609929078014
+iECB_1328,Escherichia coli B str. REL606,"Transport, Outer Membrane",0.0087719298245614,0.00709219858156028
+iECDH10B_1368,Escherichia coli str. K-12 substr. DH10B,"Alanine, Aspartate, and Glutamate Metabolism",0.0172413793103448,0.0285714285714286
+iECDH10B_1368,Escherichia coli str. K-12 substr. DH10B,"Alternate Carbon Metabolism",0.0862068965517241,0.0428571428571429
+iECDH10B_1368,Escherichia coli str. K-12 substr. DH10B,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0172413793103448,0.0285714285714286
+iECDH10B_1368,Escherichia coli str. K-12 substr. DH10B,"Citrate cycle (TCA cycle)",0.00862068965517241,0.00714285714285714
+iECDH10B_1368,Escherichia coli str. K-12 substr. DH10B,"Cofactor and Prosthetic Group Biosynthesis",0.0172413793103448,0.00714285714285714
+iECDH10B_1368,Escherichia coli str. K-12 substr. DH10B,"Exchange",0.00862068965517241,0.0142857142857143
+iECDH10B_1368,Escherichia coli str. K-12 substr. DH10B,"Folate Biosynthesis",0.0172413793103448,0.00714285714285714
+iECDH10B_1368,Escherichia coli str. K-12 substr. DH10B,"Glycolysis and Gluconeogenesis",0.0517241379310345,0.0214285714285714
+iECDH10B_1368,Escherichia coli str. K-12 substr. DH10B,"Histidine Biosynthesis",0.00862068965517241,0.0214285714285714
+iECDH10B_1368,Escherichia coli str. K-12 substr. DH10B,"Inorganic Ion Transport and Metabolism",0.0258620689655172,0.142857142857143
+iECDH10B_1368,Escherichia coli str. K-12 substr. DH10B,"Membrane Lipid Metabolism",0.189655172413793,0.0785714285714286
+iECDH10B_1368,Escherichia coli str. K-12 substr. DH10B,"Nucleotide Salvage Pathway",0.0344827586206897,0.0571428571428571
+iECDH10B_1368,Escherichia coli str. K-12 substr. DH10B,"Oxidative Phosphorylation",0.00862068965517241,0.0357142857142857
+iECDH10B_1368,Escherichia coli str. K-12 substr. DH10B,"Purine and Pyrimidine Biosynthesis",0.0258620689655172,0.0214285714285714
+iECDH10B_1368,Escherichia coli str. K-12 substr. DH10B,"Pyruvate Metabolism",0.0258620689655172,0.0214285714285714
+iECDH10B_1368,Escherichia coli str. K-12 substr. DH10B,"Transport",0.0344827586206897,0.107142857142857
+iECDH10B_1368,Escherichia coli str. K-12 substr. DH10B,"Transport Outer Membrane Porin",0.387931034482759,0.314285714285714
+iECDH10B_1368,Escherichia coli str. K-12 substr. DH10B,"Transport, ABC system",0.0258620689655172,0.0357142857142857
+iECDH10B_1368,Escherichia coli str. K-12 substr. DH10B,"Transport, Outer Membrane",0.00862068965517241,0.00714285714285714
+iECDH1ME8569_1439,Escherichia coli DH1,"Alanine, Aspartate, and Glutamate Metabolism",0.0172413793103448,0.0285714285714286
+iECDH1ME8569_1439,Escherichia coli DH1,"Alternate Carbon Metabolism",0.0862068965517241,0.0428571428571429
+iECDH1ME8569_1439,Escherichia coli DH1,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0172413793103448,0.0285714285714286
+iECDH1ME8569_1439,Escherichia coli DH1,"Citrate cycle (TCA cycle)",0.00862068965517241,0.00714285714285714
+iECDH1ME8569_1439,Escherichia coli DH1,"Cofactor and Prosthetic Group Biosynthesis",0.0172413793103448,0.00714285714285714
+iECDH1ME8569_1439,Escherichia coli DH1,"Exchange",0.00862068965517241,0.0142857142857143
+iECDH1ME8569_1439,Escherichia coli DH1,"Folate Biosynthesis",0.0172413793103448,0.00714285714285714
+iECDH1ME8569_1439,Escherichia coli DH1,"Glycolysis and Gluconeogenesis",0.0517241379310345,0.0214285714285714
+iECDH1ME8569_1439,Escherichia coli DH1,"Histidine Biosynthesis",0.00862068965517241,0.0214285714285714
+iECDH1ME8569_1439,Escherichia coli DH1,"Inorganic Ion Transport and Metabolism",0.0258620689655172,0.142857142857143
+iECDH1ME8569_1439,Escherichia coli DH1,"Membrane Lipid Metabolism",0.189655172413793,0.0785714285714286
+iECDH1ME8569_1439,Escherichia coli DH1,"Nucleotide Salvage Pathway",0.0344827586206897,0.0571428571428571
+iECDH1ME8569_1439,Escherichia coli DH1,"Oxidative Phosphorylation",0.00862068965517241,0.0357142857142857
+iECDH1ME8569_1439,Escherichia coli DH1,"Purine and Pyrimidine Biosynthesis",0.0258620689655172,0.0214285714285714
+iECDH1ME8569_1439,Escherichia coli DH1,"Pyruvate Metabolism",0.0258620689655172,0.0214285714285714
+iECDH1ME8569_1439,Escherichia coli DH1,"Transport",0.0344827586206897,0.107142857142857
+iECDH1ME8569_1439,Escherichia coli DH1,"Transport Outer Membrane Porin",0.387931034482759,0.314285714285714
+iECDH1ME8569_1439,Escherichia coli DH1,"Transport, ABC system",0.0258620689655172,0.0357142857142857
+iECDH1ME8569_1439,Escherichia coli DH1,"Transport, Outer Membrane",0.00862068965517241,0.00714285714285714
+iECD_1391,Escherichia coli BL21(DE3),"Alanine, Aspartate, and Glutamate Metabolism",0.0175438596491228,0.0283687943262411
+iECD_1391,Escherichia coli BL21(DE3),"Alternate Carbon Metabolism",0.105263157894737,0.0567375886524823
+iECD_1391,Escherichia coli BL21(DE3),"Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis",0.0087719298245614,0.00709219858156028
+iECD_1391,Escherichia coli BL21(DE3),"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0175438596491228,0.0283687943262411
+iECD_1391,Escherichia coli BL21(DE3),"Citrate cycle (TCA cycle)",0.0087719298245614,0.00709219858156028
+iECD_1391,Escherichia coli BL21(DE3),"Cofactor and Prosthetic Group Biosynthesis",0.0175438596491228,0.00709219858156028
+iECD_1391,Escherichia coli BL21(DE3),"Exchange",0.0175438596491228,0.0212765957446809
+iECD_1391,Escherichia coli BL21(DE3),"Folate Biosynthesis",0.0175438596491228,0.00709219858156028
+iECD_1391,Escherichia coli BL21(DE3),"Glycolysis and Gluconeogenesis",0.0526315789473684,0.0212765957446809
+iECD_1391,Escherichia coli BL21(DE3),"Histidine Biosynthesis",0.0087719298245614,0.0212765957446809
+iECD_1391,Escherichia coli BL21(DE3),"Inorganic Ion Transport and Metabolism",0.0263157894736842,0.141843971631206
+iECD_1391,Escherichia coli BL21(DE3),"Membrane Lipid Metabolism",0.192982456140351,0.0780141843971631
+iECD_1391,Escherichia coli BL21(DE3),"Nucleotide Salvage Pathway",0.0350877192982456,0.0567375886524823
+iECD_1391,Escherichia coli BL21(DE3),"Oxidative Phosphorylation",0.0087719298245614,0.0354609929078014
+iECD_1391,Escherichia coli BL21(DE3),"Purine and Pyrimidine Biosynthesis",0.0263157894736842,0.0212765957446809
+iECD_1391,Escherichia coli BL21(DE3),"Pyruvate Metabolism",0.0263157894736842,0.0212765957446809
+iECD_1391,Escherichia coli BL21(DE3),"Transport",0.0350877192982456,0.106382978723404
+iECD_1391,Escherichia coli BL21(DE3),"Transport Outer Membrane Porin",0.342105263157895,0.290780141843972
+iECD_1391,Escherichia coli BL21(DE3),"Transport, ABC system",0.0263157894736842,0.0354609929078014
+iECD_1391,Escherichia coli BL21(DE3),"Transport, Outer Membrane",0.0087719298245614,0.00709219858156028
+iECED1_1282,Escherichia coli ED1a,"Alanine, Aspartate, and Glutamate Metabolism",0.0176991150442478,0.0287769784172662
+iECED1_1282,Escherichia coli ED1a,"Alternate Carbon Metabolism",0.0619469026548673,0.0359712230215827
+iECED1_1282,Escherichia coli ED1a,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0176991150442478,0.0287769784172662
+iECED1_1282,Escherichia coli ED1a,"Citrate cycle (TCA cycle)",0.00884955752212389,0.00719424460431655
+iECED1_1282,Escherichia coli ED1a,"Cofactor and Prosthetic Group Biosynthesis",0.0176991150442478,0.00719424460431655
+iECED1_1282,Escherichia coli ED1a,"Exchange",0.00884955752212389,0.0143884892086331
+iECED1_1282,Escherichia coli ED1a,"Folate Biosynthesis",0.0176991150442478,0.00719424460431655
+iECED1_1282,Escherichia coli ED1a,"Glycolysis and Gluconeogenesis",0.0530973451327434,0.0215827338129496
+iECED1_1282,Escherichia coli ED1a,"Histidine Biosynthesis",0.00884955752212389,0.0215827338129496
+iECED1_1282,Escherichia coli ED1a,"Inorganic Ion Transport and Metabolism",0.0265486725663717,0.143884892086331
+iECED1_1282,Escherichia coli ED1a,"Membrane Lipid Metabolism",0.194690265486726,0.079136690647482
+iECED1_1282,Escherichia coli ED1a,"Nucleotide Salvage Pathway",0.0353982300884956,0.0575539568345324
+iECED1_1282,Escherichia coli ED1a,"Oxidative Phosphorylation",0.00884955752212389,0.0359712230215827
+iECED1_1282,Escherichia coli ED1a,"Purine and Pyrimidine Biosynthesis",0.0265486725663717,0.0215827338129496
+iECED1_1282,Escherichia coli ED1a,"Pyruvate Metabolism",0.0265486725663717,0.0215827338129496
+iECED1_1282,Escherichia coli ED1a,"Transport",0.0353982300884956,0.107913669064748
+iECED1_1282,Escherichia coli ED1a,"Transport Outer Membrane Porin",0.398230088495575,0.316546762589928
+iECED1_1282,Escherichia coli ED1a,"Transport, ABC system",0.0265486725663717,0.0359712230215827
+iECED1_1282,Escherichia coli ED1a,"Transport, Outer Membrane",0.00884955752212389,0.00719424460431655
+iECH74115_1262,Escherichia coli O157:H7 str. EC4115,"Alanine, Aspartate, and Glutamate Metabolism",0.0185185185185185,0.0294117647058824
+iECH74115_1262,Escherichia coli O157:H7 str. EC4115,"Alternate Carbon Metabolism",0.0925925925925926,0.0441176470588235
+iECH74115_1262,Escherichia coli O157:H7 str. EC4115,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0185185185185185,0.0294117647058824
+iECH74115_1262,Escherichia coli O157:H7 str. EC4115,"Citrate cycle (TCA cycle)",0.00925925925925926,0.00735294117647059
+iECH74115_1262,Escherichia coli O157:H7 str. EC4115,"Cofactor and Prosthetic Group Biosynthesis",0.0185185185185185,0.00735294117647059
+iECH74115_1262,Escherichia coli O157:H7 str. EC4115,"Exchange",0.00925925925925926,0.0147058823529412
+iECH74115_1262,Escherichia coli O157:H7 str. EC4115,"Folate Biosynthesis",0.0185185185185185,0.00735294117647059
+iECH74115_1262,Escherichia coli O157:H7 str. EC4115,"Glycolysis and Gluconeogenesis",0.0555555555555556,0.0220588235294118
+iECH74115_1262,Escherichia coli O157:H7 str. EC4115,"Histidine Biosynthesis",0.00925925925925926,0.0220588235294118
+iECH74115_1262,Escherichia coli O157:H7 str. EC4115,"Inorganic Ion Transport and Metabolism",0.0277777777777778,0.147058823529412
+iECH74115_1262,Escherichia coli O157:H7 str. EC4115,"Membrane Lipid Metabolism",0.203703703703704,0.0808823529411765
+iECH74115_1262,Escherichia coli O157:H7 str. EC4115,"Nucleotide Salvage Pathway",0.037037037037037,0.0588235294117647
+iECH74115_1262,Escherichia coli O157:H7 str. EC4115,"Oxidative Phosphorylation",0.00925925925925926,0.0367647058823529
+iECH74115_1262,Escherichia coli O157:H7 str. EC4115,"Purine and Pyrimidine Biosynthesis",0.0277777777777778,0.0220588235294118
+iECH74115_1262,Escherichia coli O157:H7 str. EC4115,"Pyruvate Metabolism",0.0277777777777778,0.0220588235294118
+iECH74115_1262,Escherichia coli O157:H7 str. EC4115,"Transport",0.037037037037037,0.110294117647059
+iECH74115_1262,Escherichia coli O157:H7 str. EC4115,"Transport Outer Membrane Porin",0.342592592592593,0.294117647058824
+iECH74115_1262,Escherichia coli O157:H7 str. EC4115,"Transport, ABC system",0.0277777777777778,0.0367647058823529
+iECH74115_1262,Escherichia coli O157:H7 str. EC4115,"Transport, Outer Membrane",0.00925925925925926,0.00735294117647059
+iECIAI39_1322,Escherichia coli IAI39,"Alanine, Aspartate, and Glutamate Metabolism",0.0168067226890756,0.0224719101123595
+iECIAI39_1322,Escherichia coli IAI39,"Alternate Carbon Metabolism",0.0588235294117647,0.0280898876404494
+iECIAI39_1322,Escherichia coli IAI39,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0168067226890756,0.0224719101123595
+iECIAI39_1322,Escherichia coli IAI39,"Citrate cycle (TCA cycle)",0.0168067226890756,0.0337078651685393
+iECIAI39_1322,Escherichia coli IAI39,"Cofactor and Prosthetic Group Biosynthesis",0.0252100840336134,0.0337078651685393
+iECIAI39_1322,Escherichia coli IAI39,"Exchange",0.00840336134453781,0.0112359550561798
+iECIAI39_1322,Escherichia coli IAI39,"Folate Biosynthesis",0.0168067226890756,0.00561797752808989
+iECIAI39_1322,Escherichia coli IAI39,"Glycolysis and Gluconeogenesis",0.0504201680672269,0.0168539325842697
+iECIAI39_1322,Escherichia coli IAI39,"Histidine Biosynthesis",0.00840336134453781,0.0168539325842697
+iECIAI39_1322,Escherichia coli IAI39,"Inorganic Ion Transport and Metabolism",0.0252100840336134,0.112359550561798
+iECIAI39_1322,Escherichia coli IAI39,"Membrane Lipid Metabolism",0.235294117647059,0.146067415730337
+iECIAI39_1322,Escherichia coli IAI39,"Nucleotide Salvage Pathway",0.0336134453781513,0.0449438202247191
+iECIAI39_1322,Escherichia coli IAI39,"Oxidative Phosphorylation",0.00840336134453781,0.0280898876404494
+iECIAI39_1322,Escherichia coli IAI39,"Purine and Pyrimidine Biosynthesis",0.0252100840336134,0.0168539325842697
+iECIAI39_1322,Escherichia coli IAI39,"Pyruvate Metabolism",0.0252100840336134,0.0168539325842697
+iECIAI39_1322,Escherichia coli IAI39,"Transport",0.0336134453781513,0.0842696629213483
+iECIAI39_1322,Escherichia coli IAI39,"Transport Outer Membrane Porin",0.361344537815126,0.241573033707865
+iECIAI39_1322,Escherichia coli IAI39,"Transport, ABC system",0.0252100840336134,0.0280898876404494
+iECIAI39_1322,Escherichia coli IAI39,"Transport, Outer Membrane",0.00840336134453781,0.00561797752808989
+iECNA114_1301,Escherichia coli NA114,"Alanine, Aspartate, and Glutamate Metabolism",0.0172413793103448,0.0285714285714286
+iECNA114_1301,Escherichia coli NA114,"Alternate Carbon Metabolism",0.0862068965517241,0.0428571428571429
+iECNA114_1301,Escherichia coli NA114,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0172413793103448,0.0285714285714286
+iECNA114_1301,Escherichia coli NA114,"Citrate cycle (TCA cycle)",0.00862068965517241,0.00714285714285714
+iECNA114_1301,Escherichia coli NA114,"Cofactor and Prosthetic Group Biosynthesis",0.0172413793103448,0.00714285714285714
+iECNA114_1301,Escherichia coli NA114,"Exchange",0.00862068965517241,0.0142857142857143
+iECNA114_1301,Escherichia coli NA114,"Folate Biosynthesis",0.0172413793103448,0.00714285714285714
+iECNA114_1301,Escherichia coli NA114,"Glycolysis and Gluconeogenesis",0.0517241379310345,0.0214285714285714
+iECNA114_1301,Escherichia coli NA114,"Histidine Biosynthesis",0.00862068965517241,0.0214285714285714
+iECNA114_1301,Escherichia coli NA114,"Inorganic Ion Transport and Metabolism",0.0258620689655172,0.142857142857143
+iECNA114_1301,Escherichia coli NA114,"Membrane Lipid Metabolism",0.189655172413793,0.0785714285714286
+iECNA114_1301,Escherichia coli NA114,"Nucleotide Salvage Pathway",0.0344827586206897,0.0571428571428571
+iECNA114_1301,Escherichia coli NA114,"Oxidative Phosphorylation",0.00862068965517241,0.0357142857142857
+iECNA114_1301,Escherichia coli NA114,"Purine and Pyrimidine Biosynthesis",0.0258620689655172,0.0214285714285714
+iECNA114_1301,Escherichia coli NA114,"Pyruvate Metabolism",0.0258620689655172,0.0214285714285714
+iECNA114_1301,Escherichia coli NA114,"Transport",0.0344827586206897,0.107142857142857
+iECNA114_1301,Escherichia coli NA114,"Transport Outer Membrane Porin",0.387931034482759,0.314285714285714
+iECNA114_1301,Escherichia coli NA114,"Transport, ABC system",0.0258620689655172,0.0357142857142857
+iECNA114_1301,Escherichia coli NA114,"Transport, Outer Membrane",0.00862068965517241,0.00714285714285714
+iECO103_1326,Escherichia coli O103:H2 str. 12009,"Alanine, Aspartate, and Glutamate Metabolism",0.0166666666666667,0.0277777777777778
+iECO103_1326,Escherichia coli O103:H2 str. 12009,"Alternate Carbon Metabolism",0.1,0.0555555555555556
+iECO103_1326,Escherichia coli O103:H2 str. 12009,"Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis",0.00833333333333333,0.00694444444444444
+iECO103_1326,Escherichia coli O103:H2 str. 12009,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0166666666666667,0.0277777777777778
+iECO103_1326,Escherichia coli O103:H2 str. 12009,"Citrate cycle (TCA cycle)",0.00833333333333333,0.00694444444444444
+iECO103_1326,Escherichia coli O103:H2 str. 12009,"Cofactor and Prosthetic Group Biosynthesis",0.0166666666666667,0.00694444444444444
+iECO103_1326,Escherichia coli O103:H2 str. 12009,"Exchange",0.0166666666666667,0.0208333333333333
+iECO103_1326,Escherichia coli O103:H2 str. 12009,"Folate Biosynthesis",0.0166666666666667,0.00694444444444444
+iECO103_1326,Escherichia coli O103:H2 str. 12009,"Glycolysis and Gluconeogenesis",0.05,0.0208333333333333
+iECO103_1326,Escherichia coli O103:H2 str. 12009,"Histidine Biosynthesis",0.00833333333333333,0.0208333333333333
+iECO103_1326,Escherichia coli O103:H2 str. 12009,"Inorganic Ion Transport and Metabolism",0.025,0.138888888888889
+iECO103_1326,Escherichia coli O103:H2 str. 12009,"Membrane Lipid Metabolism",0.183333333333333,0.0763888888888889
+iECO103_1326,Escherichia coli O103:H2 str. 12009,"Nucleotide Salvage Pathway",0.0333333333333333,0.0555555555555556
+iECO103_1326,Escherichia coli O103:H2 str. 12009,"Oxidative Phosphorylation",0.00833333333333333,0.0347222222222222
+iECO103_1326,Escherichia coli O103:H2 str. 12009,"Purine and Pyrimidine Biosynthesis",0.025,0.0208333333333333
+iECO103_1326,Escherichia coli O103:H2 str. 12009,"Pyruvate Metabolism",0.025,0.0208333333333333
+iECO103_1326,Escherichia coli O103:H2 str. 12009,"Transport",0.0333333333333333,0.104166666666667
+iECO103_1326,Escherichia coli O103:H2 str. 12009,"Transport Outer Membrane Porin",0.375,0.305555555555556
+iECO103_1326,Escherichia coli O103:H2 str. 12009,"Transport, ABC system",0.025,0.0347222222222222
+iECO103_1326,Escherichia coli O103:H2 str. 12009,"Transport, Outer Membrane",0.00833333333333333,0.00694444444444444
+iECO111_1330,Escherichia coli O111:H- str. 11128,"Alanine, Aspartate, and Glutamate Metabolism",0.0172413793103448,0.0285714285714286
+iECO111_1330,Escherichia coli O111:H- str. 11128,"Alternate Carbon Metabolism",0.103448275862069,0.0571428571428571
+iECO111_1330,Escherichia coli O111:H- str. 11128,"Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis",0.00862068965517241,0.00714285714285714
+iECO111_1330,Escherichia coli O111:H- str. 11128,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0172413793103448,0.0285714285714286
+iECO111_1330,Escherichia coli O111:H- str. 11128,"Citrate cycle (TCA cycle)",0.00862068965517241,0.00714285714285714
+iECO111_1330,Escherichia coli O111:H- str. 11128,"Cofactor and Prosthetic Group Biosynthesis",0.0172413793103448,0.00714285714285714
+iECO111_1330,Escherichia coli O111:H- str. 11128,"Exchange",0.00862068965517241,0.00714285714285714
+iECO111_1330,Escherichia coli O111:H- str. 11128,"Folate Biosynthesis",0.0172413793103448,0.00714285714285714
+iECO111_1330,Escherichia coli O111:H- str. 11128,"Glycolysis and Gluconeogenesis",0.0517241379310345,0.0214285714285714
+iECO111_1330,Escherichia coli O111:H- str. 11128,"Histidine Biosynthesis",0.00862068965517241,0.0214285714285714
+iECO111_1330,Escherichia coli O111:H- str. 11128,"Inorganic Ion Transport and Metabolism",0.0258620689655172,0.142857142857143
+iECO111_1330,Escherichia coli O111:H- str. 11128,"Membrane Lipid Metabolism",0.189655172413793,0.0785714285714286
+iECO111_1330,Escherichia coli O111:H- str. 11128,"Nucleotide Salvage Pathway",0.0344827586206897,0.0571428571428571
+iECO111_1330,Escherichia coli O111:H- str. 11128,"Oxidative Phosphorylation",0.00862068965517241,0.0357142857142857
+iECO111_1330,Escherichia coli O111:H- str. 11128,"Purine and Pyrimidine Biosynthesis",0.0258620689655172,0.0214285714285714
+iECO111_1330,Escherichia coli O111:H- str. 11128,"Pyruvate Metabolism",0.0258620689655172,0.0214285714285714
+iECO111_1330,Escherichia coli O111:H- str. 11128,"Transport",0.0344827586206897,0.107142857142857
+iECO111_1330,Escherichia coli O111:H- str. 11128,"Transport Outer Membrane Porin",0.362068965517241,0.3
+iECO111_1330,Escherichia coli O111:H- str. 11128,"Transport, ABC system",0.0258620689655172,0.0357142857142857
+iECO111_1330,Escherichia coli O111:H- str. 11128,"Transport, Outer Membrane",0.00862068965517241,0.00714285714285714
+iECO26_1355,Escherichia coli O26:H11 str. 11368,"Alanine, Aspartate, and Glutamate Metabolism",0.0166666666666667,0.0277777777777778
+iECO26_1355,Escherichia coli O26:H11 str. 11368,"Alternate Carbon Metabolism",0.1,0.0555555555555556
+iECO26_1355,Escherichia coli O26:H11 str. 11368,"Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis",0.00833333333333333,0.00694444444444444
+iECO26_1355,Escherichia coli O26:H11 str. 11368,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0166666666666667,0.0277777777777778
+iECO26_1355,Escherichia coli O26:H11 str. 11368,"Citrate cycle (TCA cycle)",0.00833333333333333,0.00694444444444444
+iECO26_1355,Escherichia coli O26:H11 str. 11368,"Cofactor and Prosthetic Group Biosynthesis",0.0166666666666667,0.00694444444444444
+iECO26_1355,Escherichia coli O26:H11 str. 11368,"Exchange",0.0166666666666667,0.0208333333333333
+iECO26_1355,Escherichia coli O26:H11 str. 11368,"Folate Biosynthesis",0.0166666666666667,0.00694444444444444
+iECO26_1355,Escherichia coli O26:H11 str. 11368,"Glycolysis and Gluconeogenesis",0.05,0.0208333333333333
+iECO26_1355,Escherichia coli O26:H11 str. 11368,"Histidine Biosynthesis",0.00833333333333333,0.0208333333333333
+iECO26_1355,Escherichia coli O26:H11 str. 11368,"Inorganic Ion Transport and Metabolism",0.025,0.138888888888889
+iECO26_1355,Escherichia coli O26:H11 str. 11368,"Membrane Lipid Metabolism",0.183333333333333,0.0763888888888889
+iECO26_1355,Escherichia coli O26:H11 str. 11368,"Nucleotide Salvage Pathway",0.0333333333333333,0.0555555555555556
+iECO26_1355,Escherichia coli O26:H11 str. 11368,"Oxidative Phosphorylation",0.00833333333333333,0.0347222222222222
+iECO26_1355,Escherichia coli O26:H11 str. 11368,"Purine and Pyrimidine Biosynthesis",0.025,0.0208333333333333
+iECO26_1355,Escherichia coli O26:H11 str. 11368,"Pyruvate Metabolism",0.025,0.0208333333333333
+iECO26_1355,Escherichia coli O26:H11 str. 11368,"Transport",0.0333333333333333,0.104166666666667
+iECO26_1355,Escherichia coli O26:H11 str. 11368,"Transport Outer Membrane Porin",0.375,0.305555555555556
+iECO26_1355,Escherichia coli O26:H11 str. 11368,"Transport, ABC system",0.025,0.0347222222222222
+iECO26_1355,Escherichia coli O26:H11 str. 11368,"Transport, Outer Membrane",0.00833333333333333,0.00694444444444444
+iECOK1_1307,Escherichia coli IHE3034,"Alanine, Aspartate, and Glutamate Metabolism",0.0161290322580645,0.0222222222222222
+iECOK1_1307,Escherichia coli IHE3034,"Alternate Carbon Metabolism",0.0806451612903226,0.0333333333333333
+iECOK1_1307,Escherichia coli IHE3034,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0161290322580645,0.0222222222222222
+iECOK1_1307,Escherichia coli IHE3034,"Citrate cycle (TCA cycle)",0.0161290322580645,0.0333333333333333
+iECOK1_1307,Escherichia coli IHE3034,"Cofactor and Prosthetic Group Biosynthesis",0.0241935483870968,0.0333333333333333
+iECOK1_1307,Escherichia coli IHE3034,"Exchange",0.00806451612903226,0.0111111111111111
+iECOK1_1307,Escherichia coli IHE3034,"Folate Biosynthesis",0.0161290322580645,0.00555555555555556
+iECOK1_1307,Escherichia coli IHE3034,"Glycolysis and Gluconeogenesis",0.0483870967741935,0.0166666666666667
+iECOK1_1307,Escherichia coli IHE3034,"Histidine Biosynthesis",0.00806451612903226,0.0166666666666667
+iECOK1_1307,Escherichia coli IHE3034,"Inorganic Ion Transport and Metabolism",0.0241935483870968,0.111111111111111
+iECOK1_1307,Escherichia coli IHE3034,"Membrane Lipid Metabolism",0.225806451612903,0.144444444444444
+iECOK1_1307,Escherichia coli IHE3034,"Nucleotide Salvage Pathway",0.032258064516129,0.0444444444444444
+iECOK1_1307,Escherichia coli IHE3034,"Oxidative Phosphorylation",0.00806451612903226,0.0277777777777778
+iECOK1_1307,Escherichia coli IHE3034,"Purine and Pyrimidine Biosynthesis",0.0241935483870968,0.0166666666666667
+iECOK1_1307,Escherichia coli IHE3034,"Pyruvate Metabolism",0.0241935483870968,0.0166666666666667
+iECOK1_1307,Escherichia coli IHE3034,"Transport",0.032258064516129,0.0833333333333333
+iECOK1_1307,Escherichia coli IHE3034,"Transport Outer Membrane Porin",0.362903225806452,0.244444444444444
+iECOK1_1307,Escherichia coli IHE3034,"Transport, ABC system",0.0241935483870968,0.0277777777777778
+iECOK1_1307,Escherichia coli IHE3034,"Transport, Outer Membrane",0.00806451612903226,0.00555555555555556
+iECP_1309,Escherichia coli 536,"Alanine, Aspartate, and Glutamate Metabolism",0.0161290322580645,0.0222222222222222
+iECP_1309,Escherichia coli 536,"Alternate Carbon Metabolism",0.0806451612903226,0.0333333333333333
+iECP_1309,Escherichia coli 536,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0161290322580645,0.0222222222222222
+iECP_1309,Escherichia coli 536,"Citrate cycle (TCA cycle)",0.0161290322580645,0.0333333333333333
+iECP_1309,Escherichia coli 536,"Cofactor and Prosthetic Group Biosynthesis",0.0241935483870968,0.0333333333333333
+iECP_1309,Escherichia coli 536,"Exchange",0.00806451612903226,0.0111111111111111
+iECP_1309,Escherichia coli 536,"Folate Biosynthesis",0.0161290322580645,0.00555555555555556
+iECP_1309,Escherichia coli 536,"Glycolysis and Gluconeogenesis",0.0483870967741935,0.0166666666666667
+iECP_1309,Escherichia coli 536,"Histidine Biosynthesis",0.00806451612903226,0.0166666666666667
+iECP_1309,Escherichia coli 536,"Inorganic Ion Transport and Metabolism",0.0241935483870968,0.111111111111111
+iECP_1309,Escherichia coli 536,"Membrane Lipid Metabolism",0.225806451612903,0.144444444444444
+iECP_1309,Escherichia coli 536,"Nucleotide Salvage Pathway",0.032258064516129,0.0444444444444444
+iECP_1309,Escherichia coli 536,"Oxidative Phosphorylation",0.00806451612903226,0.0277777777777778
+iECP_1309,Escherichia coli 536,"Purine and Pyrimidine Biosynthesis",0.0241935483870968,0.0166666666666667
+iECP_1309,Escherichia coli 536,"Pyruvate Metabolism",0.0241935483870968,0.0166666666666667
+iECP_1309,Escherichia coli 536,"Transport",0.032258064516129,0.0833333333333333
+iECP_1309,Escherichia coli 536,"Transport Outer Membrane Porin",0.362903225806452,0.244444444444444
+iECP_1309,Escherichia coli 536,"Transport, ABC system",0.0241935483870968,0.0277777777777778
+iECP_1309,Escherichia coli 536,"Transport, Outer Membrane",0.00806451612903226,0.00555555555555556
+iECS88_1305,Escherichia coli S88,"Alanine, Aspartate, and Glutamate Metabolism",0.0165289256198347,0.0238095238095238
+iECS88_1305,Escherichia coli S88,"Alternate Carbon Metabolism",0.0826446280991736,0.0357142857142857
+iECS88_1305,Escherichia coli S88,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0165289256198347,0.0238095238095238
+iECS88_1305,Escherichia coli S88,"Citrate cycle (TCA cycle)",0.0165289256198347,0.0357142857142857
+iECS88_1305,Escherichia coli S88,"Cofactor and Prosthetic Group Biosynthesis",0.0247933884297521,0.0357142857142857
+iECS88_1305,Escherichia coli S88,"Exchange",0.00826446280991736,0.0119047619047619
+iECS88_1305,Escherichia coli S88,"Folate Biosynthesis",0.0165289256198347,0.00595238095238095
+iECS88_1305,Escherichia coli S88,"Glycolysis and Gluconeogenesis",0.0495867768595041,0.0178571428571429
+iECS88_1305,Escherichia coli S88,"Histidine Biosynthesis",0.00826446280991736,0.0178571428571429
+iECS88_1305,Escherichia coli S88,"Inorganic Ion Transport and Metabolism",0.0247933884297521,0.107142857142857
+iECS88_1305,Escherichia coli S88,"Membrane Lipid Metabolism",0.231404958677686,0.154761904761905
+iECS88_1305,Escherichia coli S88,"Nucleotide Salvage Pathway",0.0330578512396694,0.0476190476190476
+iECS88_1305,Escherichia coli S88,"Oxidative Phosphorylation",0.00826446280991736,0.0297619047619048
+iECS88_1305,Escherichia coli S88,"Purine and Pyrimidine Biosynthesis",0.0247933884297521,0.0178571428571429
+iECS88_1305,Escherichia coli S88,"Pyruvate Metabolism",0.0247933884297521,0.0178571428571429
+iECS88_1305,Escherichia coli S88,"Transport",0.0330578512396694,0.0714285714285714
+iECS88_1305,Escherichia coli S88,"Transport Outer Membrane Porin",0.347107438016529,0.238095238095238
+iECS88_1305,Escherichia coli S88,"Transport, ABC system",0.0247933884297521,0.0119047619047619
+iECS88_1305,Escherichia coli S88,"Transport, Outer Membrane",0.00826446280991736,0.00595238095238095
+iECSE_1348,Escherichia coli SE11,"Alanine, Aspartate, and Glutamate Metabolism",0.0166666666666667,0.0277777777777778
+iECSE_1348,Escherichia coli SE11,"Alternate Carbon Metabolism",0.1,0.0555555555555556
+iECSE_1348,Escherichia coli SE11,"Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis",0.00833333333333333,0.00694444444444444
+iECSE_1348,Escherichia coli SE11,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0166666666666667,0.0277777777777778
+iECSE_1348,Escherichia coli SE11,"Citrate cycle (TCA cycle)",0.00833333333333333,0.00694444444444444
+iECSE_1348,Escherichia coli SE11,"Cofactor and Prosthetic Group Biosynthesis",0.0166666666666667,0.00694444444444444
+iECSE_1348,Escherichia coli SE11,"Exchange",0.0166666666666667,0.0208333333333333
+iECSE_1348,Escherichia coli SE11,"Folate Biosynthesis",0.0166666666666667,0.00694444444444444
+iECSE_1348,Escherichia coli SE11,"Glycolysis and Gluconeogenesis",0.05,0.0208333333333333
+iECSE_1348,Escherichia coli SE11,"Histidine Biosynthesis",0.00833333333333333,0.0208333333333333
+iECSE_1348,Escherichia coli SE11,"Inorganic Ion Transport and Metabolism",0.025,0.138888888888889
+iECSE_1348,Escherichia coli SE11,"Membrane Lipid Metabolism",0.183333333333333,0.0763888888888889
+iECSE_1348,Escherichia coli SE11,"Nucleotide Salvage Pathway",0.0333333333333333,0.0555555555555556
+iECSE_1348,Escherichia coli SE11,"Oxidative Phosphorylation",0.00833333333333333,0.0347222222222222
+iECSE_1348,Escherichia coli SE11,"Purine and Pyrimidine Biosynthesis",0.025,0.0208333333333333
+iECSE_1348,Escherichia coli SE11,"Pyruvate Metabolism",0.025,0.0208333333333333
+iECSE_1348,Escherichia coli SE11,"Transport",0.0333333333333333,0.104166666666667
+iECSE_1348,Escherichia coli SE11,"Transport Outer Membrane Porin",0.375,0.305555555555556
+iECSE_1348,Escherichia coli SE11,"Transport, ABC system",0.025,0.0347222222222222
+iECSE_1348,Escherichia coli SE11,"Transport, Outer Membrane",0.00833333333333333,0.00694444444444444
+iECSF_1327,Escherichia coli SE15,"Alanine, Aspartate, and Glutamate Metabolism",0.0172413793103448,0.0285714285714286
+iECSF_1327,Escherichia coli SE15,"Alternate Carbon Metabolism",0.0862068965517241,0.0428571428571429
+iECSF_1327,Escherichia coli SE15,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0172413793103448,0.0285714285714286
+iECSF_1327,Escherichia coli SE15,"Citrate cycle (TCA cycle)",0.00862068965517241,0.00714285714285714
+iECSF_1327,Escherichia coli SE15,"Cofactor and Prosthetic Group Biosynthesis",0.0172413793103448,0.00714285714285714
+iECSF_1327,Escherichia coli SE15,"Exchange",0.00862068965517241,0.0142857142857143
+iECSF_1327,Escherichia coli SE15,"Folate Biosynthesis",0.0172413793103448,0.00714285714285714
+iECSF_1327,Escherichia coli SE15,"Glycolysis and Gluconeogenesis",0.0517241379310345,0.0214285714285714
+iECSF_1327,Escherichia coli SE15,"Histidine Biosynthesis",0.00862068965517241,0.0214285714285714
+iECSF_1327,Escherichia coli SE15,"Inorganic Ion Transport and Metabolism",0.0258620689655172,0.142857142857143
+iECSF_1327,Escherichia coli SE15,"Membrane Lipid Metabolism",0.189655172413793,0.0785714285714286
+iECSF_1327,Escherichia coli SE15,"Nucleotide Salvage Pathway",0.0344827586206897,0.0571428571428571
+iECSF_1327,Escherichia coli SE15,"Oxidative Phosphorylation",0.00862068965517241,0.0357142857142857
+iECSF_1327,Escherichia coli SE15,"Purine and Pyrimidine Biosynthesis",0.0258620689655172,0.0214285714285714
+iECSF_1327,Escherichia coli SE15,"Pyruvate Metabolism",0.0258620689655172,0.0214285714285714
+iECSF_1327,Escherichia coli SE15,"Transport",0.0344827586206897,0.107142857142857
+iECSF_1327,Escherichia coli SE15,"Transport Outer Membrane Porin",0.387931034482759,0.314285714285714
+iECSF_1327,Escherichia coli SE15,"Transport, ABC system",0.0258620689655172,0.0357142857142857
+iECSF_1327,Escherichia coli SE15,"Transport, Outer Membrane",0.00862068965517241,0.00714285714285714
+iECSP_1301,Escherichia coli O157:H7 str. TW14359,"Alanine, Aspartate, and Glutamate Metabolism",0.0181818181818182,0.0291970802919708
+iECSP_1301,Escherichia coli O157:H7 str. TW14359,"Alternate Carbon Metabolism",0.0909090909090909,0.0437956204379562
+iECSP_1301,Escherichia coli O157:H7 str. TW14359,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0181818181818182,0.0291970802919708
+iECSP_1301,Escherichia coli O157:H7 str. TW14359,"Citrate cycle (TCA cycle)",0.00909090909090909,0.0072992700729927
+iECSP_1301,Escherichia coli O157:H7 str. TW14359,"Cofactor and Prosthetic Group Biosynthesis",0.0181818181818182,0.0072992700729927
+iECSP_1301,Escherichia coli O157:H7 str. TW14359,"Exchange",0.00909090909090909,0.0145985401459854
+iECSP_1301,Escherichia coli O157:H7 str. TW14359,"Folate Biosynthesis",0.0181818181818182,0.0072992700729927
+iECSP_1301,Escherichia coli O157:H7 str. TW14359,"Glycolysis and Gluconeogenesis",0.0545454545454545,0.0218978102189781
+iECSP_1301,Escherichia coli O157:H7 str. TW14359,"Histidine Biosynthesis",0.00909090909090909,0.0218978102189781
+iECSP_1301,Escherichia coli O157:H7 str. TW14359,"Inorganic Ion Transport and Metabolism",0.0272727272727273,0.145985401459854
+iECSP_1301,Escherichia coli O157:H7 str. TW14359,"Membrane Lipid Metabolism",0.2,0.0802919708029197
+iECSP_1301,Escherichia coli O157:H7 str. TW14359,"Nucleotide Salvage Pathway",0.0363636363636364,0.0583941605839416
+iECSP_1301,Escherichia coli O157:H7 str. TW14359,"Oxidative Phosphorylation",0.00909090909090909,0.0364963503649635
+iECSP_1301,Escherichia coli O157:H7 str. TW14359,"Purine and Pyrimidine Biosynthesis",0.0272727272727273,0.0218978102189781
+iECSP_1301,Escherichia coli O157:H7 str. TW14359,"Pyruvate Metabolism",0.0272727272727273,0.0218978102189781
+iECSP_1301,Escherichia coli O157:H7 str. TW14359,"Transport",0.0363636363636364,0.109489051094891
+iECSP_1301,Escherichia coli O157:H7 str. TW14359,"Transport Outer Membrane Porin",0.354545454545455,0.299270072992701
+iECSP_1301,Escherichia coli O157:H7 str. TW14359,"Transport, ABC system",0.0272727272727273,0.0364963503649635
+iECSP_1301,Escherichia coli O157:H7 str. TW14359,"Transport, Outer Membrane",0.00909090909090909,0.0072992700729927
+iECUMN_1333,Escherichia coli UMN026,"Alanine, Aspartate, and Glutamate Metabolism",0.0175438596491228,0.0261437908496732
+iECUMN_1333,Escherichia coli UMN026,"Alternate Carbon Metabolism",0.114035087719298,0.0784313725490196
+iECUMN_1333,Escherichia coli UMN026,"Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis",0.0087719298245614,0.0065359477124183
+iECUMN_1333,Escherichia coli UMN026,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0175438596491228,0.0261437908496732
+iECUMN_1333,Escherichia coli UMN026,"Citrate cycle (TCA cycle)",0.0087719298245614,0.0065359477124183
+iECUMN_1333,Escherichia coli UMN026,"Cofactor and Prosthetic Group Biosynthesis",0.0175438596491228,0.0065359477124183
+iECUMN_1333,Escherichia coli UMN026,"Exchange",0.0087719298245614,0.0065359477124183
+iECUMN_1333,Escherichia coli UMN026,"Folate Biosynthesis",0.0175438596491228,0.0065359477124183
+iECUMN_1333,Escherichia coli UMN026,"Glycolysis and Gluconeogenesis",0.0526315789473684,0.0196078431372549
+iECUMN_1333,Escherichia coli UMN026,"Histidine Biosynthesis",0.0087719298245614,0.0196078431372549
+iECUMN_1333,Escherichia coli UMN026,"Inorganic Ion Transport and Metabolism",0.0263157894736842,0.130718954248366
+iECUMN_1333,Escherichia coli UMN026,"Membrane Lipid Metabolism",0.192982456140351,0.0718954248366013
+iECUMN_1333,Escherichia coli UMN026,"Nucleotide Salvage Pathway",0.0350877192982456,0.0522875816993464
+iECUMN_1333,Escherichia coli UMN026,"Oxidative Phosphorylation",0.0087719298245614,0.0326797385620915
+iECUMN_1333,Escherichia coli UMN026,"Purine and Pyrimidine Biosynthesis",0.0263157894736842,0.0196078431372549
+iECUMN_1333,Escherichia coli UMN026,"Pyruvate Metabolism",0.0263157894736842,0.0196078431372549
+iECUMN_1333,Escherichia coli UMN026,"Transport",0.0350877192982456,0.0980392156862745
+iECUMN_1333,Escherichia coli UMN026,"Transport Inner Membrane",0.0087719298245614,0.0261437908496732
+iECUMN_1333,Escherichia coli UMN026,"Transport Outer Membrane Porin",0.324561403508772,0.281045751633987
+iECUMN_1333,Escherichia coli UMN026,"Transport, ABC system",0.0350877192982456,0.0588235294117647
+iECUMN_1333,Escherichia coli UMN026,"Transport, Outer Membrane",0.0087719298245614,0.0065359477124183
+iECW_1372,Escherichia coli W,"Alanine, Aspartate, and Glutamate Metabolism",0.0175438596491228,0.0283687943262411
+iECW_1372,Escherichia coli W,"Alternate Carbon Metabolism",0.105263157894737,0.0567375886524823
+iECW_1372,Escherichia coli W,"Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis",0.0087719298245614,0.00709219858156028
+iECW_1372,Escherichia coli W,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0175438596491228,0.0283687943262411
+iECW_1372,Escherichia coli W,"Citrate cycle (TCA cycle)",0.0087719298245614,0.00709219858156028
+iECW_1372,Escherichia coli W,"Cofactor and Prosthetic Group Biosynthesis",0.0175438596491228,0.00709219858156028
+iECW_1372,Escherichia coli W,"Exchange",0.0175438596491228,0.0212765957446809
+iECW_1372,Escherichia coli W,"Folate Biosynthesis",0.0175438596491228,0.00709219858156028
+iECW_1372,Escherichia coli W,"Glycolysis and Gluconeogenesis",0.0526315789473684,0.0212765957446809
+iECW_1372,Escherichia coli W,"Histidine Biosynthesis",0.0087719298245614,0.0212765957446809
+iECW_1372,Escherichia coli W,"Inorganic Ion Transport and Metabolism",0.0263157894736842,0.141843971631206
+iECW_1372,Escherichia coli W,"Membrane Lipid Metabolism",0.192982456140351,0.0780141843971631
+iECW_1372,Escherichia coli W,"Nucleotide Salvage Pathway",0.0350877192982456,0.0567375886524823
+iECW_1372,Escherichia coli W,"Oxidative Phosphorylation",0.0087719298245614,0.0354609929078014
+iECW_1372,Escherichia coli W,"Purine and Pyrimidine Biosynthesis",0.0263157894736842,0.0212765957446809
+iECW_1372,Escherichia coli W,"Pyruvate Metabolism",0.0263157894736842,0.0212765957446809
+iECW_1372,Escherichia coli W,"Transport",0.0350877192982456,0.106382978723404
+iECW_1372,Escherichia coli W,"Transport Outer Membrane Porin",0.342105263157895,0.290780141843972
+iECW_1372,Escherichia coli W,"Transport, ABC system",0.0263157894736842,0.0354609929078014
+iECW_1372,Escherichia coli W,"Transport, Outer Membrane",0.0087719298245614,0.00709219858156028
+iECs_1301,Escherichia coli O157:H7 str. Sakai,"Alanine, Aspartate, and Glutamate Metabolism",0.0181818181818182,0.0291970802919708
+iECs_1301,Escherichia coli O157:H7 str. Sakai,"Alternate Carbon Metabolism",0.0909090909090909,0.0437956204379562
+iECs_1301,Escherichia coli O157:H7 str. Sakai,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0181818181818182,0.0291970802919708
+iECs_1301,Escherichia coli O157:H7 str. Sakai,"Citrate cycle (TCA cycle)",0.00909090909090909,0.0072992700729927
+iECs_1301,Escherichia coli O157:H7 str. Sakai,"Cofactor and Prosthetic Group Biosynthesis",0.0181818181818182,0.0072992700729927
+iECs_1301,Escherichia coli O157:H7 str. Sakai,"Exchange",0.00909090909090909,0.0145985401459854
+iECs_1301,Escherichia coli O157:H7 str. Sakai,"Folate Biosynthesis",0.0181818181818182,0.0072992700729927
+iECs_1301,Escherichia coli O157:H7 str. Sakai,"Glycolysis and Gluconeogenesis",0.0545454545454545,0.0218978102189781
+iECs_1301,Escherichia coli O157:H7 str. Sakai,"Histidine Biosynthesis",0.00909090909090909,0.0218978102189781
+iECs_1301,Escherichia coli O157:H7 str. Sakai,"Inorganic Ion Transport and Metabolism",0.0272727272727273,0.145985401459854
+iECs_1301,Escherichia coli O157:H7 str. Sakai,"Membrane Lipid Metabolism",0.2,0.0802919708029197
+iECs_1301,Escherichia coli O157:H7 str. Sakai,"Nucleotide Salvage Pathway",0.0363636363636364,0.0583941605839416
+iECs_1301,Escherichia coli O157:H7 str. Sakai,"Oxidative Phosphorylation",0.00909090909090909,0.0364963503649635
+iECs_1301,Escherichia coli O157:H7 str. Sakai,"Purine and Pyrimidine Biosynthesis",0.0272727272727273,0.0218978102189781
+iECs_1301,Escherichia coli O157:H7 str. Sakai,"Pyruvate Metabolism",0.0272727272727273,0.0218978102189781
+iECs_1301,Escherichia coli O157:H7 str. Sakai,"Transport",0.0363636363636364,0.109489051094891
+iECs_1301,Escherichia coli O157:H7 str. Sakai,"Transport Outer Membrane Porin",0.354545454545455,0.299270072992701
+iECs_1301,Escherichia coli O157:H7 str. Sakai,"Transport, ABC system",0.0272727272727273,0.0364963503649635
+iECs_1301,Escherichia coli O157:H7 str. Sakai,"Transport, Outer Membrane",0.00909090909090909,0.0072992700729927
+iEK1008,Mycobacterium tuberculosis H37Rv,"Alanine, Aspartate, and Glutamate Metabolism",0.15,0.2
+iEK1008,Mycobacterium tuberculosis H37Rv,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.1,0.1
+iEK1008,Mycobacterium tuberculosis H37Rv,"Citrate cycle (TCA cycle)",0.1,0.1
+iEK1008,Mycobacterium tuberculosis H37Rv,"Cofactor and Prosthetic Group Biosynthesis",0.05,0.1
+iEK1008,Mycobacterium tuberculosis H37Rv,"Folate Biosynthesis",0.1,0.1
+iEK1008,Mycobacterium tuberculosis H37Rv,"Oxidative Phosphorylation",0.1,0.1
+iEK1008,Mycobacterium tuberculosis H37Rv,"Purine and Pyrimidine Biosynthesis",0.15,0.1
+iEK1008,Mycobacterium tuberculosis H37Rv,"Redox Metabolism",0.1,0.1
+iEK1008,Mycobacterium tuberculosis H37Rv,"Transport",0.15,0.1
+iEKO11_1354,Escherichia coli KO11FL,"Alanine, Aspartate, and Glutamate Metabolism",0.0175438596491228,0.0283687943262411
+iEKO11_1354,Escherichia coli KO11FL,"Alternate Carbon Metabolism",0.105263157894737,0.0567375886524823
+iEKO11_1354,Escherichia coli KO11FL,"Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis",0.0087719298245614,0.00709219858156028
+iEKO11_1354,Escherichia coli KO11FL,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0175438596491228,0.0283687943262411
+iEKO11_1354,Escherichia coli KO11FL,"Citrate cycle (TCA cycle)",0.0087719298245614,0.00709219858156028
+iEKO11_1354,Escherichia coli KO11FL,"Cofactor and Prosthetic Group Biosynthesis",0.0175438596491228,0.00709219858156028
+iEKO11_1354,Escherichia coli KO11FL,"Exchange",0.0175438596491228,0.0212765957446809
+iEKO11_1354,Escherichia coli KO11FL,"Folate Biosynthesis",0.0175438596491228,0.00709219858156028
+iEKO11_1354,Escherichia coli KO11FL,"Glycolysis and Gluconeogenesis",0.0526315789473684,0.0212765957446809
+iEKO11_1354,Escherichia coli KO11FL,"Histidine Biosynthesis",0.0087719298245614,0.0212765957446809
+iEKO11_1354,Escherichia coli KO11FL,"Inorganic Ion Transport and Metabolism",0.0263157894736842,0.141843971631206
+iEKO11_1354,Escherichia coli KO11FL,"Membrane Lipid Metabolism",0.192982456140351,0.0780141843971631
+iEKO11_1354,Escherichia coli KO11FL,"Nucleotide Salvage Pathway",0.0350877192982456,0.0567375886524823
+iEKO11_1354,Escherichia coli KO11FL,"Oxidative Phosphorylation",0.0087719298245614,0.0354609929078014
+iEKO11_1354,Escherichia coli KO11FL,"Purine and Pyrimidine Biosynthesis",0.0263157894736842,0.0212765957446809
+iEKO11_1354,Escherichia coli KO11FL,"Pyruvate Metabolism",0.0263157894736842,0.0212765957446809
+iEKO11_1354,Escherichia coli KO11FL,"Transport",0.0350877192982456,0.106382978723404
+iEKO11_1354,Escherichia coli KO11FL,"Transport Outer Membrane Porin",0.342105263157895,0.290780141843972
+iEKO11_1354,Escherichia coli KO11FL,"Transport, ABC system",0.0263157894736842,0.0354609929078014
+iEKO11_1354,Escherichia coli KO11FL,"Transport, Outer Membrane",0.0087719298245614,0.00709219858156028
+iETEC_1333,Escherichia coli ETEC H10407,"Alanine, Aspartate, and Glutamate Metabolism",0.0173913043478261,0.0310077519379845
+iETEC_1333,Escherichia coli ETEC H10407,"Alternate Carbon Metabolism",0.0869565217391304,0.0465116279069767
+iETEC_1333,Escherichia coli ETEC H10407,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0173913043478261,0.0310077519379845
+iETEC_1333,Escherichia coli ETEC H10407,"Citrate cycle (TCA cycle)",0.00869565217391304,0.00775193798449612
+iETEC_1333,Escherichia coli ETEC H10407,"Cofactor and Prosthetic Group Biosynthesis",0.0173913043478261,0.00775193798449612
+iETEC_1333,Escherichia coli ETEC H10407,"Exchange",0.00869565217391304,0.0155038759689922
+iETEC_1333,Escherichia coli ETEC H10407,"Folate Biosynthesis",0.0173913043478261,0.00775193798449612
+iETEC_1333,Escherichia coli ETEC H10407,"Glycolysis and Gluconeogenesis",0.0521739130434783,0.0232558139534884
+iETEC_1333,Escherichia coli ETEC H10407,"Histidine Biosynthesis",0.00869565217391304,0.0232558139534884
+iETEC_1333,Escherichia coli ETEC H10407,"Inorganic Ion Transport and Metabolism",0.0260869565217391,0.13953488372093
+iETEC_1333,Escherichia coli ETEC H10407,"Membrane Lipid Metabolism",0.191304347826087,0.0852713178294574
+iETEC_1333,Escherichia coli ETEC H10407,"Nucleotide Salvage Pathway",0.0347826086956522,0.062015503875969
+iETEC_1333,Escherichia coli ETEC H10407,"Oxidative Phosphorylation",0.00869565217391304,0.0387596899224806
+iETEC_1333,Escherichia coli ETEC H10407,"Purine and Pyrimidine Biosynthesis",0.0260869565217391,0.0232558139534884
+iETEC_1333,Escherichia coli ETEC H10407,"Pyruvate Metabolism",0.0260869565217391,0.0232558139534884
+iETEC_1333,Escherichia coli ETEC H10407,"Transport",0.0347826086956522,0.0930232558139535
+iETEC_1333,Escherichia coli ETEC H10407,"Transport Outer Membrane Porin",0.382608695652174,0.317829457364341
+iETEC_1333,Escherichia coli ETEC H10407,"Transport, ABC system",0.0260869565217391,0.0155038759689922
+iETEC_1333,Escherichia coli ETEC H10407,"Transport, Outer Membrane",0.00869565217391304,0.00775193798449612
+iEcDH1_1363,Escherichia coli DH1,"Alanine, Aspartate, and Glutamate Metabolism",0.0172413793103448,0.0285714285714286
+iEcDH1_1363,Escherichia coli DH1,"Alternate Carbon Metabolism",0.0862068965517241,0.0428571428571429
+iEcDH1_1363,Escherichia coli DH1,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0172413793103448,0.0285714285714286
+iEcDH1_1363,Escherichia coli DH1,"Citrate cycle (TCA cycle)",0.00862068965517241,0.00714285714285714
+iEcDH1_1363,Escherichia coli DH1,"Cofactor and Prosthetic Group Biosynthesis",0.0172413793103448,0.00714285714285714
+iEcDH1_1363,Escherichia coli DH1,"Exchange",0.00862068965517241,0.0142857142857143
+iEcDH1_1363,Escherichia coli DH1,"Folate Biosynthesis",0.0172413793103448,0.00714285714285714
+iEcDH1_1363,Escherichia coli DH1,"Glycolysis and Gluconeogenesis",0.0517241379310345,0.0214285714285714
+iEcDH1_1363,Escherichia coli DH1,"Histidine Biosynthesis",0.00862068965517241,0.0214285714285714
+iEcDH1_1363,Escherichia coli DH1,"Inorganic Ion Transport and Metabolism",0.0258620689655172,0.142857142857143
+iEcDH1_1363,Escherichia coli DH1,"Membrane Lipid Metabolism",0.189655172413793,0.0785714285714286
+iEcDH1_1363,Escherichia coli DH1,"Nucleotide Salvage Pathway",0.0344827586206897,0.0571428571428571
+iEcDH1_1363,Escherichia coli DH1,"Oxidative Phosphorylation",0.00862068965517241,0.0357142857142857
+iEcDH1_1363,Escherichia coli DH1,"Purine and Pyrimidine Biosynthesis",0.0258620689655172,0.0214285714285714
+iEcDH1_1363,Escherichia coli DH1,"Pyruvate Metabolism",0.0258620689655172,0.0214285714285714
+iEcDH1_1363,Escherichia coli DH1,"Transport",0.0344827586206897,0.107142857142857
+iEcDH1_1363,Escherichia coli DH1,"Transport Outer Membrane Porin",0.387931034482759,0.314285714285714
+iEcDH1_1363,Escherichia coli DH1,"Transport, ABC system",0.0258620689655172,0.0357142857142857
+iEcDH1_1363,Escherichia coli DH1,"Transport, Outer Membrane",0.00862068965517241,0.00714285714285714
+iEcE24377_1341,Escherichia coli O139:H28 str. E24377A,"Alanine, Aspartate, and Glutamate Metabolism",0.0175438596491228,0.0261437908496732
+iEcE24377_1341,Escherichia coli O139:H28 str. E24377A,"Alternate Carbon Metabolism",0.0964912280701754,0.065359477124183
+iEcE24377_1341,Escherichia coli O139:H28 str. E24377A,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0175438596491228,0.0261437908496732
+iEcE24377_1341,Escherichia coli O139:H28 str. E24377A,"Citrate cycle (TCA cycle)",0.0087719298245614,0.0065359477124183
+iEcE24377_1341,Escherichia coli O139:H28 str. E24377A,"Cofactor and Prosthetic Group Biosynthesis",0.0175438596491228,0.0065359477124183
+iEcE24377_1341,Escherichia coli O139:H28 str. E24377A,"Exchange",0.0087719298245614,0.0130718954248366
+iEcE24377_1341,Escherichia coli O139:H28 str. E24377A,"Folate Biosynthesis",0.0175438596491228,0.0065359477124183
+iEcE24377_1341,Escherichia coli O139:H28 str. E24377A,"Glycolysis and Gluconeogenesis",0.0526315789473684,0.0196078431372549
+iEcE24377_1341,Escherichia coli O139:H28 str. E24377A,"Histidine Biosynthesis",0.0087719298245614,0.0196078431372549
+iEcE24377_1341,Escherichia coli O139:H28 str. E24377A,"Inorganic Ion Transport and Metabolism",0.0263157894736842,0.130718954248366
+iEcE24377_1341,Escherichia coli O139:H28 str. E24377A,"Membrane Lipid Metabolism",0.192982456140351,0.0718954248366013
+iEcE24377_1341,Escherichia coli O139:H28 str. E24377A,"Nucleotide Salvage Pathway",0.0350877192982456,0.0522875816993464
+iEcE24377_1341,Escherichia coli O139:H28 str. E24377A,"Oxidative Phosphorylation",0.0087719298245614,0.0326797385620915
+iEcE24377_1341,Escherichia coli O139:H28 str. E24377A,"Purine and Pyrimidine Biosynthesis",0.0263157894736842,0.0196078431372549
+iEcE24377_1341,Escherichia coli O139:H28 str. E24377A,"Pyruvate Metabolism",0.0263157894736842,0.0196078431372549
+iEcE24377_1341,Escherichia coli O139:H28 str. E24377A,"Transport",0.0350877192982456,0.0980392156862745
+iEcE24377_1341,Escherichia coli O139:H28 str. E24377A,"Transport Inner Membrane",0.0087719298245614,0.0261437908496732
+iEcE24377_1341,Escherichia coli O139:H28 str. E24377A,"Transport Outer Membrane Porin",0.350877192982456,0.294117647058824
+iEcE24377_1341,Escherichia coli O139:H28 str. E24377A,"Transport, ABC system",0.0350877192982456,0.0588235294117647
+iEcE24377_1341,Escherichia coli O139:H28 str. E24377A,"Transport, Outer Membrane",0.0087719298245614,0.0065359477124183
+iEcHS_1320,Escherichia coli HS,"Alanine, Aspartate, and Glutamate Metabolism",0.018348623853211,0.0317460317460317
+iEcHS_1320,Escherichia coli HS,"Alternate Carbon Metabolism",0.110091743119266,0.0634920634920635
+iEcHS_1320,Escherichia coli HS,"Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis",0.00917431192660551,0.00793650793650794
+iEcHS_1320,Escherichia coli HS,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.018348623853211,0.0317460317460317
+iEcHS_1320,Escherichia coli HS,"Citrate cycle (TCA cycle)",0.00917431192660551,0.00793650793650794
+iEcHS_1320,Escherichia coli HS,"Cofactor and Prosthetic Group Biosynthesis",0.018348623853211,0.00793650793650794
+iEcHS_1320,Escherichia coli HS,"Exchange",0.00917431192660551,0.00793650793650794
+iEcHS_1320,Escherichia coli HS,"Folate Biosynthesis",0.018348623853211,0.00793650793650794
+iEcHS_1320,Escherichia coli HS,"Glycolysis and Gluconeogenesis",0.055045871559633,0.0238095238095238
+iEcHS_1320,Escherichia coli HS,"Histidine Biosynthesis",0.00917431192660551,0.0238095238095238
+iEcHS_1320,Escherichia coli HS,"Inorganic Ion Transport and Metabolism",0.0275229357798165,0.142857142857143
+iEcHS_1320,Escherichia coli HS,"Membrane Lipid Metabolism",0.201834862385321,0.0873015873015873
+iEcHS_1320,Escherichia coli HS,"Nucleotide Salvage Pathway",0.036697247706422,0.0634920634920635
+iEcHS_1320,Escherichia coli HS,"Oxidative Phosphorylation",0.00917431192660551,0.0396825396825397
+iEcHS_1320,Escherichia coli HS,"Purine and Pyrimidine Biosynthesis",0.0275229357798165,0.0238095238095238
+iEcHS_1320,Escherichia coli HS,"Pyruvate Metabolism",0.0275229357798165,0.0238095238095238
+iEcHS_1320,Escherichia coli HS,"Transport",0.036697247706422,0.0952380952380952
+iEcHS_1320,Escherichia coli HS,"Transport Outer Membrane Porin",0.321100917431193,0.285714285714286
+iEcHS_1320,Escherichia coli HS,"Transport, ABC system",0.0275229357798165,0.0158730158730159
+iEcHS_1320,Escherichia coli HS,"Transport, Outer Membrane",0.00917431192660551,0.00793650793650794
+iEcSMS35_1347,Escherichia coli SMS-3-5,"Alanine, Aspartate, and Glutamate Metabolism",0.0172413793103448,0.0285714285714286
+iEcSMS35_1347,Escherichia coli SMS-3-5,"Alternate Carbon Metabolism",0.0862068965517241,0.0428571428571429
+iEcSMS35_1347,Escherichia coli SMS-3-5,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0172413793103448,0.0285714285714286
+iEcSMS35_1347,Escherichia coli SMS-3-5,"Citrate cycle (TCA cycle)",0.00862068965517241,0.00714285714285714
+iEcSMS35_1347,Escherichia coli SMS-3-5,"Cofactor and Prosthetic Group Biosynthesis",0.0172413793103448,0.00714285714285714
+iEcSMS35_1347,Escherichia coli SMS-3-5,"Exchange",0.00862068965517241,0.0142857142857143
+iEcSMS35_1347,Escherichia coli SMS-3-5,"Folate Biosynthesis",0.0172413793103448,0.00714285714285714
+iEcSMS35_1347,Escherichia coli SMS-3-5,"Glycolysis and Gluconeogenesis",0.0517241379310345,0.0214285714285714
+iEcSMS35_1347,Escherichia coli SMS-3-5,"Histidine Biosynthesis",0.00862068965517241,0.0214285714285714
+iEcSMS35_1347,Escherichia coli SMS-3-5,"Inorganic Ion Transport and Metabolism",0.0258620689655172,0.142857142857143
+iEcSMS35_1347,Escherichia coli SMS-3-5,"Membrane Lipid Metabolism",0.189655172413793,0.0785714285714286
+iEcSMS35_1347,Escherichia coli SMS-3-5,"Nucleotide Salvage Pathway",0.0344827586206897,0.0571428571428571
+iEcSMS35_1347,Escherichia coli SMS-3-5,"Oxidative Phosphorylation",0.00862068965517241,0.0357142857142857
+iEcSMS35_1347,Escherichia coli SMS-3-5,"Purine and Pyrimidine Biosynthesis",0.0258620689655172,0.0214285714285714
+iEcSMS35_1347,Escherichia coli SMS-3-5,"Pyruvate Metabolism",0.0258620689655172,0.0214285714285714
+iEcSMS35_1347,Escherichia coli SMS-3-5,"Transport",0.0344827586206897,0.107142857142857
+iEcSMS35_1347,Escherichia coli SMS-3-5,"Transport Outer Membrane Porin",0.387931034482759,0.314285714285714
+iEcSMS35_1347,Escherichia coli SMS-3-5,"Transport, ABC system",0.0258620689655172,0.0357142857142857
+iEcSMS35_1347,Escherichia coli SMS-3-5,"Transport, Outer Membrane",0.00862068965517241,0.00714285714285714
+iEcolC_1368,Escherichia coli ATCC 8739,"Alanine, Aspartate, and Glutamate Metabolism",0.0176991150442478,0.0307692307692308
+iEcolC_1368,Escherichia coli ATCC 8739,"Alternate Carbon Metabolism",0.106194690265487,0.0615384615384615
+iEcolC_1368,Escherichia coli ATCC 8739,"Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis",0.00884955752212389,0.00769230769230769
+iEcolC_1368,Escherichia coli ATCC 8739,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0176991150442478,0.0307692307692308
+iEcolC_1368,Escherichia coli ATCC 8739,"Citrate cycle (TCA cycle)",0.00884955752212389,0.00769230769230769
+iEcolC_1368,Escherichia coli ATCC 8739,"Cofactor and Prosthetic Group Biosynthesis",0.0176991150442478,0.00769230769230769
+iEcolC_1368,Escherichia coli ATCC 8739,"Exchange",0.0176991150442478,0.0230769230769231
+iEcolC_1368,Escherichia coli ATCC 8739,"Folate Biosynthesis",0.0176991150442478,0.00769230769230769
+iEcolC_1368,Escherichia coli ATCC 8739,"Glycolysis and Gluconeogenesis",0.0530973451327434,0.0230769230769231
+iEcolC_1368,Escherichia coli ATCC 8739,"Histidine Biosynthesis",0.00884955752212389,0.0230769230769231
+iEcolC_1368,Escherichia coli ATCC 8739,"Inorganic Ion Transport and Metabolism",0.0265486725663717,0.138461538461538
+iEcolC_1368,Escherichia coli ATCC 8739,"Membrane Lipid Metabolism",0.194690265486726,0.0846153846153846
+iEcolC_1368,Escherichia coli ATCC 8739,"Nucleotide Salvage Pathway",0.0353982300884956,0.0615384615384615
+iEcolC_1368,Escherichia coli ATCC 8739,"Oxidative Phosphorylation",0.00884955752212389,0.0384615384615385
+iEcolC_1368,Escherichia coli ATCC 8739,"Purine and Pyrimidine Biosynthesis",0.0265486725663717,0.0230769230769231
+iEcolC_1368,Escherichia coli ATCC 8739,"Pyruvate Metabolism",0.0265486725663717,0.0230769230769231
+iEcolC_1368,Escherichia coli ATCC 8739,"Transport",0.0353982300884956,0.0923076923076923
+iEcolC_1368,Escherichia coli ATCC 8739,"Transport Outer Membrane Porin",0.336283185840708,0.292307692307692
+iEcolC_1368,Escherichia coli ATCC 8739,"Transport, ABC system",0.0265486725663717,0.0153846153846154
+iEcolC_1368,Escherichia coli ATCC 8739,"Transport, Outer Membrane",0.00884955752212389,0.00769230769230769
+iG2583_1286,Escherichia coli O55:H7 str. CB9615,"Alanine, Aspartate, and Glutamate Metabolism",0.0181818181818182,0.0291970802919708
+iG2583_1286,Escherichia coli O55:H7 str. CB9615,"Alternate Carbon Metabolism",0.0909090909090909,0.0437956204379562
+iG2583_1286,Escherichia coli O55:H7 str. CB9615,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0181818181818182,0.0291970802919708
+iG2583_1286,Escherichia coli O55:H7 str. CB9615,"Citrate cycle (TCA cycle)",0.00909090909090909,0.0072992700729927
+iG2583_1286,Escherichia coli O55:H7 str. CB9615,"Cofactor and Prosthetic Group Biosynthesis",0.0181818181818182,0.0072992700729927
+iG2583_1286,Escherichia coli O55:H7 str. CB9615,"Exchange",0.00909090909090909,0.0145985401459854
+iG2583_1286,Escherichia coli O55:H7 str. CB9615,"Folate Biosynthesis",0.0181818181818182,0.0072992700729927
+iG2583_1286,Escherichia coli O55:H7 str. CB9615,"Glycolysis and Gluconeogenesis",0.0545454545454545,0.0218978102189781
+iG2583_1286,Escherichia coli O55:H7 str. CB9615,"Histidine Biosynthesis",0.00909090909090909,0.0218978102189781
+iG2583_1286,Escherichia coli O55:H7 str. CB9615,"Inorganic Ion Transport and Metabolism",0.0272727272727273,0.145985401459854
+iG2583_1286,Escherichia coli O55:H7 str. CB9615,"Membrane Lipid Metabolism",0.2,0.0802919708029197
+iG2583_1286,Escherichia coli O55:H7 str. CB9615,"Nucleotide Salvage Pathway",0.0363636363636364,0.0583941605839416
+iG2583_1286,Escherichia coli O55:H7 str. CB9615,"Oxidative Phosphorylation",0.00909090909090909,0.0364963503649635
+iG2583_1286,Escherichia coli O55:H7 str. CB9615,"Purine and Pyrimidine Biosynthesis",0.0272727272727273,0.0218978102189781
+iG2583_1286,Escherichia coli O55:H7 str. CB9615,"Pyruvate Metabolism",0.0272727272727273,0.0218978102189781
+iG2583_1286,Escherichia coli O55:H7 str. CB9615,"Transport",0.0363636363636364,0.109489051094891
+iG2583_1286,Escherichia coli O55:H7 str. CB9615,"Transport Outer Membrane Porin",0.354545454545455,0.299270072992701
+iG2583_1286,Escherichia coli O55:H7 str. CB9615,"Transport, ABC system",0.0272727272727273,0.0364963503649635
+iG2583_1286,Escherichia coli O55:H7 str. CB9615,"Transport, Outer Membrane",0.00909090909090909,0.0072992700729927
+iHN637,Clostridium ljungdahlii DSM 13528,"Nucelotide Metabolism",0.125,0.181818181818182
+iHN637,Clostridium ljungdahlii DSM 13528,"Purine and Pyrimidine Biosynthesis",0.125,0.181818181818182
+iHN637,Clostridium ljungdahlii DSM 13528,"Pyruvate Metabolism",0.125,0.0909090909090909
+iHN637,Clostridium ljungdahlii DSM 13528,"TCA Cycle",0.5,0.272727272727273
+iHN637,Clostridium ljungdahlii DSM 13528,"Wood Ljungadhl Pathway",0.125,0.0909090909090909
+iIS312,Trypanosoma cruzi Dm28c,"Alanine, Aspartate, and Glutamate Metabolism",0.0465116279069767,0.0882352941176471
+iIS312,Trypanosoma cruzi Dm28c,"Calvin cycle/Pentose phosphate pathway",0.0232558139534884,0.0147058823529412
+iIS312,Trypanosoma cruzi Dm28c,"Citrate cycle (TCA cycle)",0.0232558139534884,0.0882352941176471
+iIS312,Trypanosoma cruzi Dm28c,"Glutamate and glutamin metabolism",0.0465116279069767,0.0882352941176471
+iIS312,Trypanosoma cruzi Dm28c,"Glycolysis and Gluconeogenesis",0.13953488372093,0.0588235294117647
+iIS312,Trypanosoma cruzi Dm28c,"Purine and Pyrimidine Biosynthesis",0.116279069767442,0.0441176470588235
+iIS312,Trypanosoma cruzi Dm28c,"S_*Citrate Cycle (TCA)",0.0232558139534884,0.0882352941176471
+iIS312,Trypanosoma cruzi Dm28c,"S_*Transport, Extracellular",0.162790697674419,0.147058823529412
+iIS312,Trypanosoma cruzi Dm28c,"S_*Transport, Mitochondrial",0.0232558139534884,0.0882352941176471
+iIS312,Trypanosoma cruzi Dm28c,"S_*Transport, Nuclear",0.0930232558139535,0.0294117647058824
+iIS312,Trypanosoma cruzi Dm28c,"Transport, Extracellular",0.162790697674419,0.147058823529412
+iIS312,Trypanosoma cruzi Dm28c,"Transport, Mitochondrial",0.13953488372093,0.117647058823529
+iIS312_Amastigote,Trypanosoma cruzi Dm28c,"Calvin cycle/Pentose phosphate pathway",0.0303030303030303,0.0294117647058824
+iIS312_Amastigote,Trypanosoma cruzi Dm28c,"Glycolysis and Gluconeogenesis",0.181818181818182,0.117647058823529
+iIS312_Amastigote,Trypanosoma cruzi Dm28c,"Purine and Pyrimidine Biosynthesis",0.151515151515152,0.0882352941176471
+iIS312_Amastigote,Trypanosoma cruzi Dm28c,"S_*Transport, Extracellular",0.212121212121212,0.294117647058824
+iIS312_Amastigote,Trypanosoma cruzi Dm28c,"S_*Transport, Mitochondrial",0.0303030303030303,0.0588235294117647
+iIS312_Amastigote,Trypanosoma cruzi Dm28c,"S_*Transport, Nuclear",0.121212121212121,0.0588235294117647
+iIS312_Amastigote,Trypanosoma cruzi Dm28c,"Transport, Extracellular",0.212121212121212,0.294117647058824
+iIS312_Amastigote,Trypanosoma cruzi Dm28c,"Transport, Mitochondrial",0.0606060606060606,0.0588235294117647
+iIS312_Epimastigote,Trypanosoma cruzi Dm28c,"Alanine, Aspartate, and Glutamate Metabolism",0.0465116279069767,0.0882352941176471
+iIS312_Epimastigote,Trypanosoma cruzi Dm28c,"Calvin cycle/Pentose phosphate pathway",0.0232558139534884,0.0147058823529412
+iIS312_Epimastigote,Trypanosoma cruzi Dm28c,"Citrate cycle (TCA cycle)",0.0232558139534884,0.0882352941176471
+iIS312_Epimastigote,Trypanosoma cruzi Dm28c,"Glutamate and glutamin metabolism",0.0465116279069767,0.0882352941176471
+iIS312_Epimastigote,Trypanosoma cruzi Dm28c,"Glycolysis and Gluconeogenesis",0.13953488372093,0.0588235294117647
+iIS312_Epimastigote,Trypanosoma cruzi Dm28c,"Purine and Pyrimidine Biosynthesis",0.116279069767442,0.0441176470588235
+iIS312_Epimastigote,Trypanosoma cruzi Dm28c,"S_*Citrate Cycle (TCA)",0.0232558139534884,0.0882352941176471
+iIS312_Epimastigote,Trypanosoma cruzi Dm28c,"S_*Transport, Extracellular",0.162790697674419,0.147058823529412
+iIS312_Epimastigote,Trypanosoma cruzi Dm28c,"S_*Transport, Mitochondrial",0.0232558139534884,0.0882352941176471
+iIS312_Epimastigote,Trypanosoma cruzi Dm28c,"S_*Transport, Nuclear",0.0930232558139535,0.0294117647058824
+iIS312_Epimastigote,Trypanosoma cruzi Dm28c,"Transport, Extracellular",0.162790697674419,0.147058823529412
+iIS312_Epimastigote,Trypanosoma cruzi Dm28c,"Transport, Mitochondrial",0.13953488372093,0.117647058823529
+iIS312_Trypomastigote,Trypanosoma cruzi Dm28c,"Calvin cycle/Pentose phosphate pathway",0.0303030303030303,0.0294117647058824
+iIS312_Trypomastigote,Trypanosoma cruzi Dm28c,"Glycolysis and Gluconeogenesis",0.181818181818182,0.117647058823529
+iIS312_Trypomastigote,Trypanosoma cruzi Dm28c,"Purine and Pyrimidine Biosynthesis",0.151515151515152,0.0882352941176471
+iIS312_Trypomastigote,Trypanosoma cruzi Dm28c,"S_*Transport, Extracellular",0.212121212121212,0.294117647058824
+iIS312_Trypomastigote,Trypanosoma cruzi Dm28c,"S_*Transport, Mitochondrial",0.0303030303030303,0.0588235294117647
+iIS312_Trypomastigote,Trypanosoma cruzi Dm28c,"S_*Transport, Nuclear",0.121212121212121,0.0588235294117647
+iIS312_Trypomastigote,Trypanosoma cruzi Dm28c,"Transport, Extracellular",0.212121212121212,0.294117647058824
+iIS312_Trypomastigote,Trypanosoma cruzi Dm28c,"Transport, Mitochondrial",0.0606060606060606,0.0588235294117647
+iIT341,Helicobacter pylori 26695,"Amino Acid Metabolism",0.0454545454545455,0.0909090909090909
+iIT341,Helicobacter pylori 26695,"Amino acid metabolism: Cysteine and Methionine metabolism",0.272727272727273,0.181818181818182
+iIT341,Helicobacter pylori 26695,"Glyoxylate and dicarboxylate metabolism",0.227272727272727,0.181818181818182
+iIT341,Helicobacter pylori 26695,"Lysine/ Threonine Biosynthesis",0.0909090909090909,0.0909090909090909
+iIT341,Helicobacter pylori 26695,"Other",0.227272727272727,0.272727272727273
+iIT341,Helicobacter pylori 26695,"Transport",0.136363636363636,0.181818181818182
+iJB785,Synechococcus elongatus PCC 7942,"Amino acid metabolism: Alanine, Aspartate and Glutamate metabolism",0.1,0.166666666666667
+iJB785,Synechococcus elongatus PCC 7942,"Glycogen and sucrose metabolism",0.3,0.166666666666667
+iJB785,Synechococcus elongatus PCC 7942,"Glycolysis and Gluconeogenesis",0.2,0.166666666666667
+iJB785,Synechococcus elongatus PCC 7942,"Inorganic Ion Transport and Metabolism",0.1,0.166666666666667
+iJB785,Synechococcus elongatus PCC 7942,"Photorespiration/Glyoxylate Degredation",0.2,0.166666666666667
+iJB785,Synechococcus elongatus PCC 7942,"Photosynthesis/respiration",0.1,0.166666666666667
+iJN1463,Pseudomonas putida KT2440,"Arginine and Proline Metabolism",0.0115606936416185,0.00117508813160987
+iJN1463,Pseudomonas putida KT2440,"Purine and Pyrimidine Biosynthesis",0.0173410404624277,0.0105757931844888
+iJN1463,Pseudomonas putida KT2440,"S_Alanine_and_Aspartate_Metabolism",0.023121387283237,0.0117508813160987
+iJN1463,Pseudomonas putida KT2440,"S_Alternate_Carbon",0.0115606936416185,0.0235017626321974
+iJN1463,Pseudomonas putida KT2440,"S_Alternate_Carbon__Propanoate_Metabolism",0.00578034682080925,0.00470035252643948
+iJN1463,Pseudomonas putida KT2440,"S_Alternate_Carbon__Ribose_Metabolism",0.023121387283237,0.00352526439482961
+iJN1463,Pseudomonas putida KT2440,"S_Butanoate_Metabolism",0.0115606936416185,0.00352526439482961
+iJN1463,Pseudomonas putida KT2440,"S_Cofactor_and_Prosthetic_Group_Biosynthesis__One_Carbon_pool_by_folate",0.0115606936416185,0.00117508813160987
+iJN1463,Pseudomonas putida KT2440,"S_Cysteine_Metabolism",0.0115606936416185,0.00117508813160987
+iJN1463,Pseudomonas putida KT2440,"S_Fatty_Acid_Metabolism",0.254335260115607,0.200940070505288
+iJN1463,Pseudomonas putida KT2440,"S_Gluconeogenesis",0.0115606936416185,0.0446533490011751
+iJN1463,Pseudomonas putida KT2440,"S_Glutamate_Metabolism",0.0289017341040462,0.162162162162162
+iJN1463,Pseudomonas putida KT2440,"S_Glyoxylate_and_dicarboxylate_metabolism",0.0173410404624277,0.0211515863689777
+iJN1463,Pseudomonas putida KT2440,"S_Histidine_Metabolism",0.0115606936416185,0.00117508813160987
+iJN1463,Pseudomonas putida KT2440,"S_Inorganic_polyphosphates_metabolism",0.0173410404624277,0.00940070505287897
+iJN1463,Pseudomonas putida KT2440,"S_Iron_uptake_and_metabolism",0.0404624277456647,0.123384253819036
+iJN1463,Pseudomonas putida KT2440,"S_Lysine_Metabolism",0.0115606936416185,0.00235017626321974
+iJN1463,Pseudomonas putida KT2440,"S_Oxidative_Phosphorylation",0.00578034682080925,0.00940070505287897
+iJN1463,Pseudomonas putida KT2440,"S_PHAs_Metabolism",0.248554913294798,0.199764982373678
+iJN1463,Pseudomonas putida KT2440,"S_Phenylalanine_Tyrosine_Tryptophan_Biosynthesis",0.023121387283237,0.00235017626321974
+iJN1463,Pseudomonas putida KT2440,"S_Starch_and_Sucrose_Metabolism",0.0346820809248555,0.00352526439482961
+iJN1463,Pseudomonas putida KT2440,"S_TCA_Cycle",0.046242774566474,0.0164512338425382
+iJN1463,Pseudomonas putida KT2440,"S_Valine__Leucine__and_Isoleucine_Metabolism",0.0346820809248555,0.126909518213866
+iJN1463,Pseudomonas putida KT2440,"Transport Outer Membrane Porin",0.069364161849711,0.0129259694477086
+iJN1463,Pseudomonas putida KT2440,"Unassigned",0.0173410404624277,0.00235017626321974
+iJN678,Synechocystis sp. PCC 6803,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.5,0.333333333333333
+iJN678,Synechocystis sp. PCC 6803,"Arginine and Proline Metabolism",0.25,0.333333333333333
+iJN678,Synechocystis sp. PCC 6803,"Nitrogen Metabolism",0.25,0.333333333333333
+iJO1366,Escherichia coli str. K-12 substr. MG1655,"Alanine, Aspartate, and Glutamate Metabolism",0.0131578947368421,0.0253164556962025
+iJO1366,Escherichia coli str. K-12 substr. MG1655,"Alternate Carbon Metabolism",0.131578947368421,0.0759493670886076
+iJO1366,Escherichia coli str. K-12 substr. MG1655,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0263157894736842,0.0253164556962025
+iJO1366,Escherichia coli str. K-12 substr. MG1655,"Citrate cycle (TCA cycle)",0.0131578947368421,0.0126582278481013
+iJO1366,Escherichia coli str. K-12 substr. MG1655,"Cofactor and Prosthetic Group Biosynthesis",0.0263157894736842,0.0126582278481013
+iJO1366,Escherichia coli str. K-12 substr. MG1655,"Folate Biosynthesis",0.0263157894736842,0.0126582278481013
+iJO1366,Escherichia coli str. K-12 substr. MG1655,"Glycolysis and Gluconeogenesis",0.0789473684210526,0.0379746835443038
+iJO1366,Escherichia coli str. K-12 substr. MG1655,"Histidine Biosynthesis",0.0131578947368421,0.0379746835443038
+iJO1366,Escherichia coli str. K-12 substr. MG1655,"Inorganic Ion Transport and Metabolism",0.0394736842105263,0.20253164556962
+iJO1366,Escherichia coli str. K-12 substr. MG1655,"Nucleotide Salvage Pathway",0.0394736842105263,0.0759493670886076
+iJO1366,Escherichia coli str. K-12 substr. MG1655,"Oxidative Phosphorylation",0.0131578947368421,0.0632911392405063
+iJO1366,Escherichia coli str. K-12 substr. MG1655,"Pyruvate Metabolism",0.0394736842105263,0.0379746835443038
+iJO1366,Escherichia coli str. K-12 substr. MG1655,"Transport Outer Membrane Porin",0.513157894736842,0.354430379746835
+iJO1366,Escherichia coli str. K-12 substr. MG1655,"Transport, ABC system",0.0131578947368421,0.0126582278481013
+iJO1366,Escherichia coli str. K-12 substr. MG1655,"Transport, Outer Membrane",0.0131578947368421,0.0126582278481013
+iJR904,Escherichia coli str. K-12 substr. MG1655,"Alanine, Aspartate, and Glutamate Metabolism",0.1,0.0833333333333333
+iJR904,Escherichia coli str. K-12 substr. MG1655,"Alternate Carbon Metabolism",0.175,0.166666666666667
+iJR904,Escherichia coli str. K-12 substr. MG1655,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.025,0.0416666666666667
+iJR904,Escherichia coli str. K-12 substr. MG1655,"Cell Wall/Membrane/Envelope Metabolism",0.025,0.0416666666666667
+iJR904,Escherichia coli str. K-12 substr. MG1655,"Citrate cycle (TCA cycle)",0.025,0.0416666666666667
+iJR904,Escherichia coli str. K-12 substr. MG1655,"Nucleotide Salvage Pathway",0.075,0.0833333333333333
+iJR904,Escherichia coli str. K-12 substr. MG1655,"Putative Transporters",0.05,0.0833333333333333
+iJR904,Escherichia coli str. K-12 substr. MG1655,"Transport, Extracellular",0.525,0.458333333333333
+iLF82_1304,Escherichia coli LF82,"Alanine, Aspartate, and Glutamate Metabolism",0.0166666666666667,0.0256410256410256
+iLF82_1304,Escherichia coli LF82,"Alternate Carbon Metabolism",0.0916666666666667,0.0641025641025641
+iLF82_1304,Escherichia coli LF82,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0166666666666667,0.0256410256410256
+iLF82_1304,Escherichia coli LF82,"Citrate cycle (TCA cycle)",0.00833333333333333,0.00641025641025641
+iLF82_1304,Escherichia coli LF82,"Cofactor and Prosthetic Group Biosynthesis",0.0166666666666667,0.00641025641025641
+iLF82_1304,Escherichia coli LF82,"Exchange",0.00833333333333333,0.0128205128205128
+iLF82_1304,Escherichia coli LF82,"Folate Biosynthesis",0.0166666666666667,0.00641025641025641
+iLF82_1304,Escherichia coli LF82,"Glycolysis and Gluconeogenesis",0.05,0.0192307692307692
+iLF82_1304,Escherichia coli LF82,"Histidine Biosynthesis",0.00833333333333333,0.0192307692307692
+iLF82_1304,Escherichia coli LF82,"Inorganic Ion Transport and Metabolism",0.025,0.128205128205128
+iLF82_1304,Escherichia coli LF82,"Membrane Lipid Metabolism",0.183333333333333,0.0705128205128205
+iLF82_1304,Escherichia coli LF82,"Nucleotide Salvage Pathway",0.0333333333333333,0.0512820512820513
+iLF82_1304,Escherichia coli LF82,"Oxidative Phosphorylation",0.00833333333333333,0.032051282051282
+iLF82_1304,Escherichia coli LF82,"Purine and Pyrimidine Biosynthesis",0.025,0.0192307692307692
+iLF82_1304,Escherichia coli LF82,"Pyruvate Metabolism",0.025,0.0192307692307692
+iLF82_1304,Escherichia coli LF82,"Transport",0.0333333333333333,0.0961538461538462
+iLF82_1304,Escherichia coli LF82,"Transport Inner Membrane",0.00833333333333333,0.0256410256410256
+iLF82_1304,Escherichia coli LF82,"Transport Outer Membrane Porin",0.383333333333333,0.307692307692308
+iLF82_1304,Escherichia coli LF82,"Transport, ABC system",0.0333333333333333,0.0576923076923077
+iLF82_1304,Escherichia coli LF82,"Transport, Outer Membrane",0.00833333333333333,0.00641025641025641
+iLJ478,Thermotoga maritima MSB8,"Alanine, Aspartate, and Glutamate Metabolism",0.0606060606060606,0.14
+iLJ478,Thermotoga maritima MSB8,"Alternate Carbon Metabolism",0.0909090909090909,0.02
+iLJ478,Thermotoga maritima MSB8,"Amino acid metabolism: Cysteine and Methionine metabolism",0.181818181818182,0.04
+iLJ478,Thermotoga maritima MSB8,"Amino acid metabolism: Glycine, Serine and Threonine metabolism",0.0606060606060606,0.06
+iLJ478,Thermotoga maritima MSB8,"Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis",0.0909090909090909,0.02
+iLJ478,Thermotoga maritima MSB8,"Carbohydrate Metabolism",0.0606060606060606,0.02
+iLJ478,Thermotoga maritima MSB8,"Citrate cycle (TCA cycle)",0.0606060606060606,0.1
+iLJ478,Thermotoga maritima MSB8,"Glutamate and glutamin metabolism",0.0303030303030303,0.12
+iLJ478,Thermotoga maritima MSB8,"Glycolysis and Gluconeogenesis",0.121212121212121,0.08
+iLJ478,Thermotoga maritima MSB8,"Other",0.0606060606060606,0.14
+iLJ478,Thermotoga maritima MSB8,"Pyruvate Met",0.0606060606060606,0.02
+iLJ478,Thermotoga maritima MSB8,"Serine Metabolism",0.0303030303030303,0.06
+iLJ478,Thermotoga maritima MSB8,"Threonine Metabolism",0.0909090909090909,0.02
+iML1515,Escherichia coli str. K-12 substr. MG1655,"Alanine, Aspartate, and Glutamate Metabolism",0.0163934426229508,0.0377358490566038
+iML1515,Escherichia coli str. K-12 substr. MG1655,"Alternate Carbon Metabolism",0.163934426229508,0.0943396226415094
+iML1515,Escherichia coli str. K-12 substr. MG1655,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0327868852459016,0.0377358490566038
+iML1515,Escherichia coli str. K-12 substr. MG1655,"Citrate cycle (TCA cycle)",0.0163934426229508,0.0188679245283019
+iML1515,Escherichia coli str. K-12 substr. MG1655,"Cofactor and Prosthetic Group Biosynthesis",0.0327868852459016,0.0188679245283019
+iML1515,Escherichia coli str. K-12 substr. MG1655,"Folate Biosynthesis",0.0327868852459016,0.0188679245283019
+iML1515,Escherichia coli str. K-12 substr. MG1655,"Glycolysis and Gluconeogenesis",0.0327868852459016,0.0188679245283019
+iML1515,Escherichia coli str. K-12 substr. MG1655,"Histidine Biosynthesis",0.0163934426229508,0.0377358490566038
+iML1515,Escherichia coli str. K-12 substr. MG1655,"Inorganic Ion Transport and Metabolism",0.0655737704918033,0.169811320754717
+iML1515,Escherichia coli str. K-12 substr. MG1655,"Membrane Lipid Metabolism",0.0327868852459016,0.0188679245283019
+iML1515,Escherichia coli str. K-12 substr. MG1655,"Nucleotide Salvage Pathway",0.0491803278688525,0.0754716981132075
+iML1515,Escherichia coli str. K-12 substr. MG1655,"Transport Outer Membrane Porin",0.475409836065574,0.415094339622642
+iML1515,Escherichia coli str. K-12 substr. MG1655,"Transport, ABC system",0.0163934426229508,0.0188679245283019
+iML1515,Escherichia coli str. K-12 substr. MG1655,"Transport, Outer Membrane",0.0163934426229508,0.0188679245283019
+iMM904,Saccharomyces cerevisiae S288C,"Arginine and Proline Metabolism",0.0319148936170213,0.0112359550561798
+iMM904,Saccharomyces cerevisiae S288C,"S_Alanine_and_Aspartate_Metabolism",0.0212765957446809,0.0112359550561798
+iMM904,Saccharomyces cerevisiae S288C,"S_Citric_Acid_Cycle",0.0319148936170213,0.101123595505618
+iMM904,Saccharomyces cerevisiae S288C,"S_Galactose_metabolism",0.0319148936170213,0.0224719101123595
+iMM904,Saccharomyces cerevisiae S288C,"S_Glycine_and_Serine_Metabolism",0.0106382978723404,0.0112359550561798
+iMM904,Saccharomyces cerevisiae S288C,"S_GlycolysisGluconeogenesis",0.0425531914893617,0.0337078651685393
+iMM904,Saccharomyces cerevisiae S288C,"S_Methionine_Metabolism",0.0319148936170213,0.0112359550561798
+iMM904,Saccharomyces cerevisiae S288C,"S_Nucleotide_Salvage_Pathway",0.117021276595745,0.101123595505618
+iMM904,Saccharomyces cerevisiae S288C,"S_Other",0.0212765957446809,0.0224719101123595
+iMM904,Saccharomyces cerevisiae S288C,"S_Oxidative_Phosphorylation",0.074468085106383,0.157303370786517
+iMM904,Saccharomyces cerevisiae S288C,"S_Purine_and_Pyrimidine_Biosynthesis",0.0319148936170213,0.0337078651685393
+iMM904,Saccharomyces cerevisiae S288C,"S_Pyruvate_Metabolism",0.0425531914893617,0.101123595505618
+iMM904,Saccharomyces cerevisiae S288C,"S_Sphingolipid_Metabolism",0.0851063829787234,0.0449438202247191
+iMM904,Saccharomyces cerevisiae S288C,"S_Transport__Mitochondrial",0.191489361702128,0.179775280898876
+iMM904,Saccharomyces cerevisiae S288C,"S_Transport__Nuclear",0.0531914893617021,0.0224719101123595
+iMM904,Saccharomyces cerevisiae S288C,"S_Valine__Leucine__and_Isoleucine_Metabolism",0.0212765957446809,0.0112359550561798
+iMM904,Saccharomyces cerevisiae S288C,"Transport, Outer Membrane",0.159574468085106,0.123595505617978
+iND750,Saccharomyces cerevisiae S288C,"Alanine, Aspartate, and Glutamate Metabolism",0.0625,0.0487804878048781
+iND750,Saccharomyces cerevisiae S288C,"Amino acid metabolism: Cysteine and Methionine metabolism",0.046875,0.0121951219512195
+iND750,Saccharomyces cerevisiae S288C,"Amino acid metabolism: Glycine, Serine and Threonine metabolism",0.046875,0.0975609756097561
+iND750,Saccharomyces cerevisiae S288C,"Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis",0.046875,0.0487804878048781
+iND750,Saccharomyces cerevisiae S288C,"Arginine and Proline Metabolism",0.046875,0.0121951219512195
+iND750,Saccharomyces cerevisiae S288C,"Citrate cycle (TCA cycle)",0.046875,0.121951219512195
+iND750,Saccharomyces cerevisiae S288C,"Galactose metabolism",0.046875,0.024390243902439
+iND750,Saccharomyces cerevisiae S288C,"Glycolysis and Gluconeogenesis",0.015625,0.0121951219512195
+iND750,Saccharomyces cerevisiae S288C,"Nucleotide Salvage Pathway",0.171875,0.109756097560976
+iND750,Saccharomyces cerevisiae S288C,"Oxidative Phosphorylation",0.078125,0.195121951219512
+iND750,Saccharomyces cerevisiae S288C,"Purine and Pyrimidine Biosynthesis",0.046875,0.0365853658536585
+iND750,Saccharomyces cerevisiae S288C,"Transport, Extracellular",0.046875,0.024390243902439
+iND750,Saccharomyces cerevisiae S288C,"Transport, Mitochondrial",0.296875,0.25609756097561
+iNF517,Lactococcus lactis subsp. cremoris MG1363,"Amino Acid Metabolism",0.121951219512195,0.364485981308411
+iNF517,Lactococcus lactis subsp. cremoris MG1363,"Arginine and Proline Metabolism",0.024390243902439,0.00103842159916926
+iNF517,Lactococcus lactis subsp. cremoris MG1363,"Exchange",0.609756097560976,0.482866043613707
+iNF517,Lactococcus lactis subsp. cremoris MG1363,"Nucleotide Salvage Pathway",0.024390243902439,0.00207684319833853
+iNF517,Lactococcus lactis subsp. cremoris MG1363,"Transport",0.146341463414634,0.00311526479750779
+iNF517,Lactococcus lactis subsp. cremoris MG1363,"Valine leucine and isoleucine metabolism",0.024390243902439,0.145379023883697
+iNF517,Lactococcus lactis subsp. cremoris MG1363,"dATP Biosynthesis",0.0487804878048781,0.00103842159916926
+iNJ661,Mycobacterium tuberculosis H37Rv,"Alanine, Aspartate, and Glutamate Metabolism",0.0188679245283019,0.00719424460431655
+iNJ661,Mycobacterium tuberculosis H37Rv,"Amino acid metabolism: Cysteine and Methionine metabolism",0.0566037735849057,0.00719424460431655
+iNJ661,Mycobacterium tuberculosis H37Rv,"Amino sugar and nucleotide sugar metabolism",0.0566037735849057,0.100719424460432
+iNJ661,Mycobacterium tuberculosis H37Rv,"Citrate cycle (TCA cycle)",0.150943396226415,0.079136690647482
+iNJ661,Mycobacterium tuberculosis H37Rv,"Cofactor Metabolism",0.0377358490566038,0.0935251798561151
+iNJ661,Mycobacterium tuberculosis H37Rv,"Fatty Acid  Biosynthesis",0.0188679245283019,0.00719424460431655
+iNJ661,Mycobacterium tuberculosis H37Rv,"Folate Biosynthesis",0.0188679245283019,0.079136690647482
+iNJ661,Mycobacterium tuberculosis H37Rv,"Glutamate and glutamin metabolism",0.0377358490566038,0.0215827338129496
+iNJ661,Mycobacterium tuberculosis H37Rv,"Glycine, Serine, and Threonine Metabolism",0.0377358490566038,0.079136690647482
+iNJ661,Mycobacterium tuberculosis H37Rv,"Glycolysis",0.0188679245283019,0.00719424460431655
+iNJ661,Mycobacterium tuberculosis H37Rv,"Other Amino Acid Metabolism",0.0188679245283019,0.00719424460431655
+iNJ661,Mycobacterium tuberculosis H37Rv,"Pantothenate and CoA Metabolism",0.0377358490566038,0.107913669064748
+iNJ661,Mycobacterium tuberculosis H37Rv,"Purine and Pyrimidine Biosynthesis",0.188679245283019,0.143884892086331
+iNJ661,Mycobacterium tuberculosis H37Rv,"Pyruvate Metabolism",0.0566037735849057,0.00719424460431655
+iNJ661,Mycobacterium tuberculosis H37Rv,"Redox Metabolism",0.150943396226415,0.158273381294964
+iNJ661,Mycobacterium tuberculosis H37Rv,"Transport",0.0566037735849057,0.0143884892086331
+iNJ661,Mycobacterium tuberculosis H37Rv,"Ubiquinone Metabolism",0.0377358490566038,0.079136690647482
+iNRG857_1313,Escherichia coli O83:H1 str. NRG 857C,"Alanine, Aspartate, and Glutamate Metabolism",0.0166666666666667,0.0256410256410256
+iNRG857_1313,Escherichia coli O83:H1 str. NRG 857C,"Alternate Carbon Metabolism",0.0916666666666667,0.0641025641025641
+iNRG857_1313,Escherichia coli O83:H1 str. NRG 857C,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0166666666666667,0.0256410256410256
+iNRG857_1313,Escherichia coli O83:H1 str. NRG 857C,"Citrate cycle (TCA cycle)",0.00833333333333333,0.00641025641025641
+iNRG857_1313,Escherichia coli O83:H1 str. NRG 857C,"Cofactor and Prosthetic Group Biosynthesis",0.0166666666666667,0.00641025641025641
+iNRG857_1313,Escherichia coli O83:H1 str. NRG 857C,"Exchange",0.00833333333333333,0.0128205128205128
+iNRG857_1313,Escherichia coli O83:H1 str. NRG 857C,"Folate Biosynthesis",0.0166666666666667,0.00641025641025641
+iNRG857_1313,Escherichia coli O83:H1 str. NRG 857C,"Glycolysis and Gluconeogenesis",0.05,0.0192307692307692
+iNRG857_1313,Escherichia coli O83:H1 str. NRG 857C,"Histidine Biosynthesis",0.00833333333333333,0.0192307692307692
+iNRG857_1313,Escherichia coli O83:H1 str. NRG 857C,"Inorganic Ion Transport and Metabolism",0.025,0.128205128205128
+iNRG857_1313,Escherichia coli O83:H1 str. NRG 857C,"Membrane Lipid Metabolism",0.183333333333333,0.0705128205128205
+iNRG857_1313,Escherichia coli O83:H1 str. NRG 857C,"Nucleotide Salvage Pathway",0.0333333333333333,0.0512820512820513
+iNRG857_1313,Escherichia coli O83:H1 str. NRG 857C,"Oxidative Phosphorylation",0.00833333333333333,0.032051282051282
+iNRG857_1313,Escherichia coli O83:H1 str. NRG 857C,"Purine and Pyrimidine Biosynthesis",0.025,0.0192307692307692
+iNRG857_1313,Escherichia coli O83:H1 str. NRG 857C,"Pyruvate Metabolism",0.025,0.0192307692307692
+iNRG857_1313,Escherichia coli O83:H1 str. NRG 857C,"Transport",0.0333333333333333,0.0961538461538462
+iNRG857_1313,Escherichia coli O83:H1 str. NRG 857C,"Transport Inner Membrane",0.00833333333333333,0.0256410256410256
+iNRG857_1313,Escherichia coli O83:H1 str. NRG 857C,"Transport Outer Membrane Porin",0.383333333333333,0.307692307692308
+iNRG857_1313,Escherichia coli O83:H1 str. NRG 857C,"Transport, ABC system",0.0333333333333333,0.0576923076923077
+iNRG857_1313,Escherichia coli O83:H1 str. NRG 857C,"Transport, Outer Membrane",0.00833333333333333,0.00641025641025641
+iPC815,Yersinia pestis CO92,"Amino acid metabolism: Glycine, Serine and Threonine metabolism",0.0487804878048781,0.0217391304347826
+iPC815,Yersinia pestis CO92,"Glycolysis and Gluconeogenesis",0.146341463414634,0.0652173913043478
+iPC815,Yersinia pestis CO92,"Inorganic Ion Transport and Metabolism",0.0731707317073171,0.130434782608696
+iPC815,Yersinia pestis CO92,"Methylglyoxal Metabolism",0.024390243902439,0.0217391304347826
+iPC815,Yersinia pestis CO92,"Nucleotide Salvage Pathway",0.121951219512195,0.152173913043478
+iPC815,Yersinia pestis CO92,"Oxidative Phosphorylation",0.024390243902439,0.0869565217391304
+iPC815,Yersinia pestis CO92,"Purine and Pyrimidine Biosynthesis",0.0731707317073171,0.152173913043478
+iPC815,Yersinia pestis CO92,"Pyruvate Metabolism",0.121951219512195,0.0869565217391304
+iPC815,Yersinia pestis CO92,"Threonine and Lysine Metabolism",0.024390243902439,0.0217391304347826
+iPC815,Yersinia pestis CO92,"Transport Outer Membrane Porin",0.292682926829268,0.195652173913043
+iPC815,Yersinia pestis CO92,"Transport, ABC system",0.024390243902439,0.0217391304347826
+iPC815,Yersinia pestis CO92,"Transport; Outer Membrane",0.024390243902439,0.0217391304347826
+iSB619,Staphylococcus aureus subsp. aureus N315,"Citrate cycle (TCA cycle)",0.2,0.25
+iSB619,Staphylococcus aureus subsp. aureus N315,"Transport",0.8,0.5
+iSBO_1134,Shigella boydii Sb227,"Alanine, Aspartate, and Glutamate Metabolism",0.0227272727272727,0.0421052631578947
+iSBO_1134,Shigella boydii Sb227,"Alternate Carbon Metabolism",0.0909090909090909,0.0526315789473684
+iSBO_1134,Shigella boydii Sb227,"Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis",0.0113636363636364,0.0105263157894737
+iSBO_1134,Shigella boydii Sb227,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0227272727272727,0.0421052631578947
+iSBO_1134,Shigella boydii Sb227,"Cofactor and Prosthetic Group Biosynthesis",0.0227272727272727,0.0105263157894737
+iSBO_1134,Shigella boydii Sb227,"Exchange",0.0113636363636364,0.0105263157894737
+iSBO_1134,Shigella boydii Sb227,"Folate Biosynthesis",0.0227272727272727,0.0105263157894737
+iSBO_1134,Shigella boydii Sb227,"Glycolysis and Gluconeogenesis",0.0681818181818182,0.0315789473684211
+iSBO_1134,Shigella boydii Sb227,"Histidine Biosynthesis",0.0113636363636364,0.0210526315789474
+iSBO_1134,Shigella boydii Sb227,"Inorganic Ion Transport and Metabolism",0.0340909090909091,0.147368421052632
+iSBO_1134,Shigella boydii Sb227,"Membrane Lipid Metabolism",0.181818181818182,0.0842105263157895
+iSBO_1134,Shigella boydii Sb227,"Nucleotide Salvage Pathway",0.0454545454545455,0.0631578947368421
+iSBO_1134,Shigella boydii Sb227,"Oxidative Phosphorylation",0.0113636363636364,0.0210526315789474
+iSBO_1134,Shigella boydii Sb227,"Purine and Pyrimidine Biosynthesis",0.0340909090909091,0.0315789473684211
+iSBO_1134,Shigella boydii Sb227,"Transport",0.0454545454545455,0.105263157894737
+iSBO_1134,Shigella boydii Sb227,"Transport Outer Membrane Porin",0.340909090909091,0.305263157894737
+iSBO_1134,Shigella boydii Sb227,"Transport, ABC system",0.0227272727272727,0.0105263157894737
+iSDY_1059,Shigella dysenteriae Sd197,"Alanine, Aspartate, and Glutamate Metabolism",0.025,0.0470588235294118
+iSDY_1059,Shigella dysenteriae Sd197,"Alternate Carbon Metabolism",0.0375,0.0235294117647059
+iSDY_1059,Shigella dysenteriae Sd197,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.025,0.0470588235294118
+iSDY_1059,Shigella dysenteriae Sd197,"Cofactor and Prosthetic Group Biosynthesis",0.025,0.0117647058823529
+iSDY_1059,Shigella dysenteriae Sd197,"Folate Biosynthesis",0.025,0.0117647058823529
+iSDY_1059,Shigella dysenteriae Sd197,"Glycolysis and Gluconeogenesis",0.075,0.0352941176470588
+iSDY_1059,Shigella dysenteriae Sd197,"Histidine Biosynthesis",0.0125,0.0235294117647059
+iSDY_1059,Shigella dysenteriae Sd197,"Inorganic Ion Transport and Metabolism",0.0375,0.141176470588235
+iSDY_1059,Shigella dysenteriae Sd197,"Membrane Lipid Metabolism",0.275,0.129411764705882
+iSDY_1059,Shigella dysenteriae Sd197,"Nucleotide Salvage Pathway",0.05,0.0705882352941176
+iSDY_1059,Shigella dysenteriae Sd197,"Oxidative Phosphorylation",0.0125,0.0235294117647059
+iSDY_1059,Shigella dysenteriae Sd197,"Purine and Pyrimidine Biosynthesis",0.0375,0.0352941176470588
+iSDY_1059,Shigella dysenteriae Sd197,"Transport",0.05,0.105882352941176
+iSDY_1059,Shigella dysenteriae Sd197,"Transport Outer Membrane Porin",0.2875,0.282352941176471
+iSDY_1059,Shigella dysenteriae Sd197,"Transport, ABC system",0.025,0.0117647058823529
+iSFV_1184,Shigella flexneri 5 str. 8401,"Alanine, Aspartate, and Glutamate Metabolism",0.0185185185185185,0.0338983050847458
+iSFV_1184,Shigella flexneri 5 str. 8401,"Alternate Carbon Metabolism",0.0833333333333333,0.0423728813559322
+iSFV_1184,Shigella flexneri 5 str. 8401,"Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis",0.00925925925925926,0.00847457627118644
+iSFV_1184,Shigella flexneri 5 str. 8401,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0185185185185185,0.0338983050847458
+iSFV_1184,Shigella flexneri 5 str. 8401,"Citrate cycle (TCA cycle)",0.00925925925925926,0.00847457627118644
+iSFV_1184,Shigella flexneri 5 str. 8401,"Exchange",0.0185185185185185,0.0254237288135593
+iSFV_1184,Shigella flexneri 5 str. 8401,"Folate Biosynthesis",0.0185185185185185,0.00847457627118644
+iSFV_1184,Shigella flexneri 5 str. 8401,"Glycolysis and Gluconeogenesis",0.0555555555555556,0.0254237288135593
+iSFV_1184,Shigella flexneri 5 str. 8401,"Inorganic Ion Transport and Metabolism",0.0277777777777778,0.11864406779661
+iSFV_1184,Shigella flexneri 5 str. 8401,"Membrane Lipid Metabolism",0.203703703703704,0.0932203389830508
+iSFV_1184,Shigella flexneri 5 str. 8401,"Nucleotide Salvage Pathway",0.037037037037037,0.0508474576271186
+iSFV_1184,Shigella flexneri 5 str. 8401,"Oxidative Phosphorylation",0.00925925925925926,0.0338983050847458
+iSFV_1184,Shigella flexneri 5 str. 8401,"Purine and Pyrimidine Biosynthesis",0.0277777777777778,0.0254237288135593
+iSFV_1184,Shigella flexneri 5 str. 8401,"Pyruvate Metabolism",0.0277777777777778,0.0169491525423729
+iSFV_1184,Shigella flexneri 5 str. 8401,"Transport",0.037037037037037,0.101694915254237
+iSFV_1184,Shigella flexneri 5 str. 8401,"Transport Inner Membrane",0.00925925925925926,0.0169491525423729
+iSFV_1184,Shigella flexneri 5 str. 8401,"Transport Outer Membrane Porin",0.333333333333333,0.288135593220339
+iSFV_1184,Shigella flexneri 5 str. 8401,"Transport, ABC system",0.0462962962962963,0.0508474576271186
+iSFV_1184,Shigella flexneri 5 str. 8401,"Transport, Outer Membrane",0.00925925925925926,0.00847457627118644
+iSF_1195,Shigella flexneri 2a str. 301,"Alanine, Aspartate, and Glutamate Metabolism",0.02,0.0363636363636364
+iSF_1195,Shigella flexneri 2a str. 301,"Alternate Carbon Metabolism",0.05,0.0272727272727273
+iSF_1195,Shigella flexneri 2a str. 301,"Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis",0.01,0.00909090909090909
+iSF_1195,Shigella flexneri 2a str. 301,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.02,0.0363636363636364
+iSF_1195,Shigella flexneri 2a str. 301,"Exchange",0.02,0.0272727272727273
+iSF_1195,Shigella flexneri 2a str. 301,"Folate Biosynthesis",0.02,0.00909090909090909
+iSF_1195,Shigella flexneri 2a str. 301,"Glycolysis and Gluconeogenesis",0.06,0.0272727272727273
+iSF_1195,Shigella flexneri 2a str. 301,"Inorganic Ion Transport and Metabolism",0.03,0.127272727272727
+iSF_1195,Shigella flexneri 2a str. 301,"Membrane Lipid Metabolism",0.22,0.1
+iSF_1195,Shigella flexneri 2a str. 301,"Nucleotide Salvage Pathway",0.04,0.0363636363636364
+iSF_1195,Shigella flexneri 2a str. 301,"Oxidative Phosphorylation",0.01,0.0181818181818182
+iSF_1195,Shigella flexneri 2a str. 301,"Purine and Pyrimidine Biosynthesis",0.03,0.0272727272727273
+iSF_1195,Shigella flexneri 2a str. 301,"Tranpsort, Inner Membrane",0.01,0.00909090909090909
+iSF_1195,Shigella flexneri 2a str. 301,"Transport",0.04,0.109090909090909
+iSF_1195,Shigella flexneri 2a str. 301,"Transport Inner Membrane",0.01,0.0181818181818182
+iSF_1195,Shigella flexneri 2a str. 301,"Transport Outer Membrane Porin",0.35,0.309090909090909
+iSF_1195,Shigella flexneri 2a str. 301,"Transport, ABC system",0.05,0.0545454545454545
+iSF_1195,Shigella flexneri 2a str. 301,"Transport, Outer Membrane",0.01,0.00909090909090909
+iSFxv_1172,Shigella flexneri 2002017,"Alternate Carbon Metabolism",0.0531914893617021,0.03
+iSFxv_1172,Shigella flexneri 2002017,"Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis",0.0106382978723404,0.01
+iSFxv_1172,Shigella flexneri 2002017,"Exchange",0.0212765957446809,0.03
+iSFxv_1172,Shigella flexneri 2002017,"Folate Biosynthesis",0.0212765957446809,0.01
+iSFxv_1172,Shigella flexneri 2002017,"Glycolysis and Gluconeogenesis",0.0638297872340425,0.03
+iSFxv_1172,Shigella flexneri 2002017,"Inorganic Ion Transport and Metabolism",0.0319148936170213,0.14
+iSFxv_1172,Shigella flexneri 2002017,"Membrane Lipid Metabolism",0.234042553191489,0.11
+iSFxv_1172,Shigella flexneri 2002017,"Nucleotide Salvage Pathway",0.0425531914893617,0.04
+iSFxv_1172,Shigella flexneri 2002017,"Oxidative Phosphorylation",0.0106382978723404,0.02
+iSFxv_1172,Shigella flexneri 2002017,"Purine and Pyrimidine Biosynthesis",0.0319148936170213,0.03
+iSFxv_1172,Shigella flexneri 2002017,"Transport",0.0425531914893617,0.12
+iSFxv_1172,Shigella flexneri 2002017,"Transport Inner Membrane",0.0106382978723404,0.02
+iSFxv_1172,Shigella flexneri 2002017,"Transport Outer Membrane Porin",0.361702127659574,0.33
+iSFxv_1172,Shigella flexneri 2002017,"Transport, ABC system",0.0531914893617021,0.06
+iSFxv_1172,Shigella flexneri 2002017,"Transport, Outer Membrane",0.0106382978723404,0.01
+iSSON_1240,Shigella sonnei Ss046,"Alternate Carbon Metabolism",0.119266055045872,0.096
+iSSON_1240,Shigella sonnei Ss046,"Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis",0.00917431192660551,0.008
+iSSON_1240,Shigella sonnei Ss046,"Citrate cycle (TCA cycle)",0.00917431192660551,0.008
+iSSON_1240,Shigella sonnei Ss046,"Cofactor and Prosthetic Group Biosynthesis",0.018348623853211,0.008
+iSSON_1240,Shigella sonnei Ss046,"Exchange",0.018348623853211,0.024
+iSSON_1240,Shigella sonnei Ss046,"Folate Biosynthesis",0.018348623853211,0.008
+iSSON_1240,Shigella sonnei Ss046,"Glycolysis and Gluconeogenesis",0.055045871559633,0.024
+iSSON_1240,Shigella sonnei Ss046,"Histidine Biosynthesis",0.00917431192660551,0.024
+iSSON_1240,Shigella sonnei Ss046,"Inorganic Ion Transport and Metabolism",0.0275229357798165,0.112
+iSSON_1240,Shigella sonnei Ss046,"Membrane Lipid Metabolism",0.201834862385321,0.088
+iSSON_1240,Shigella sonnei Ss046,"Nucleotide Salvage Pathway",0.036697247706422,0.064
+iSSON_1240,Shigella sonnei Ss046,"Oxidative Phosphorylation",0.00917431192660551,0.04
+iSSON_1240,Shigella sonnei Ss046,"Purine and Pyrimidine Biosynthesis",0.0275229357798165,0.024
+iSSON_1240,Shigella sonnei Ss046,"Pyruvate Metabolism",0.0275229357798165,0.024
+iSSON_1240,Shigella sonnei Ss046,"Transport",0.036697247706422,0.08
+iSSON_1240,Shigella sonnei Ss046,"Transport Inner Membrane",0.00917431192660551,0.032
+iSSON_1240,Shigella sonnei Ss046,"Transport Outer Membrane Porin",0.321100917431193,0.28
+iSSON_1240,Shigella sonnei Ss046,"Transport, ABC system",0.036697247706422,0.048
+iSSON_1240,Shigella sonnei Ss046,"Transport, Outer Membrane",0.00917431192660551,0.008
+iS_1188,Shigella flexneri 2a str. 2457T,"Alanine, Aspartate, and Glutamate Metabolism",0.0208333333333333,0.0377358490566038
+iS_1188,Shigella flexneri 2a str. 2457T,"Alternate Carbon Metabolism",0.03125,0.00943396226415094
+iS_1188,Shigella flexneri 2a str. 2457T,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0208333333333333,0.0377358490566038
+iS_1188,Shigella flexneri 2a str. 2457T,"Exchange",0.0104166666666667,0.0188679245283019
+iS_1188,Shigella flexneri 2a str. 2457T,"Folate Biosynthesis",0.0208333333333333,0.00943396226415094
+iS_1188,Shigella flexneri 2a str. 2457T,"Glycolysis and Gluconeogenesis",0.0625,0.0283018867924528
+iS_1188,Shigella flexneri 2a str. 2457T,"Inorganic Ion Transport and Metabolism",0.03125,0.132075471698113
+iS_1188,Shigella flexneri 2a str. 2457T,"Membrane Lipid Metabolism",0.229166666666667,0.10377358490566
+iS_1188,Shigella flexneri 2a str. 2457T,"Nucleotide Salvage Pathway",0.0416666666666667,0.0377358490566038
+iS_1188,Shigella flexneri 2a str. 2457T,"Oxidative Phosphorylation",0.0104166666666667,0.0188679245283019
+iS_1188,Shigella flexneri 2a str. 2457T,"Purine and Pyrimidine Biosynthesis",0.03125,0.0283018867924528
+iS_1188,Shigella flexneri 2a str. 2457T,"Tranpsort, Inner Membrane",0.0104166666666667,0.00943396226415094
+iS_1188,Shigella flexneri 2a str. 2457T,"Transport",0.0416666666666667,0.113207547169811
+iS_1188,Shigella flexneri 2a str. 2457T,"Transport Inner Membrane",0.0104166666666667,0.0188679245283019
+iS_1188,Shigella flexneri 2a str. 2457T,"Transport Outer Membrane Porin",0.364583333333333,0.320754716981132
+iS_1188,Shigella flexneri 2a str. 2457T,"Transport, ABC system",0.0520833333333333,0.0566037735849057
+iS_1188,Shigella flexneri 2a str. 2457T,"Transport, Outer Membrane",0.0104166666666667,0.00943396226415094
+iSbBS512_1146,Shigella boydii CDC 3083-94,"4 hydroxyphenylacetate catabolism",0.00970873786407767,0.0316455696202532
+iSbBS512_1146,Shigella boydii CDC 3083-94,"Alanine, Aspartate, and Glutamate Metabolism",0.0194174757281553,0.0253164556962025
+iSbBS512_1146,Shigella boydii CDC 3083-94,"Alternate Carbon Metabolism",0.0679611650485437,0.0189873417721519
+iSbBS512_1146,Shigella boydii CDC 3083-94,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0194174757281553,0.0253164556962025
+iSbBS512_1146,Shigella boydii CDC 3083-94,"Citrate cycle (TCA cycle)",0.0194174757281553,0.0379746835443038
+iSbBS512_1146,Shigella boydii CDC 3083-94,"Cofactor and Prosthetic Group Biosynthesis",0.029126213592233,0.0379746835443038
+iSbBS512_1146,Shigella boydii CDC 3083-94,"Folate Biosynthesis",0.0194174757281553,0.00632911392405063
+iSbBS512_1146,Shigella boydii CDC 3083-94,"Glycolysis and Gluconeogenesis",0.058252427184466,0.0189873417721519
+iSbBS512_1146,Shigella boydii CDC 3083-94,"Inorganic Ion Transport and Metabolism",0.029126213592233,0.10126582278481
+iSbBS512_1146,Shigella boydii CDC 3083-94,"Membrane Lipid Metabolism",0.271844660194175,0.19620253164557
+iSbBS512_1146,Shigella boydii CDC 3083-94,"Nucleotide Salvage Pathway",0.0388349514563107,0.0379746835443038
+iSbBS512_1146,Shigella boydii CDC 3083-94,"Oxidative Phosphorylation",0.00970873786407767,0.0253164556962025
+iSbBS512_1146,Shigella boydii CDC 3083-94,"Purine and Pyrimidine Biosynthesis",0.029126213592233,0.0189873417721519
+iSbBS512_1146,Shigella boydii CDC 3083-94,"Pyruvate Metabolism",0.029126213592233,0.0126582278481013
+iSbBS512_1146,Shigella boydii CDC 3083-94,"Transport",0.029126213592233,0.0632911392405063
+iSbBS512_1146,Shigella boydii CDC 3083-94,"Transport Outer Membrane Porin",0.281553398058252,0.19620253164557
+iSbBS512_1146,Shigella boydii CDC 3083-94,"Transport, ABC system",0.0388349514563107,0.0126582278481013
+iUMN146_1321,Escherichia coli UM146,"Alanine, Aspartate, and Glutamate Metabolism",0.0161290322580645,0.0222222222222222
+iUMN146_1321,Escherichia coli UM146,"Alternate Carbon Metabolism",0.0806451612903226,0.0333333333333333
+iUMN146_1321,Escherichia coli UM146,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0161290322580645,0.0222222222222222
+iUMN146_1321,Escherichia coli UM146,"Citrate cycle (TCA cycle)",0.0161290322580645,0.0333333333333333
+iUMN146_1321,Escherichia coli UM146,"Cofactor and Prosthetic Group Biosynthesis",0.0241935483870968,0.0333333333333333
+iUMN146_1321,Escherichia coli UM146,"Exchange",0.00806451612903226,0.0111111111111111
+iUMN146_1321,Escherichia coli UM146,"Folate Biosynthesis",0.0161290322580645,0.00555555555555556
+iUMN146_1321,Escherichia coli UM146,"Glycolysis and Gluconeogenesis",0.0483870967741935,0.0166666666666667
+iUMN146_1321,Escherichia coli UM146,"Histidine Biosynthesis",0.00806451612903226,0.0166666666666667
+iUMN146_1321,Escherichia coli UM146,"Inorganic Ion Transport and Metabolism",0.0241935483870968,0.111111111111111
+iUMN146_1321,Escherichia coli UM146,"Membrane Lipid Metabolism",0.225806451612903,0.144444444444444
+iUMN146_1321,Escherichia coli UM146,"Nucleotide Salvage Pathway",0.032258064516129,0.0444444444444444
+iUMN146_1321,Escherichia coli UM146,"Oxidative Phosphorylation",0.00806451612903226,0.0277777777777778
+iUMN146_1321,Escherichia coli UM146,"Purine and Pyrimidine Biosynthesis",0.0241935483870968,0.0166666666666667
+iUMN146_1321,Escherichia coli UM146,"Pyruvate Metabolism",0.0241935483870968,0.0166666666666667
+iUMN146_1321,Escherichia coli UM146,"Transport",0.032258064516129,0.0833333333333333
+iUMN146_1321,Escherichia coli UM146,"Transport Outer Membrane Porin",0.362903225806452,0.244444444444444
+iUMN146_1321,Escherichia coli UM146,"Transport, ABC system",0.0241935483870968,0.0277777777777778
+iUMN146_1321,Escherichia coli UM146,"Transport, Outer Membrane",0.00806451612903226,0.00555555555555556
+iUMNK88_1353,Escherichia coli UMNK88,"Alanine, Aspartate, and Glutamate Metabolism",0.0172413793103448,0.0285714285714286
+iUMNK88_1353,Escherichia coli UMNK88,"Alternate Carbon Metabolism",0.0862068965517241,0.0428571428571429
+iUMNK88_1353,Escherichia coli UMNK88,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0172413793103448,0.0285714285714286
+iUMNK88_1353,Escherichia coli UMNK88,"Citrate cycle (TCA cycle)",0.00862068965517241,0.00714285714285714
+iUMNK88_1353,Escherichia coli UMNK88,"Cofactor and Prosthetic Group Biosynthesis",0.0172413793103448,0.00714285714285714
+iUMNK88_1353,Escherichia coli UMNK88,"Exchange",0.00862068965517241,0.0142857142857143
+iUMNK88_1353,Escherichia coli UMNK88,"Folate Biosynthesis",0.0172413793103448,0.00714285714285714
+iUMNK88_1353,Escherichia coli UMNK88,"Glycolysis and Gluconeogenesis",0.0517241379310345,0.0214285714285714
+iUMNK88_1353,Escherichia coli UMNK88,"Histidine Biosynthesis",0.00862068965517241,0.0214285714285714
+iUMNK88_1353,Escherichia coli UMNK88,"Inorganic Ion Transport and Metabolism",0.0258620689655172,0.142857142857143
+iUMNK88_1353,Escherichia coli UMNK88,"Membrane Lipid Metabolism",0.189655172413793,0.0785714285714286
+iUMNK88_1353,Escherichia coli UMNK88,"Nucleotide Salvage Pathway",0.0344827586206897,0.0571428571428571
+iUMNK88_1353,Escherichia coli UMNK88,"Oxidative Phosphorylation",0.00862068965517241,0.0357142857142857
+iUMNK88_1353,Escherichia coli UMNK88,"Purine and Pyrimidine Biosynthesis",0.0258620689655172,0.0214285714285714
+iUMNK88_1353,Escherichia coli UMNK88,"Pyruvate Metabolism",0.0258620689655172,0.0214285714285714
+iUMNK88_1353,Escherichia coli UMNK88,"Transport",0.0344827586206897,0.107142857142857
+iUMNK88_1353,Escherichia coli UMNK88,"Transport Outer Membrane Porin",0.387931034482759,0.314285714285714
+iUMNK88_1353,Escherichia coli UMNK88,"Transport, ABC system",0.0258620689655172,0.0357142857142857
+iUMNK88_1353,Escherichia coli UMNK88,"Transport, Outer Membrane",0.00862068965517241,0.00714285714285714
+iUTI89_1310,Escherichia coli UTI89,"Alanine, Aspartate, and Glutamate Metabolism",0.0172413793103448,0.0285714285714286
+iUTI89_1310,Escherichia coli UTI89,"Alternate Carbon Metabolism",0.0862068965517241,0.0428571428571429
+iUTI89_1310,Escherichia coli UTI89,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0172413793103448,0.0285714285714286
+iUTI89_1310,Escherichia coli UTI89,"Citrate cycle (TCA cycle)",0.00862068965517241,0.00714285714285714
+iUTI89_1310,Escherichia coli UTI89,"Cofactor and Prosthetic Group Biosynthesis",0.0172413793103448,0.00714285714285714
+iUTI89_1310,Escherichia coli UTI89,"Exchange",0.00862068965517241,0.0142857142857143
+iUTI89_1310,Escherichia coli UTI89,"Folate Biosynthesis",0.0172413793103448,0.00714285714285714
+iUTI89_1310,Escherichia coli UTI89,"Glycolysis and Gluconeogenesis",0.0517241379310345,0.0214285714285714
+iUTI89_1310,Escherichia coli UTI89,"Histidine Biosynthesis",0.00862068965517241,0.0214285714285714
+iUTI89_1310,Escherichia coli UTI89,"Inorganic Ion Transport and Metabolism",0.0258620689655172,0.142857142857143
+iUTI89_1310,Escherichia coli UTI89,"Membrane Lipid Metabolism",0.189655172413793,0.0785714285714286
+iUTI89_1310,Escherichia coli UTI89,"Nucleotide Salvage Pathway",0.0344827586206897,0.0571428571428571
+iUTI89_1310,Escherichia coli UTI89,"Oxidative Phosphorylation",0.00862068965517241,0.0357142857142857
+iUTI89_1310,Escherichia coli UTI89,"Purine and Pyrimidine Biosynthesis",0.0258620689655172,0.0214285714285714
+iUTI89_1310,Escherichia coli UTI89,"Pyruvate Metabolism",0.0258620689655172,0.0214285714285714
+iUTI89_1310,Escherichia coli UTI89,"Transport",0.0344827586206897,0.107142857142857
+iUTI89_1310,Escherichia coli UTI89,"Transport Outer Membrane Porin",0.387931034482759,0.314285714285714
+iUTI89_1310,Escherichia coli UTI89,"Transport, ABC system",0.0258620689655172,0.0357142857142857
+iUTI89_1310,Escherichia coli UTI89,"Transport, Outer Membrane",0.00862068965517241,0.00714285714285714
+iWFL_1372,Escherichia coli W,"Alanine, Aspartate, and Glutamate Metabolism",0.0175438596491228,0.0283687943262411
+iWFL_1372,Escherichia coli W,"Alternate Carbon Metabolism",0.105263157894737,0.0567375886524823
+iWFL_1372,Escherichia coli W,"Amino acid metabolism: Phenylalanine, Tyrosine, Tryptophan biosynthesis",0.0087719298245614,0.00709219858156028
+iWFL_1372,Escherichia coli W,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0175438596491228,0.0283687943262411
+iWFL_1372,Escherichia coli W,"Citrate cycle (TCA cycle)",0.0087719298245614,0.00709219858156028
+iWFL_1372,Escherichia coli W,"Cofactor and Prosthetic Group Biosynthesis",0.0175438596491228,0.00709219858156028
+iWFL_1372,Escherichia coli W,"Exchange",0.0175438596491228,0.0212765957446809
+iWFL_1372,Escherichia coli W,"Folate Biosynthesis",0.0175438596491228,0.00709219858156028
+iWFL_1372,Escherichia coli W,"Glycolysis and Gluconeogenesis",0.0526315789473684,0.0212765957446809
+iWFL_1372,Escherichia coli W,"Histidine Biosynthesis",0.0087719298245614,0.0212765957446809
+iWFL_1372,Escherichia coli W,"Inorganic Ion Transport and Metabolism",0.0263157894736842,0.141843971631206
+iWFL_1372,Escherichia coli W,"Membrane Lipid Metabolism",0.192982456140351,0.0780141843971631
+iWFL_1372,Escherichia coli W,"Nucleotide Salvage Pathway",0.0350877192982456,0.0567375886524823
+iWFL_1372,Escherichia coli W,"Oxidative Phosphorylation",0.0087719298245614,0.0354609929078014
+iWFL_1372,Escherichia coli W,"Purine and Pyrimidine Biosynthesis",0.0263157894736842,0.0212765957446809
+iWFL_1372,Escherichia coli W,"Pyruvate Metabolism",0.0263157894736842,0.0212765957446809
+iWFL_1372,Escherichia coli W,"Transport",0.0350877192982456,0.106382978723404
+iWFL_1372,Escherichia coli W,"Transport Outer Membrane Porin",0.342105263157895,0.290780141843972
+iWFL_1372,Escherichia coli W,"Transport, ABC system",0.0263157894736842,0.0354609929078014
+iWFL_1372,Escherichia coli W,"Transport, Outer Membrane",0.0087719298245614,0.00709219858156028
+iY75_1357,Escherichia coli str. K-12 substr. W3110,"Alanine, Aspartate, and Glutamate Metabolism",0.0172413793103448,0.0285714285714286
+iY75_1357,Escherichia coli str. K-12 substr. W3110,"Alternate Carbon Metabolism",0.0862068965517241,0.0428571428571429
+iY75_1357,Escherichia coli str. K-12 substr. W3110,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0172413793103448,0.0285714285714286
+iY75_1357,Escherichia coli str. K-12 substr. W3110,"Citrate cycle (TCA cycle)",0.00862068965517241,0.00714285714285714
+iY75_1357,Escherichia coli str. K-12 substr. W3110,"Cofactor and Prosthetic Group Biosynthesis",0.0172413793103448,0.00714285714285714
+iY75_1357,Escherichia coli str. K-12 substr. W3110,"Exchange",0.00862068965517241,0.0142857142857143
+iY75_1357,Escherichia coli str. K-12 substr. W3110,"Folate Biosynthesis",0.0172413793103448,0.00714285714285714
+iY75_1357,Escherichia coli str. K-12 substr. W3110,"Glycolysis and Gluconeogenesis",0.0517241379310345,0.0214285714285714
+iY75_1357,Escherichia coli str. K-12 substr. W3110,"Histidine Biosynthesis",0.00862068965517241,0.0214285714285714
+iY75_1357,Escherichia coli str. K-12 substr. W3110,"Inorganic Ion Transport and Metabolism",0.0258620689655172,0.142857142857143
+iY75_1357,Escherichia coli str. K-12 substr. W3110,"Membrane Lipid Metabolism",0.189655172413793,0.0785714285714286
+iY75_1357,Escherichia coli str. K-12 substr. W3110,"Nucleotide Salvage Pathway",0.0344827586206897,0.0571428571428571
+iY75_1357,Escherichia coli str. K-12 substr. W3110,"Oxidative Phosphorylation",0.00862068965517241,0.0357142857142857
+iY75_1357,Escherichia coli str. K-12 substr. W3110,"Purine and Pyrimidine Biosynthesis",0.0258620689655172,0.0214285714285714
+iY75_1357,Escherichia coli str. K-12 substr. W3110,"Pyruvate Metabolism",0.0258620689655172,0.0214285714285714
+iY75_1357,Escherichia coli str. K-12 substr. W3110,"Transport",0.0344827586206897,0.107142857142857
+iY75_1357,Escherichia coli str. K-12 substr. W3110,"Transport Outer Membrane Porin",0.387931034482759,0.314285714285714
+iY75_1357,Escherichia coli str. K-12 substr. W3110,"Transport, ABC system",0.0258620689655172,0.0357142857142857
+iY75_1357,Escherichia coli str. K-12 substr. W3110,"Transport, Outer Membrane",0.00862068965517241,0.00714285714285714
+iYL1228,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,"Alanine, Aspartate, and Glutamate Metabolism",0.0508474576271186,0.0273972602739726
+iYL1228,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,"Alternate Carbon Metabolism",0.0677966101694915,0.0547945205479452
+iYL1228,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,"Amino acid metabolism: Glycine, Serine and Threonine metabolism",0.0169491525423729,0.0136986301369863
+iYL1228,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0169491525423729,0.0136986301369863
+iYL1228,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,"Amino acid, ala",0.0169491525423729,0.0136986301369863
+iYL1228,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,"Citrate cycle (TCA cycle)",0.0338983050847458,0.0136986301369863
+iYL1228,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,"Cofactor and Prosthetic Group Biosynthesis",0.0338983050847458,0.0136986301369863
+iYL1228,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,"Exchange",0.0169491525423729,0.0410958904109589
+iYL1228,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,"Fatty Acid  Biosynthesis",0.0169491525423729,0.0136986301369863
+iYL1228,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,"Glutamate and glutamin metabolism",0.0338983050847458,0.0410958904109589
+iYL1228,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,"Glycolysis and Gluconeogenesis",0.101694915254237,0.0410958904109589
+iYL1228,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,"Histidine Biosynthesis",0.0169491525423729,0.0410958904109589
+iYL1228,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,"Inorganic Ion Transport and Metabolism",0.0508474576271186,0.164383561643836
+iYL1228,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,"Membrane Lipid Metabolism",0.0169491525423729,0.0136986301369863
+iYL1228,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,"Nucleotide Salvage Pathway",0.0508474576271186,0.0821917808219178
+iYL1228,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,"Oxidative Phosphorylation",0.0338983050847458,0.0821917808219178
+iYL1228,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,"Pyruvate Metabolism",0.0677966101694915,0.0547945205479452
+iYL1228,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,"Starch and Sucrose Metabolism",0.0169491525423729,0.0136986301369863
+iYL1228,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,"Threonine and Lysine Metabolism",0.0338983050847458,0.0136986301369863
+iYL1228,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,"Tranpsort, Inner Membrane",0.11864406779661,0.0958904109589041
+iYL1228,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,"Transport",0.0169491525423729,0.0273972602739726
+iYL1228,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,"Transport Outer Membrane Porin",0.135593220338983,0.0958904109589041
+iYL1228,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,"Transport, ABC system",0.0169491525423729,0.0136986301369863
+iYL1228,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,"Transport, Outer Membrane",0.0169491525423729,0.0136986301369863
+iYO844,Bacillus subtilis subsp. subtilis str. 168,"Amino Acid Metabolism",0.428571428571429,0.533333333333333
+iYO844,Bacillus subtilis subsp. subtilis str. 168,"S_Carbohydrates_and_related_molecules",0.0952380952380952,0.133333333333333
+iYO844,Bacillus subtilis subsp. subtilis str. 168,"S_Nucleotides_and_nucleic_acids",0.238095238095238,0.2
+iYO844,Bacillus subtilis subsp. subtilis str. 168,"Transport Inner Membrane",0.238095238095238,0.133333333333333
+iYS1720,Salmonella pan-reactome,"Alanine, Aspartate, and Glutamate Metabolism",0.043859649122807,0.03125
+iYS1720,Salmonella pan-reactome,"Alternate Carbon Metabolism",0.0789473684210526,0.046875
+iYS1720,Salmonella pan-reactome,"Amino acid metabolism: Glycine, Serine and Threonine metabolism",0.0087719298245614,0.015625
+iYS1720,Salmonella pan-reactome,"Cell Wall/Membrane/Envelope Metabolism",0.0087719298245614,0.0078125
+iYS1720,Salmonella pan-reactome,"Citrate cycle (TCA cycle)",0.0175438596491228,0.015625
+iYS1720,Salmonella pan-reactome,"Cofactor and Prosthetic Group Biosynthesis",0.0175438596491228,0.0078125
+iYS1720,Salmonella pan-reactome,"Glutamate and glutamin metabolism",0.0087719298245614,0.046875
+iYS1720,Salmonella pan-reactome,"Glycolysis and Gluconeogenesis",0.0175438596491228,0.0078125
+iYS1720,Salmonella pan-reactome,"Inorganic Ion Transport and Metabolism",0.043859649122807,0.1015625
+iYS1720,Salmonella pan-reactome,"Lipopolysaccharide Biosynthesis / Recycling",0.0701754385964912,0.0859375
+iYS1720,Salmonella pan-reactome,"Membrane Lipid Metabolism",0.157894736842105,0.140625
+iYS1720,Salmonella pan-reactome,"Nucleotide Salvage Pathway",0.0263157894736842,0.0078125
+iYS1720,Salmonella pan-reactome,"Oxidative Phosphorylation",0.0087719298245614,0.015625
+iYS1720,Salmonella pan-reactome,"Pyruvate Metabolism",0.0087719298245614,0.015625
+iYS1720,Salmonella pan-reactome,"Threonine and Lysine Metabolism",0.0175438596491228,0.015625
+iYS1720,Salmonella pan-reactome,"Transport Outer Membrane Porin",0.254385964912281,0.203125
+iYS1720,Salmonella pan-reactome,"Transport, ABC system",0.0263157894736842,0.0234375
+iYS1720,Salmonella pan-reactome,"Transport, Outer Membrane",0.0087719298245614,0.0078125
+iYS1720,Salmonella pan-reactome,"Unassigned",0.166666666666667,0.1875
+iYS1720,Salmonella pan-reactome,"Valine Leucine and Isoleucine Metabolism",0.0087719298245614,0.015625
+iYS854,Staphylococcus aureus subsp. aureus USA300_TCH1516,"Amino Acid Metabolism",0.0434782608695652,0.0555555555555556
+iYS854,Staphylococcus aureus subsp. aureus USA300_TCH1516,"Carbohydrate Metabolism",0.0869565217391304,0.0740740740740741
+iYS854,Staphylococcus aureus subsp. aureus USA300_TCH1516,"Cell Wall/Membrane/Envelope Metabolism",0.0217391304347826,0.0185185185185185
+iYS854,Staphylococcus aureus subsp. aureus USA300_TCH1516,"Cofactor and Prosthetic Group Biosynthesis",0.108695652173913,0.0740740740740741
+iYS854,Staphylococcus aureus subsp. aureus USA300_TCH1516,"Energy Production and Conversion",0.130434782608696,0.111111111111111
+iYS854,Staphylococcus aureus subsp. aureus USA300_TCH1516,"Lipid &amp; Cell Wall Metabolism",0.0434782608695652,0.0185185185185185
+iYS854,Staphylococcus aureus subsp. aureus USA300_TCH1516,"Nucelotide Metabolism",0.5,0.62962962962963
+iYS854,Staphylococcus aureus subsp. aureus USA300_TCH1516,"Transport",0.0652173913043478,0.0185185185185185
+iZ_1308,Escherichia coli O157:H7 str. EDL933,"Alanine, Aspartate, and Glutamate Metabolism",0.0181818181818182,0.0291970802919708
+iZ_1308,Escherichia coli O157:H7 str. EDL933,"Alternate Carbon Metabolism",0.0909090909090909,0.0437956204379562
+iZ_1308,Escherichia coli O157:H7 str. EDL933,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0181818181818182,0.0291970802919708
+iZ_1308,Escherichia coli O157:H7 str. EDL933,"Citrate cycle (TCA cycle)",0.00909090909090909,0.0072992700729927
+iZ_1308,Escherichia coli O157:H7 str. EDL933,"Cofactor and Prosthetic Group Biosynthesis",0.0181818181818182,0.0072992700729927
+iZ_1308,Escherichia coli O157:H7 str. EDL933,"Exchange",0.00909090909090909,0.0145985401459854
+iZ_1308,Escherichia coli O157:H7 str. EDL933,"Folate Biosynthesis",0.0181818181818182,0.0072992700729927
+iZ_1308,Escherichia coli O157:H7 str. EDL933,"Glycolysis and Gluconeogenesis",0.0545454545454545,0.0218978102189781
+iZ_1308,Escherichia coli O157:H7 str. EDL933,"Histidine Biosynthesis",0.00909090909090909,0.0218978102189781
+iZ_1308,Escherichia coli O157:H7 str. EDL933,"Inorganic Ion Transport and Metabolism",0.0272727272727273,0.145985401459854
+iZ_1308,Escherichia coli O157:H7 str. EDL933,"Membrane Lipid Metabolism",0.2,0.0802919708029197
+iZ_1308,Escherichia coli O157:H7 str. EDL933,"Nucleotide Salvage Pathway",0.0363636363636364,0.0583941605839416
+iZ_1308,Escherichia coli O157:H7 str. EDL933,"Oxidative Phosphorylation",0.00909090909090909,0.0364963503649635
+iZ_1308,Escherichia coli O157:H7 str. EDL933,"Purine and Pyrimidine Biosynthesis",0.0272727272727273,0.0218978102189781
+iZ_1308,Escherichia coli O157:H7 str. EDL933,"Pyruvate Metabolism",0.0272727272727273,0.0218978102189781
+iZ_1308,Escherichia coli O157:H7 str. EDL933,"Transport",0.0363636363636364,0.109489051094891
+iZ_1308,Escherichia coli O157:H7 str. EDL933,"Transport Outer Membrane Porin",0.354545454545455,0.299270072992701
+iZ_1308,Escherichia coli O157:H7 str. EDL933,"Transport, ABC system",0.0272727272727273,0.0364963503649635
+iZ_1308,Escherichia coli O157:H7 str. EDL933,"Transport, Outer Membrane",0.00909090909090909,0.0072992700729927
+ic_1306,Escherichia coli CFT073,"Alanine, Aspartate, and Glutamate Metabolism",0.0172413793103448,0.0285714285714286
+ic_1306,Escherichia coli CFT073,"Alternate Carbon Metabolism",0.0862068965517241,0.0428571428571429
+ic_1306,Escherichia coli CFT073,"Amino acid metabolism: Valine, Leucine and Isoleucine biosynthesis",0.0172413793103448,0.0285714285714286
+ic_1306,Escherichia coli CFT073,"Citrate cycle (TCA cycle)",0.00862068965517241,0.00714285714285714
+ic_1306,Escherichia coli CFT073,"Cofactor and Prosthetic Group Biosynthesis",0.0172413793103448,0.00714285714285714
+ic_1306,Escherichia coli CFT073,"Exchange",0.00862068965517241,0.0142857142857143
+ic_1306,Escherichia coli CFT073,"Folate Biosynthesis",0.0172413793103448,0.00714285714285714
+ic_1306,Escherichia coli CFT073,"Glycolysis and Gluconeogenesis",0.0517241379310345,0.0214285714285714
+ic_1306,Escherichia coli CFT073,"Histidine Biosynthesis",0.00862068965517241,0.0214285714285714
+ic_1306,Escherichia coli CFT073,"Inorganic Ion Transport and Metabolism",0.0258620689655172,0.142857142857143
+ic_1306,Escherichia coli CFT073,"Membrane Lipid Metabolism",0.189655172413793,0.0785714285714286
+ic_1306,Escherichia coli CFT073,"Nucleotide Salvage Pathway",0.0344827586206897,0.0571428571428571
+ic_1306,Escherichia coli CFT073,"Oxidative Phosphorylation",0.00862068965517241,0.0357142857142857
+ic_1306,Escherichia coli CFT073,"Purine and Pyrimidine Biosynthesis",0.0258620689655172,0.0214285714285714
+ic_1306,Escherichia coli CFT073,"Pyruvate Metabolism",0.0258620689655172,0.0214285714285714
+ic_1306,Escherichia coli CFT073,"Transport",0.0344827586206897,0.107142857142857
+ic_1306,Escherichia coli CFT073,"Transport Outer Membrane Porin",0.387931034482759,0.314285714285714
+ic_1306,Escherichia coli CFT073,"Transport, ABC system",0.0258620689655172,0.0357142857142857
+ic_1306,Escherichia coli CFT073,"Transport, Outer Membrane",0.00862068965517241,0.00714285714285714
