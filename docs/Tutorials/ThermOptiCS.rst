@@ -2,5 +2,4 @@ ThermOptiCS Tutorial
 ====================
 
 .. raw:: html
-    .. include:: ThermOptiCS.html
-       :literal:
+    :file: ThermOptiCS.html

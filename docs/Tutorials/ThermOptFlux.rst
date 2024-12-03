@@ -2,5 +2,4 @@ ThermOptFlux Tutorial
 =====================
 
 .. raw:: html
-    .. include:: ThermOptFlux.html
-       :literal:
+    :file: ThermOptFlux.html

@@ -2,5 +2,4 @@ ThermOptCC Tutorial
 ===================
 
 .. raw:: html
-    .. include:: ThermOptCC.html
-       :literal:
+    :file: ThermOptCC.html
