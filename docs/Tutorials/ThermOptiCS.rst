@@ -2,4 +2,4 @@ ThermOptiCS Tutorial
 ====================
 
 .. raw:: html
-    :file: ThermOptiCS.html
+    :file: Tutorial_ThermOptiCS.html

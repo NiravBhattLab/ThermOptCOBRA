@@ -2,5 +2,5 @@ ThermOptEnumerator Tutorial
 ===========================
 
 .. raw:: html
-    :file: ThermOptEnumerator.html
+    :file: Tutorial_ThermOptEnumerator.html
 
