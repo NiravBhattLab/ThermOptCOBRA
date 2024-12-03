@@ -34,8 +34,6 @@ model.lb(IrR) = -1*temp;
 rev = ones(n,1);
 rev(model.lb>=0) = 0;
 model.rev=rev;
-% converting all the positive lower bounds to zero lower bounds
-model.lb(model.lb>0)=0;
 
 % normalising the bounds to max of 1000
 temp1 = max(abs(model.lb));
@@ -44,6 +42,8 @@ model.lb(abs(model.lb)==temp1) = sign(model.lb(abs(model.lb)==temp1))*1000;
 model.ub(abs(model.ub)==temp2) = sign(model.ub(abs(model.ub)==temp2))*1000;
 
 modModel = model;
+% converting all the positive lower bounds to zero lower bounds
+model.lb(model.lb>0)=0;
 tol=1;
 ind=findExcRxns(model);
 % blocking all the exchange reactions
