@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,IE=9,chrome=1"><meta name="generator" content="MATLAB 2023b"><title>ThermOptFlux</title><style type="text/css">.rtcContent { padding: 30px; } .S0 { margin: 3px 10px 5px 4px; padding: 0px; line-height: 28.8px; min-height: 0px; white-space: pre-wrap; color: rgb(192, 76, 11); font-family: Helvetica, Arial, sans-serif; font-style: normal; font-size: 24px; font-weight: 400; text-align: left;  }
+.S1 { margin: 2px 10px 9px 4px; padding: 0px; line-height: 21px; min-height: 0px; white-space: pre-wrap; color: rgb(33, 33, 33); font-family: Helvetica, Arial, sans-serif; font-style: normal; font-size: 14px; font-weight: 400; text-align: left;  }
+.CodeBlock { background-color: #F5F5F5; margin: 10px 0 10px 0; }
+.S2 { border-left: 1px solid rgb(217, 217, 217); border-right: 1px solid rgb(217, 217, 217); border-top: 1px solid rgb(217, 217, 217); border-bottom: 0px none rgb(33, 33, 33); border-radius: 4px 4px 0px 0px; padding: 6px 45px 0px 13px; line-height: 18.004px; min-height: 0px; white-space: nowrap; color: rgb(33, 33, 33); font-family: Menlo, Monaco, Consolas, "Courier New", monospace; font-size: 14px;  }
+.S3 { border-left: 1px solid rgb(217, 217, 217); border-right: 1px solid rgb(217, 217, 217); border-top: 0px none rgb(33, 33, 33); border-bottom: 1px solid rgb(217, 217, 217); border-radius: 0px; padding: 0px 45px 4px 13px; line-height: 18.004px; min-height: 0px; white-space: nowrap; color: rgb(33, 33, 33); font-family: Menlo, Monaco, Consolas, "Courier New", monospace; font-size: 14px;  }
+.S4 { color: rgb(33, 33, 33); padding: 10px 0px 6px 17px; background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box; font-family: Menlo, Monaco, Consolas, "Courier New", monospace; font-size: 14px; overflow-x: hidden; line-height: 17.234px;  }
+/* Styling that is common to warnings and errors is in diagnosticOutput.css */.embeddedOutputsErrorElement {    min-height: 18px;    max-height: 550px;}
+.embeddedOutputsErrorElement .diagnosticMessage-errorType {    overflow: auto;}
+.embeddedOutputsErrorElement.inlineElement {}
+.embeddedOutputsErrorElement.rightPaneElement {}
+/* Styling that is common to warnings and errors is in diagnosticOutput.css */.embeddedOutputsWarningElement {    min-height: 18px;    max-height: 550px;}
+.embeddedOutputsWarningElement .diagnosticMessage-warningType {    overflow: auto;}
+.embeddedOutputsWarningElement.inlineElement {}
+.embeddedOutputsWarningElement.rightPaneElement {}
+/* Copyright 2015-2023 The MathWorks, Inc. *//* In this file, styles are not scoped to rtcContainer since they could be in the Dojo Tooltip */.diagnosticMessage-wrapper {    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;    font-size: 12px;}
+.diagnosticMessage-wrapper.diagnosticMessage-warningType {    /*This fallback value will be used for appdesigner warnings*/    color: var(--rtc-warning-output-color, var(--mw-color-matlabWarning));}
+.diagnosticMessage-wrapper.diagnosticMessage-warningType a {    /*This fallback value will be used for appdesigner warnings*/    color: var(--rtc-warning-output-color, var(--mw-color-matlabWarning));    text-decoration: underline;}
+.rtcThemeDefaultOverride .diagnosticMessage-wrapper.diagnosticMessage-warningType,.rtcThemeDefaultOverride .diagnosticMessage-wrapper.diagnosticMessage-warningType a {    color: var(--mw-color-matlabWarning) !important;}
+.diagnosticMessage-wrapper.diagnosticMessage-errorType {    /*This fallback value will be used in appdesigner error tooltip text*/    color: var(--rtc-error-output-color, var(--mw-color-matlabErrors));}
+.diagnosticMessage-wrapper.diagnosticMessage-errorType a {    /*This fallback value will be used in appdesigner error tooltip text*/    color: var(--rtc-error-output-color, var(--mw-color-matlabErrors));    text-decoration: underline;}
+.rtcThemeDefaultOverride .diagnosticMessage-wrapper.diagnosticMessage-errorType,.rtcThemeDefaultOverride .diagnosticMessage-wrapper.diagnosticMessage-errorType a {    color: var(--mw-color-matlabErrors) !important;}
+.diagnosticMessage-wrapper .diagnosticMessage-messagePart,.diagnosticMessage-wrapper .diagnosticMessage-causePart {    white-space: pre-wrap;}
+.diagnosticMessage-wrapper .diagnosticMessage-stackPart {    white-space: pre;}
+.embeddedOutputsTextElement,.embeddedOutputsVariableStringElement {    white-space: pre;    word-wrap:  initial;    min-height: 18px;    max-height: 550px;}
+.embeddedOutputsTextElement .textElement,.embeddedOutputsVariableStringElement .textElement {    overflow: auto;}
+.textElement,.rtcDataTipElement .textElement {    padding-top: 2px;}
+.embeddedOutputsTextElement.inlineElement,.embeddedOutputsVariableStringElement.inlineElement {}
+.inlineElement .textElement {}
+.embeddedOutputsTextElement.rightPaneElement,.embeddedOutputsVariableStringElement.rightPaneElement {    min-height: 16px;}
+.rightPaneElement .textElement {    padding-top: 2px;    padding-left: 9px;}
+.S5 { margin: 10px 10px 9px 4px; padding: 0px; line-height: 21px; min-height: 0px; white-space: pre-wrap; color: rgb(33, 33, 33); font-family: Helvetica, Arial, sans-serif; font-style: normal; font-size: 14px; font-weight: 400; text-align: left;  }
+.S6 { border-left: 1px solid rgb(217, 217, 217); border-right: 1px solid rgb(217, 217, 217); border-top: 1px solid rgb(217, 217, 217); border-bottom: 1px solid rgb(217, 217, 217); border-radius: 4px; padding: 6px 45px 4px 13px; line-height: 18.004px; min-height: 0px; white-space: nowrap; color: rgb(33, 33, 33); font-family: Menlo, Monaco, Consolas, "Courier New", monospace; font-size: 14px;  }
+.S7 { border-left: 1px solid rgb(217, 217, 217); border-right: 1px solid rgb(217, 217, 217); border-top: 0px none rgb(33, 33, 33); border-bottom: 0px none rgb(33, 33, 33); border-radius: 0px; padding: 0px 45px 0px 13px; line-height: 18.004px; min-height: 0px; white-space: nowrap; color: rgb(33, 33, 33); font-family: Menlo, Monaco, Consolas, "Courier New", monospace; font-size: 14px;  }
+.S8 { border-left: 1px solid rgb(217, 217, 217); border-right: 1px solid rgb(217, 217, 217); border-top: 0px none rgb(33, 33, 33); border-bottom: 1px solid rgb(217, 217, 217); border-radius: 0px 0px 4px 4px; padding: 0px 45px 4px 13px; line-height: 18.004px; min-height: 0px; white-space: nowrap; color: rgb(33, 33, 33); font-family: Menlo, Monaco, Consolas, "Courier New", monospace; font-size: 14px;  }</style></head><body><div class = rtcContent><h1  class = 'S0'><span style=' font-weight: bold;'>ThermOptFlux</span></h1><div  class = 'S1'><span>ThermOptFlux (TOF) is a post-processing algorithm designed to eliminate thermodynamically infeasible loops from flux distributions generated by any flux analysis methods like, flux balance analysis (FBA) or flux sampling methods. These loops can arise due to the presence of TICs, even in thermodynamically consistent models. TOF ensures that the final flux distribution is thermodynamically feasible, providing more accurate and biologically meaningful predictions. This is essential for various applications, such as predicting metabolic fluxes under different conditions, simulating growth phenotypes, and designing metabolic engineering strategies. TOF takes a flux distribution and the corresponding TICs (identified by TOE) as inputs. It outputs a corrected flux distribution that is free of thermodynamically infeasible loops, ensuring consistency with the laws of thermodynamics. This tutorial implies TOF on a flux distribution obtained from flux balance analysis (FBA).  </span></div><div  class = 'S1'><span style=' font-weight: bold;'>Reading the COBRA model (The model should have the following fields: S, lb, ub, rxns)</span></div><div class="CodeBlock"><div class="inlineWrapper"><div  class = 'S2'><span style="white-space: pre"><span >fileName = </span><span style="color: #a709f5;">'iAF1260.mat'</span><span >;</span></span></div></div><div class="inlineWrapper outputs"><div  class = 'S3'><span style="white-space: pre"><span >model = readCbModel(fileName);</span></span></div><div  class = 'S4'><div class="inlineElement eoOutputWrapper disableDefaultGestureHandling embeddedOutputsTextElement" uid="C36613D1" prevent-scroll="true" data-testid="output_0" tabindex="-1" style="width: 1129px; white-space: pre; font-style: normal; color: rgb(33, 33, 33); font-size: 12px;"><div class="textElement eoOutputContent" tabindex="-1" data-previous-available-width="1092" data-previous-scroll-height="17" data-hashorizontaloverflow="false" style="max-height: 261px; white-space: pre; font-style: normal; color: rgb(33, 33, 33); font-size: 12px;">Each model.subSystems{x} is a character array, and this format is retained.</div></div></div></div></div><div  class = 'S5'><span style=' font-weight: bold;'>Obtaining the TICs for the given input model</span></div><div class="CodeBlock"><div class="inlineWrapper"><div  class = 'S6'><span style="white-space: pre"><span >[TICs,Direction,TIC_Rxns,modModel] = ThermOptEnumMILP(model);</span></span></div></div></div><div  class = 'S5'><span>Note that all the flux analysis methods have to be implied on the modModel rather than model. modModel is similar to that of the model except that the reverse irreversible reactions (ub &lt;=0) are updated to forward irreversible reactions.</span></div><div class="CodeBlock"><div class="inlineWrapper"><div  class = 'S2'><span style="white-space: pre"><span style="color: #008013;">% FBA on the model</span></span></div></div><div class="inlineWrapper"><div  class = 'S7'><span style="white-space: pre"><span >sol = optimizeCbModel(modModel);</span></span></div></div><div class="inlineWrapper"><div  class = 'S7'><span style="white-space: pre"><span >flux = sol.v;</span></span></div></div><div class="inlineWrapper"><div  class = 'S8'><span style="white-space: pre"><span >[Looplessflux] = ThermOptFlux(modModel,flux,TICs,Direction);</span></span></div></div></div><div  class = 'S5'><span>The obtained variable Looplessflux is flux distribution without any loops in it.</span></div>
+<br>
+<!-- 
+##### SOURCE BEGIN #####
+%% *ThermOptFlux*
+% ThermOptFlux (TOF) is a post-processing algorithm designed to eliminate thermodynamically 
+% infeasible loops from flux distributions generated by any flux analysis methods 
+% like, flux balance analysis (FBA) or flux sampling methods. These loops can 
+% arise due to the presence of TICs, even in thermodynamically consistent models. 
+% TOF ensures that the final flux distribution is thermodynamically feasible, 
+% providing more accurate and biologically meaningful predictions. This is essential 
+% for various applications, such as predicting metabolic fluxes under different 
+% conditions, simulating growth phenotypes, and designing metabolic engineering 
+% strategies. TOF takes a flux distribution and the corresponding TICs (identified 
+% by TOE) as inputs. It outputs a corrected flux distribution that is free of 
+% thermodynamically infeasible loops, ensuring consistency with the laws of thermodynamics. 
+% This tutorial implies TOF on a flux distribution obtained from flux balance 
+% analysis (FBA).  
+% 
+% *Reading the COBRA model (The model should have the following fields: S, lb, 
+% ub, rxns)*
+
+fileName = 'iAF1260.mat';
+model = readCbModel(fileName);
+%% 
+% *Obtaining the TICs for the given input model*
+
+[TICs,Direction,TIC_Rxns,modModel] = ThermOptEnumMILP(model);
+%% 
+% Note that all the flux analysis methods have to be implied on the modModel 
+% rather than model. modModel is similar to that of the model except that the 
+% reverse irreversible reactions (ub <=0) are updated to forward irreversible 
+% reactions.
+
+% FBA on the model
+sol = optimizeCbModel(modModel);
+flux = sol.v;
+[Looplessflux] = ThermOptFlux(modModel,flux,TICs,Direction);
+%% 
+% The obtained variable Looplessflux is flux distribution without any loops 
+% in it.
+##### SOURCE END #####
+-->
+</div></body></html>

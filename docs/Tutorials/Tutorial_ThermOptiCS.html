@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,IE=9,chrome=1"><meta name="generator" content="MATLAB 2023b"><title>ThermOptiCS</title><style type="text/css">.rtcContent { padding: 30px; } .S0 { margin: 3px 10px 5px 4px; padding: 0px; line-height: 28.8px; min-height: 0px; white-space: pre-wrap; color: rgb(192, 76, 11); font-family: Helvetica, Arial, sans-serif; font-style: normal; font-size: 24px; font-weight: 400; text-align: left;  }
+.S1 { margin: 2px 10px 9px 4px; padding: 0px; line-height: 21px; min-height: 0px; white-space: pre-wrap; color: rgb(33, 33, 33); font-family: Helvetica, Arial, sans-serif; font-style: normal; font-size: 14px; font-weight: 400; text-align: left;  }
+.CodeBlock { background-color: #F5F5F5; margin: 10px 0 10px 0; }
+.S2 { border-left: 1px solid rgb(217, 217, 217); border-right: 1px solid rgb(217, 217, 217); border-top: 1px solid rgb(217, 217, 217); border-bottom: 0px none rgb(33, 33, 33); border-radius: 4px 4px 0px 0px; padding: 6px 45px 0px 13px; line-height: 18.004px; min-height: 0px; white-space: nowrap; color: rgb(33, 33, 33); font-family: Menlo, Monaco, Consolas, "Courier New", monospace; font-size: 14px;  }
+.S3 { border-left: 1px solid rgb(217, 217, 217); border-right: 1px solid rgb(217, 217, 217); border-top: 0px none rgb(33, 33, 33); border-bottom: 1px solid rgb(217, 217, 217); border-radius: 0px; padding: 0px 45px 4px 13px; line-height: 18.004px; min-height: 0px; white-space: nowrap; color: rgb(33, 33, 33); font-family: Menlo, Monaco, Consolas, "Courier New", monospace; font-size: 14px;  }
+.S4 { color: rgb(33, 33, 33); padding: 10px 0px 6px 17px; background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box; font-family: Menlo, Monaco, Consolas, "Courier New", monospace; font-size: 14px; overflow-x: hidden; line-height: 17.234px;  }
+/* Styling that is common to warnings and errors is in diagnosticOutput.css */.embeddedOutputsErrorElement {    min-height: 18px;    max-height: 550px;}
+.embeddedOutputsErrorElement .diagnosticMessage-errorType {    overflow: auto;}
+.embeddedOutputsErrorElement.inlineElement {}
+.embeddedOutputsErrorElement.rightPaneElement {}
+/* Styling that is common to warnings and errors is in diagnosticOutput.css */.embeddedOutputsWarningElement {    min-height: 18px;    max-height: 550px;}
+.embeddedOutputsWarningElement .diagnosticMessage-warningType {    overflow: auto;}
+.embeddedOutputsWarningElement.inlineElement {}
+.embeddedOutputsWarningElement.rightPaneElement {}
+/* Copyright 2015-2023 The MathWorks, Inc. *//* In this file, styles are not scoped to rtcContainer since they could be in the Dojo Tooltip */.diagnosticMessage-wrapper {    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;    font-size: 12px;}
+.diagnosticMessage-wrapper.diagnosticMessage-warningType {    /*This fallback value will be used for appdesigner warnings*/    color: var(--rtc-warning-output-color, var(--mw-color-matlabWarning));}
+.diagnosticMessage-wrapper.diagnosticMessage-warningType a {    /*This fallback value will be used for appdesigner warnings*/    color: var(--rtc-warning-output-color, var(--mw-color-matlabWarning));    text-decoration: underline;}
+.rtcThemeDefaultOverride .diagnosticMessage-wrapper.diagnosticMessage-warningType,.rtcThemeDefaultOverride .diagnosticMessage-wrapper.diagnosticMessage-warningType a {    color: var(--mw-color-matlabWarning) !important;}
+.diagnosticMessage-wrapper.diagnosticMessage-errorType {    /*This fallback value will be used in appdesigner error tooltip text*/    color: var(--rtc-error-output-color, var(--mw-color-matlabErrors));}
+.diagnosticMessage-wrapper.diagnosticMessage-errorType a {    /*This fallback value will be used in appdesigner error tooltip text*/    color: var(--rtc-error-output-color, var(--mw-color-matlabErrors));    text-decoration: underline;}
+.rtcThemeDefaultOverride .diagnosticMessage-wrapper.diagnosticMessage-errorType,.rtcThemeDefaultOverride .diagnosticMessage-wrapper.diagnosticMessage-errorType a {    color: var(--mw-color-matlabErrors) !important;}
+.diagnosticMessage-wrapper .diagnosticMessage-messagePart,.diagnosticMessage-wrapper .diagnosticMessage-causePart {    white-space: pre-wrap;}
+.diagnosticMessage-wrapper .diagnosticMessage-stackPart {    white-space: pre;}
+.embeddedOutputsTextElement,.embeddedOutputsVariableStringElement {    white-space: pre;    word-wrap:  initial;    min-height: 18px;    max-height: 550px;}
+.embeddedOutputsTextElement .textElement,.embeddedOutputsVariableStringElement .textElement {    overflow: auto;}
+.textElement,.rtcDataTipElement .textElement {    padding-top: 2px;}
+.embeddedOutputsTextElement.inlineElement,.embeddedOutputsVariableStringElement.inlineElement {}
+.inlineElement .textElement {}
+.embeddedOutputsTextElement.rightPaneElement,.embeddedOutputsVariableStringElement.rightPaneElement {    min-height: 16px;}
+.rightPaneElement .textElement {    padding-top: 2px;    padding-left: 9px;}
+.S5 { margin: 10px 10px 9px 4px; padding: 0px; line-height: 21px; min-height: 0px; white-space: pre-wrap; color: rgb(33, 33, 33); font-family: Helvetica, Arial, sans-serif; font-style: normal; font-size: 14px; font-weight: 400; text-align: left;  }
+.S6 { border-left: 1px solid rgb(217, 217, 217); border-right: 1px solid rgb(217, 217, 217); border-top: 0px none rgb(33, 33, 33); border-bottom: 0px none rgb(33, 33, 33); border-radius: 0px; padding: 0px 45px 0px 13px; line-height: 18.004px; min-height: 0px; white-space: nowrap; color: rgb(33, 33, 33); font-family: Menlo, Monaco, Consolas, "Courier New", monospace; font-size: 14px;  }</style></head><body><div class = rtcContent><h1  class = 'S0'><span style=' font-weight: bold;'>ThermOptiCS</span></h1><div  class = 'S1'><span>ThermOptiCS (TOCS) is an algorithm for constructing thermodynamically consistent context-specific metabolic models (CSMs). CSMs are reduced versions of GEMs tailored to specific conditions or environments, often based on transcriptomic data. TOCS ensures that the generated CSMs are not only flux-consistent but also thermodynamically consistent, leading to more accurate and reliable predictions. This is particularly important for studying metabolic phenotypes under specific conditions, such as disease states or during bioproduction processes. TOCS takes a GEM, core reactions derived from transcriptomic data, and TICs (identified by TOE) as inputs. It outputs a CSM that includes only the reactions necessary to sustain flux through the core reactions while adhering to thermodynamic consistency. In this tutorial, we take a random set of reactions from the GEM as core reactions and constructs a thermodyncamically consistent model.</span></div><div  class = 'S1'><span style=' font-weight: bold;'>Reading the COBRA model (The model should have the following fields: S, lb, ub, rxns)</span></div><div class="CodeBlock"><div class="inlineWrapper"><div  class = 'S2'><span style="white-space: pre"><span >fileName = </span><span style="color: #a709f5;">'iAF1260.mat'</span><span >;</span></span></div></div><div class="inlineWrapper outputs"><div  class = 'S3'><span style="white-space: pre"><span >model = readCbModel(fileName);</span></span></div><div  class = 'S4'><div class="inlineElement eoOutputWrapper disableDefaultGestureHandling embeddedOutputsTextElement" uid="14B03702" prevent-scroll="true" data-testid="output_0" tabindex="-1" style="width: 1129px; white-space: pre; font-style: normal; color: rgb(33, 33, 33); font-size: 12px;"><div class="textElement eoOutputContent" tabindex="-1" data-previous-available-width="1092" data-previous-scroll-height="17" data-hashorizontaloverflow="false" style="max-height: 261px; white-space: pre; font-style: normal; color: rgb(33, 33, 33); font-size: 12px;">Each model.subSystems{x} is a character array, and this format is retained.</div></div></div></div></div><div  class = 'S5'><span style=' font-weight: bold;'>The input GEM to the TOCS should not have any blocked reactions in it hence by default TOCC is run on the GEM to remove the blocked reactions. Also the core reactions are also removed if it is thermodynamically blocked</span></div><div class="CodeBlock"><div class="inlineWrapper"><div  class = 'S2'><span style="white-space: pre"><span >tol = 1e-5;</span></span></div></div><div class="inlineWrapper"><div  class = 'S6'><span style="white-space: pre"><span style="color: #008013;">% selecting a 500 random reaction ids as core reactions.</span></span></div></div><div class="inlineWrapper"><div  class = 'S6'><span style="white-space: pre"><span >core = randsample(1:numel(model.rxns),500);</span></span></div></div><div class="inlineWrapper outputs"><div  class = 'S3'><span style="white-space: pre"><span >[CSM,bCoreRxns,TICs,Dir,CSM_TIC,CSM_Dir] = ThermOptiCS(model,core,tol);</span></span></div><div  class = 'S4'><div class="inlineElement eoOutputWrapper disableDefaultGestureHandling embeddedOutputsWarningElement" uid="25CF1698" prevent-scroll="true" data-testid="output_1" tabindex="-1" style="width: 1129px; white-space: normal; font-style: normal; color: rgb(33, 33, 33); font-size: 12px;"><div class="diagnosticMessage-wrapper diagnosticMessage-warningType eoOutputContent" tabindex="-1" data-previous-available-width="1092" data-previous-scroll-height="19" data-hashorizontaloverflow="false" style="max-height: 261px; white-space: normal; font-style: normal; color: rgb(179, 98, 5); font-size: 12px;"><div class="diagnosticMessage-messagePart" style="white-space: pre-wrap; font-style: normal; color: rgb(179, 98, 5); font-size: 12px;">Warning: Few reactions in the core reaction list are thermodynamically blocked</div><div class="diagnosticMessage-stackPart" style="white-space: pre; font-style: normal; color: rgb(179, 98, 5); font-size: 12px;"></div></div></div><div class="inlineElement eoOutputWrapper disableDefaultGestureHandling embeddedOutputsTextElement" uid="B9988836" prevent-scroll="true" data-testid="output_2" tabindex="-1" style="width: 1129px; white-space: pre; font-style: normal; color: rgb(33, 33, 33); font-size: 12px;"><div class="textElement eoOutputContent" tabindex="-1" data-previous-available-width="1092" data-previous-scroll-height="17" data-hashorizontaloverflow="false" style="max-height: 261px; white-space: pre; font-style: normal; color: rgb(33, 33, 33); font-size: 12px;"> Thermodynamically blocked reactions will be removed from core reaction list</div></div><div class="inlineElement eoOutputWrapper disableDefaultGestureHandling embeddedOutputsWarningElement" uid="6D69E515" prevent-scroll="true" data-testid="output_3" tabindex="-1" style="width: 1129px; white-space: normal; font-style: normal; color: rgb(33, 33, 33); font-size: 12px;"><div class="diagnosticMessage-wrapper diagnosticMessage-warningType eoOutputContent" tabindex="-1" data-previous-available-width="1092" data-previous-scroll-height="19" data-hashorizontaloverflow="false" style="max-height: 261px; white-space: normal; font-style: normal; color: rgb(179, 98, 5); font-size: 12px;"><div class="diagnosticMessage-messagePart" style="white-space: pre-wrap; font-style: normal; color: rgb(179, 98, 5); font-size: 12px;">Warning: Time limit reached, solution might not be optimal (gurobi)</div><div class="diagnosticMessage-stackPart" style="white-space: pre; font-style: normal; color: rgb(179, 98, 5); font-size: 12px;"></div></div></div></div></div></div><div  class = 'S5'><span>The definition of each of the variables is as shown below:</span></div><div  class = 'S1'><span style=' font-weight: bold;'>CSM: </span><span>The compact, consistent context-specific model built by tailoring the model</span></div><div  class = 'S1'><span style=' font-weight: bold;'>bCoreRxns: </span><span>The input core reactions that are identified to be blocked and hence has to be removed from the GEM</span></div><div  class = 'S1'><span style=' font-weight: bold;'>TICs: </span><span>The list of TICs for the input GEM</span></div><div  class = 'S1'><span style=' font-weight: bold;'>Dir: </span><span>The corresponding list of directions of the TICs in the GEM</span></div><div  class = 'S1'><span style=' font-weight: bold;'>CSM_TIC: </span><span>The list of TICs for the ouput CSM model</span></div><div  class = 'S1'><span style=' font-weight: bold;'>CSM_Dir: </span><span>The corresponding list of directions of the TICs in the CSM</span></div><div  class = 'S1'><span></span></div><div  class = 'S1'><span>The TOCS algorithm includes a configurable </span><span style=' font-family: monospace;'>timeLimit</span><span> parameter, with a default value of 120 seconds. This parameter caps the execution time of each individual </span><span style=' font-family: monospace;'>findMinNetwork</span><span> mixed-integer linear program (MILP) problem. By adjusting this limit, users can trade off computational efficiency for solution quality, potentially leading to more compact solutions</span></div><div  class = 'S1'><span style=' font-weight: bold;'>Checking for the presence of thermodynamically blocked reactions in the CSM</span></div><div class="CodeBlock"><div class="inlineWrapper"><div  class = 'S2'><span style="white-space: pre"><span >a = ThermOptCC(CSM,tol,CSM_TIC,CSM_Dir);</span></span></div></div><div class="inlineWrapper"><div  class = 'S6'><span style="white-space: pre"><span >nBlkd = sum(ismember(a,</span><span style="color: #a709f5;">'Blocked'</span><span >));</span></span></div></div><div class="inlineWrapper outputs"><div  class = 'S3'><span style="white-space: pre"><span >fprintf(</span><span style="color: #a709f5;">'The number of blocked reactions in the CSM is %d'</span><span >,nBlkd)</span></span></div><div  class = 'S4'><div class="inlineElement eoOutputWrapper disableDefaultGestureHandling embeddedOutputsTextElement" uid="82809055" prevent-scroll="true" data-testid="output_4" tabindex="-1" style="width: 1129px; white-space: pre; font-style: normal; color: rgb(33, 33, 33); font-size: 12px;"><div class="textElement eoOutputContent" tabindex="-1" data-previous-available-width="1092" data-previous-scroll-height="17" data-hashorizontaloverflow="false" style="max-height: 261px; white-space: pre; font-style: normal; color: rgb(33, 33, 33); font-size: 12px;">The number of blocked reactions in the CSM is 0</div></div></div></div></div><div  class = 'S5'><span></span></div><div  class = 'S1'></div>
+<br>
+<!-- 
+##### SOURCE BEGIN #####
+%% *ThermOptiCS*
+% ThermOptiCS (TOCS) is an algorithm for constructing thermodynamically consistent 
+% context-specific metabolic models (CSMs). CSMs are reduced versions of GEMs 
+% tailored to specific conditions or environments, often based on transcriptomic 
+% data. TOCS ensures that the generated CSMs are not only flux-consistent but 
+% also thermodynamically consistent, leading to more accurate and reliable predictions. 
+% This is particularly important for studying metabolic phenotypes under specific 
+% conditions, such as disease states or during bioproduction processes. TOCS takes 
+% a GEM, core reactions derived from transcriptomic data, and TICs (identified 
+% by TOE) as inputs. It outputs a CSM that includes only the reactions necessary 
+% to sustain flux through the core reactions while adhering to thermodynamic consistency. 
+% In this tutorial, we take a random set of reactions from the GEM as core reactions 
+% and constructs a thermodyncamically consistent model.
+% 
+% *Reading the COBRA model (The model should have the following fields: S, lb, 
+% ub, rxns)*
+
+fileName = 'iAF1260.mat';
+model = readCbModel(fileName);
+%% 
+% *The input GEM to the TOCS should not have any blocked reactions in it hence 
+% by default TOCC is run on the GEM to remove the blocked reactions. Also the 
+% core reactions are also removed if it is thermodynamically blocked*
+
+tol = 1e-5;
+% selecting a 500 random reaction ids as core reactions.
+core = randsample(1:numel(model.rxns),500);
+[CSM,bCoreRxns,TICs,Dir,CSM_TIC,CSM_Dir] = ThermOptiCS(model,core,tol);
+%% 
+% The definition of each of the variables is as shown below:
+% 
+% *CSM:* The compact, consistent context-specific model built by tailoring the 
+% model
+% 
+% *bCoreRxns:* The input core reactions that are identified to be blocked and 
+% hence has to be removed from the GEM
+% 
+% *TICs:* The list of TICs for the input GEM
+% 
+% *Dir:* The corresponding list of directions of the TICs in the GEM
+% 
+% *CSM_TIC:* The list of TICs for the ouput CSM model
+% 
+% *CSM_Dir:* The corresponding list of directions of the TICs in the CSM
+% 
+% 
+% 
+% The TOCS algorithm includes a configurable |timeLimit| parameter, with a default 
+% value of 120 seconds. This parameter caps the execution time of each individual 
+% |findMinNetwork| mixed-integer linear program (MILP) problem. By adjusting this 
+% limit, users can trade off computational efficiency for solution quality, potentially 
+% leading to more compact solutions
+%% 
+% *Checking for the presence of thermodynamically blocked reactions in the CSM*
+
+a = ThermOptCC(CSM,tol,CSM_TIC,CSM_Dir);
+nBlkd = sum(ismember(a,'Blocked'));
+fprintf('The number of blocked reactions in the CSM is %d',nBlkd)
+%% 
+% 
+% 
+%
+##### SOURCE END #####
+-->
+</div></body></html>
