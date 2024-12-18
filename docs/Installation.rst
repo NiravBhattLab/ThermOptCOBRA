@@ -16,7 +16,7 @@ ThermOptCOBRA-set of packages can be easily obtained using the **git** version c
 
 .. code-block:: console
 
-    $ git clone https://github.com/NiravBhattLab/ThermOptCOBRA.git
+    $ git clone https://github.com/_______________
 
 .. _COBRAToolbox: https://opencobra.github.io/cobratoolbox/stable/installation.html
 .. _MATLAB: https://www.mathworks.com/help/install/ug/install-products-with-internet-connection.html
