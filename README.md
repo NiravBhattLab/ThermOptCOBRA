@@ -1,5 +1,5 @@
 # ThermOptCOBRA
-Codes for "Thermodynamically Consistent Construction and Analysis of Genome-Scale Metabolic Models"   
+Codes for "ThermOptCobra: Thermodynamically Optimal Construction and Analysis of Metabolic Networks for Reliable Phenotypes"   
 
 Authors: Pavan Kumar S and Nirav P Bhatt
 <p align="center">
