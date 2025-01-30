@@ -5,8 +5,8 @@ sys.path.insert(0, os.path.abspath('..'))
 # -- Project information -----------------------------------------------------
 
 project = 'ThermOptCobra'
-copyright = '2024, AAA'
-author = 'AAA and BBB'
+copyright = '2024, Pavan'
+author = 'Pavan and Nirav'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'
