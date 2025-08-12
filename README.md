@@ -6,6 +6,8 @@ Authors: Pavan Kumar S and Nirav P Bhatt
   <img src="https://github.com/NiravBhattLab/ThermOptiCOBRA/blob/main/PaperThermOptCOBRA/Figures/BioRenderFigures/OverviewOfTOCS.png" alt="ThermOptiCS" width="500"/>
 </p>
 
+Link to the manuscript: https://www.sciencedirect.com/science/article/pii/S2589004225012660
+
 **PaperThermOptCOBRA:**
 Codes required to recreate all the results and figures shown in the article
 
