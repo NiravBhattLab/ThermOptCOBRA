@@ -58,12 +58,22 @@ for i=1:numel(TICs)
     TICmat(i,ids)=1;
 end
 
-core = 1:n; newCore = [];
-while numel(core)~=numel(newCore)
-    newCore = core;
-    IDS = findConsistentIDS(modelIrrev,core,TICmat,rev2irrev,tol);
-    core = setdiff(core,IDS);
+core = 1:n; 
+runtime=60;
+while 1
+    [IDS,stat] = findConsistentIDS(modelIrrev,core,TICmat,rev2irrev,tol,runtime);
+    if isempty(IDS)
+        if stat==3
+            runtime = runtime+60;
+            continue
+        else
+            break
+        end
+    else
+        core = setdiff(core,IDS);        
+    end
 end
+
 consIrr = double(~ismember([1:n],core)); % consistent irreversible reactions
 a = cellfun(@(x)getConsDir(consIrr,x),rev2irrev,'UniformOutput',0);
 end

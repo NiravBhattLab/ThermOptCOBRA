@@ -1,4 +1,4 @@
-function reacInd = findConsistentIDS(model,core,TICmat,rev2irrev,tol)
+function [reacInd,stat] = findConsistentIDS(model,core,TICmat,rev2irrev,tol,runtime)
 % Identifies the thermodynamically consistent IDs for the given input irreversible reaction model
 % 
 %
@@ -11,6 +11,7 @@ function reacInd = findConsistentIDS(model,core,TICmat,rev2irrev,tol)
 %     TICmat:    Matlab matrix with information on TICs in the model
 %     rev2irrev: Mapping between the reversible reactions to its corresponding irreversible reactions
 %     tol:       Minimum positive number defined as non-zero
+%     runtime:   Maximum runtime for the MILP problem
 %
 % OUTPUTS:
 %     reacInd:   Indices of reactions that are identified to be thermodynamically consistent
@@ -72,13 +73,13 @@ MILPproblem.c=f;
 MILPproblem.osense=-1;%maximise
 MILPproblem.vartype = [repmat('C',n,1);repmat('B',n,1)];
 MILPproblem.csense = [csenseeq; csenseineq1; csenseineq2; csenseineq3; csenseineq4];
-solution = solveCobraMILP(MILPproblem);
+solution = solveCobraMILP(MILPproblem, 'timeLimit', runtime);
 stat=solution.stat;
-if stat~=1
-    x = [];
-    reacInd = [];
-else
+if stat==1||stat==3
     x=solution.full;
     reacInd = intersect(find(x(n+1:end)>=0.5),core);
+else
+    x = [];
+    reacInd = [];
 end
 end
