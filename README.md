@@ -8,11 +8,12 @@ Authors: Pavan Kumar S and Nirav P Bhatt
 
 Link to the manuscript: https://www.sciencedirect.com/science/article/pii/S2589004225012660
 
-**PaperThermOptCOBRA:**
-Codes required to recreate all the results and figures shown in the article
 
 **ThermOptCOBRA:**
 Matlab codes of the algorithms developed in this work
+
+**To reproduce the results:**
+Codes for repducing all the figures and tables in the manuscript can be obtained from: https://github.com/NiravBhattLab/ThermOptCOBRA/tree/paper_codes
 
 **Documentation**
 For detailed usage instructions refer to: https://thermoptcobra.readthedocs.io/en/latest/
